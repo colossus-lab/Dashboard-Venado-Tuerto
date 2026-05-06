@@ -1,0 +1,395 @@
+{
+  "meta": {
+    "id": "gobierno/personal-municipal",
+    "title": "Personal Municipal",
+    "category": "gobierno",
+    "description": "Información sobre los agentes municipales de Venado Tuerto: vínculo laboral, categoría escalafonaria, fecha de ingreso y escala salarial vigente.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/dataset/personal-municipal",
+    "license": "Creative Commons Attribution",
+    "last_updated": "2026-03-27T16:58:10.354883",
+    "organization": "Gobierno"
+  },
+  "kpis": [
+    {
+      "id": "total",
+      "label": "Total agentes",
+      "value": 1345,
+      "formatted": "1.345",
+      "unit": "personas"
+    },
+    {
+      "id": "pct-permanente",
+      "label": "Personal permanente",
+      "value": 72.11895910780669,
+      "formatted": "72,1%",
+      "status": "good",
+      "hint": "970 de 1.345 agentes"
+    },
+    {
+      "id": "antiguedad",
+      "label": "Antigüedad promedio",
+      "value": 12.8,
+      "formatted": "12,8",
+      "unit": "años"
+    },
+    {
+      "id": "masa-salarial",
+      "label": "Masa salarial estimada",
+      "value": 629626043,
+      "formatted": "$ 629.626.043",
+      "hint": "Mensual base · escala 2025-01"
+    }
+  ],
+  "charts": [
+    {
+      "id": "tipo-vinculo",
+      "type": "horizontalBar",
+      "title": "Agentes por tipo de vínculo laboral",
+      "subtitle": "Personal permanente, contratado, gabinete y otros.",
+      "data": [
+        {
+          "tipo": "Personal Permanente",
+          "agentes": 970
+        },
+        {
+          "tipo": "Personal Contratado",
+          "agentes": 341
+        },
+        {
+          "tipo": "Gabinete",
+          "agentes": 19
+        },
+        {
+          "tipo": "Departamento Ejecutivo",
+          "agentes": 13
+        },
+        {
+          "tipo": "Ordenanza Nº 4385/2013",
+          "agentes": 1
+        },
+        {
+          "tipo": "Ordenanza Nº 5802/2024",
+          "agentes": 1
+        }
+      ],
+      "config": {
+        "indexBy": "tipo",
+        "keys": [
+          "agentes"
+        ]
+      }
+    },
+    {
+      "id": "categoria",
+      "type": "bar",
+      "title": "Agentes por categoría escalafonaria",
+      "subtitle": "Distribución por escala salarial.",
+      "data": [
+        {
+          "categoria": "Cat. 09",
+          "agentes": 274
+        },
+        {
+          "categoria": "Cat. 10",
+          "agentes": 68
+        },
+        {
+          "categoria": "Cat. 11",
+          "agentes": 75
+        },
+        {
+          "categoria": "Cat. 12",
+          "agentes": 83
+        },
+        {
+          "categoria": "Cat. 13",
+          "agentes": 41
+        },
+        {
+          "categoria": "Cat. 14",
+          "agentes": 38
+        },
+        {
+          "categoria": "Cat. 15",
+          "agentes": 377
+        },
+        {
+          "categoria": "Cat. 16",
+          "agentes": 25
+        },
+        {
+          "categoria": "Cat. 17",
+          "agentes": 98
+        },
+        {
+          "categoria": "Cat. 18",
+          "agentes": 32
+        },
+        {
+          "categoria": "Cat. 19",
+          "agentes": 78
+        },
+        {
+          "categoria": "Cat. 20",
+          "agentes": 16
+        },
+        {
+          "categoria": "Cat. 21",
+          "agentes": 29
+        },
+        {
+          "categoria": "Cat. 23",
+          "agentes": 18
+        }
+      ],
+      "config": {
+        "indexBy": "categoria",
+        "keys": [
+          "agentes"
+        ]
+      }
+    },
+    {
+      "id": "ingresos-anio",
+      "type": "area",
+      "title": "Ingresos al municipio por año",
+      "subtitle": "Cantidad de agentes que ingresaron cada año (1990–2026).",
+      "data": [
+        {
+          "anio": "1990",
+          "ingresos": 3
+        },
+        {
+          "anio": "1991",
+          "ingresos": 2
+        },
+        {
+          "anio": "1992",
+          "ingresos": 7
+        },
+        {
+          "anio": "1993",
+          "ingresos": 3
+        },
+        {
+          "anio": "1994",
+          "ingresos": 7
+        },
+        {
+          "anio": "1995",
+          "ingresos": 14
+        },
+        {
+          "anio": "1996",
+          "ingresos": 26
+        },
+        {
+          "anio": "1997",
+          "ingresos": 26
+        },
+        {
+          "anio": "1998",
+          "ingresos": 22
+        },
+        {
+          "anio": "1999",
+          "ingresos": 14
+        },
+        {
+          "anio": "2000",
+          "ingresos": 17
+        },
+        {
+          "anio": "2001",
+          "ingresos": 8
+        },
+        {
+          "anio": "2002",
+          "ingresos": 3
+        },
+        {
+          "anio": "2003",
+          "ingresos": 12
+        },
+        {
+          "anio": "2004",
+          "ingresos": 17
+        },
+        {
+          "anio": "2005",
+          "ingresos": 35
+        },
+        {
+          "anio": "2006",
+          "ingresos": 66
+        },
+        {
+          "anio": "2007",
+          "ingresos": 58
+        },
+        {
+          "anio": "2008",
+          "ingresos": 36
+        },
+        {
+          "anio": "2009",
+          "ingresos": 27
+        },
+        {
+          "anio": "2010",
+          "ingresos": 53
+        },
+        {
+          "anio": "2011",
+          "ingresos": 58
+        },
+        {
+          "anio": "2012",
+          "ingresos": 48
+        },
+        {
+          "anio": "2013",
+          "ingresos": 41
+        },
+        {
+          "anio": "2014",
+          "ingresos": 24
+        },
+        {
+          "anio": "2015",
+          "ingresos": 64
+        },
+        {
+          "anio": "2016",
+          "ingresos": 56
+        },
+        {
+          "anio": "2017",
+          "ingresos": 55
+        },
+        {
+          "anio": "2018",
+          "ingresos": 57
+        },
+        {
+          "anio": "2019",
+          "ingresos": 179
+        },
+        {
+          "anio": "2020",
+          "ingresos": 31
+        },
+        {
+          "anio": "2021",
+          "ingresos": 28
+        },
+        {
+          "anio": "2022",
+          "ingresos": 41
+        },
+        {
+          "anio": "2023",
+          "ingresos": 49
+        },
+        {
+          "anio": "2024",
+          "ingresos": 39
+        },
+        {
+          "anio": "2025",
+          "ingresos": 88
+        },
+        {
+          "anio": "2026",
+          "ingresos": 29
+        }
+      ],
+      "config": {
+        "indexBy": "anio",
+        "keys": [
+          "ingresos"
+        ]
+      }
+    }
+  ],
+  "tables": [
+    {
+      "id": "escala-salarial",
+      "title": "Escala salarial vigente (2025-01)",
+      "columns": [
+        "Categoría",
+        "Sueldo básico mensual"
+      ],
+      "rows": [
+        [
+          "Categoría 08",
+          "$ 327.450"
+        ],
+        [
+          "Categoría 09",
+          "$ 352.548"
+        ],
+        [
+          "Categoría 10",
+          "$ 365.633"
+        ],
+        [
+          "Categoría 11",
+          "$ 388.559"
+        ],
+        [
+          "Categoría 12",
+          "$ 408.204"
+        ],
+        [
+          "Categoría 13",
+          "$ 434.402"
+        ],
+        [
+          "Categoría 14",
+          "$ 467.147"
+        ],
+        [
+          "Categoría 15",
+          "$ 509.715"
+        ],
+        [
+          "Categoría 16",
+          "$ 588.303"
+        ],
+        [
+          "Categoría 17",
+          "$ 604.673"
+        ],
+        [
+          "Categoría 18",
+          "$ 637.418"
+        ],
+        [
+          "Categoría 19",
+          "$ 828.426"
+        ],
+        [
+          "Categoría 20",
+          "$ 858.988"
+        ],
+        [
+          "Categoría 21",
+          "$ 912.472"
+        ],
+        [
+          "Categoría 22",
+          "$ 950.670"
+        ],
+        [
+          "Categoría 23",
+          "$ 1.012.884"
+        ],
+        [
+          "Categoría 24",
+          "$ 1.058.731"
+        ]
+      ]
+    }
+  ]
+}

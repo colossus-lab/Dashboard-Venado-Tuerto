@@ -1,0 +1,1660 @@
+{
+  "source": "https://datos-abiertos.venadotuerto.gob.ar/",
+  "api": "https://datos-abiertos.venadotuerto.gob.ar/api/3/action/current_package_list_with_resources",
+  "fetched_at": "2026-05-06T14:43:40.307Z",
+  "ckan_version": "2.10",
+  "license_note": "Datos publicados por la Municipalidad de Venado Tuerto bajo licencias abiertas (CC-BY / ODC-BY). Citar la fuente al reutilizar.",
+  "total_datasets": 27,
+  "total_files": 88,
+  "total_bytes": 2963506,
+  "groups": {
+    "educacion": "Educación",
+    "obras-publicas": "Obras públicas",
+    "politicas-verdes": "Politicas Verdes",
+    "profesionalizacion": "Profesionalización",
+    "seguridad": "Seguridad"
+  },
+  "datasets": [
+    {
+      "id": "carnets-de-manipulacion-de-alimentos-2025",
+      "title": "Carnets de manipulación de alimentos",
+      "category": "control-urbano-y-convivencia",
+      "category_label": "control-urbano-y-convivencia",
+      "organization": "Control urbano y convivencia",
+      "organization_slug": "control-urbano-y-convivencia",
+      "license": "Creative Commons Attribution",
+      "notes": "Carnets de manipulación de alimentos entregados por la Dirección de Seguridad Alimentaria.",
+      "tags": [
+        "carnet de manipulación de alimentos",
+        "manipulación alimentaria",
+        "manipulación de alimentos"
+      ],
+      "created": "2026-03-21T21:41:39.013411",
+      "last_updated": "2026-03-26T17:23:10.673920",
+      "source_url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/carnets-de-manipulacion-de-alimentos-2025",
+      "resources": [
+        {
+          "ckan_resource_id": "c6b1c2f8-9784-4f21-b89d-b1f1cb3cd020",
+          "name": "carnet_manipulacion_2025.csv",
+          "format": "CSV",
+          "description": "Carnets de manipulación de alimentos emitidos por la Dirección de Seguridad Alimentaria durante 2025.",
+          "created": "2026-03-21T21:42:19.563707",
+          "last_modified": "2026-03-21T21:42:19.540923",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/fe855c7f-0f21-4fc0-8989-80efa4239180/resource/c6b1c2f8-9784-4f21-b89d-b1f1cb3cd020/download/carnet_manipulacion_2025.csv",
+          "local_path": "data/raw/control-urbano-y-convivencia/carnets-de-manipulacion-de-alimentos-2025.csv",
+          "size_bytes": 166,
+          "sha256": "3e213207a218904a37f393d9e928d961b0942c1a764750c7b6a14808182a7482"
+        }
+      ]
+    },
+    {
+      "id": "decomisos-seguridad-alimentaria-2024",
+      "title": "Decomisos Seguridad Alimentaria",
+      "category": "control-urbano-y-convivencia",
+      "category_label": "control-urbano-y-convivencia",
+      "organization": "Control urbano y convivencia",
+      "organization_slug": "control-urbano-y-convivencia",
+      "license": "Open Data Commons Attribution License",
+      "notes": "Cantidad de kg y l de alimentos decomisados a raíz de actuaciones de la Dirección de Seguridad Alimentaria.",
+      "tags": [
+        "alimentos",
+        "decomiso",
+        "seguridad",
+        "seguridad alimentaria"
+      ],
+      "created": "2026-01-28T19:03:22.735237",
+      "last_updated": "2026-04-03T13:58:43.990542",
+      "source_url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/decomisos-seguridad-alimentaria-2024",
+      "resources": [
+        {
+          "ckan_resource_id": "12997bbf-987d-481b-a8dc-674daf97d0c9",
+          "name": "decomisos_sa_2024.csv",
+          "format": "CSV",
+          "description": "Kilogramos y litros de alimentos decomisados por actuación de la Dirección de Seguridad alimentaria durante 2024.",
+          "created": "2026-01-28T19:04:08.622046",
+          "last_modified": "2026-01-28T19:04:08.588268",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/2e0d288d-f29c-45d7-af65-f52e4bf8e62a/resource/12997bbf-987d-481b-a8dc-674daf97d0c9/download/sa_2024.csv",
+          "local_path": "data/raw/control-urbano-y-convivencia/decomisos-seguridad-alimentaria-2024-decomisos-sa-2024.csv",
+          "size_bytes": 277,
+          "sha256": "6166b620308fe85d15960962bb9742158b51463ff54a630b36e40e0c85cc22fe"
+        },
+        {
+          "ckan_resource_id": "fa59412e-ada9-44f0-91dc-595a432c3665",
+          "name": "decomisos_sa_2025.csv",
+          "format": "CSV",
+          "description": "Kilogramos y litros de alimentos decomisados por actuación de la Dirección de Seguridad alimentaria durante 2025.",
+          "created": "2026-03-26T17:21:37.862272",
+          "last_modified": "2026-03-26T17:21:37.830185",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/2e0d288d-f29c-45d7-af65-f52e4bf8e62a/resource/fa59412e-ada9-44f0-91dc-595a432c3665/download/decomisos_sa_2025.csv",
+          "local_path": "data/raw/control-urbano-y-convivencia/decomisos-seguridad-alimentaria-2024-decomisos-sa-2025.csv",
+          "size_bytes": 303,
+          "sha256": "022d329951c3369c4628fab66b8e118f6ccb2cac207b1fdc4d58c0235e1ec225"
+        }
+      ]
+    },
+    {
+      "id": "licencias-de-conducir-2025",
+      "title": "Licencias de conducir",
+      "category": "control-urbano-y-convivencia",
+      "category_label": "control-urbano-y-convivencia",
+      "organization": "Control urbano y convivencia",
+      "organization_slug": "control-urbano-y-convivencia",
+      "license": "Creative Commons Attribution",
+      "notes": "Licencias emitidas desagregadas por sexo, localidad, tipo de trámite y clase.",
+      "tags": [
+        "carnet conductor",
+        "carnet de conducir",
+        "licencias",
+        "licencias conducir",
+        "tránsito"
+      ],
+      "created": "2026-03-18T14:01:48.639232",
+      "last_updated": "2026-04-03T14:02:50.293646",
+      "source_url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/licencias-de-conducir-2025",
+      "resources": [
+        {
+          "ckan_resource_id": "a2aff566-14b0-4c61-b941-19a15f33b357",
+          "name": "licencias_emitidas_enero_junio_2025",
+          "format": "CSV",
+          "description": "Licencias emitidas desde enero hasta junio de 2025.",
+          "created": "2026-03-18T14:03:12.970782",
+          "last_modified": "2026-03-26T17:18:26.451170",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/4f1a76d6-c86c-4626-965d-130bb5fa50bc/resource/a2aff566-14b0-4c61-b941-19a15f33b357/download/licencias_emitidas_enero_junio_2025.csv",
+          "local_path": "data/raw/control-urbano-y-convivencia/licencias-de-conducir-2025-licencias-emitidas-enero-junio-2025.csv",
+          "size_bytes": 518868,
+          "sha256": "d8277d865c727b9c8c61d7137ec34fc11f9acbd139a271ceeeb0e9e7de57fd17"
+        },
+        {
+          "ckan_resource_id": "5cfa7f18-5fa5-469e-ad6a-7d3e3749e8f3",
+          "name": "licencias_emitidas_julio_diciembre.csv",
+          "format": "CSV",
+          "description": "Licencias emitidas desde julio hasta diciembre de 2025.",
+          "created": "2026-03-26T17:17:23.922392",
+          "last_modified": "2026-03-26T17:18:54.721875",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/4f1a76d6-c86c-4626-965d-130bb5fa50bc/resource/5cfa7f18-5fa5-469e-ad6a-7d3e3749e8f3/download/licencias_emitidas_julio_diciembre_2025.csv",
+          "local_path": "data/raw/control-urbano-y-convivencia/licencias-de-conducir-2025-licencias-emitidas-julio-diciembre.csv",
+          "size_bytes": 632511,
+          "sha256": "cc5de17d65257fc5fb43126fcca142edae48a57ed1290a4fb5a41eb7061fc156"
+        }
+      ]
+    },
+    {
+      "id": "vehiculos-abandonados",
+      "title": "Vehículos abandonados",
+      "category": "control-urbano-y-convivencia",
+      "category_label": "control-urbano-y-convivencia",
+      "organization": "Control urbano y convivencia",
+      "organization_slug": "control-urbano-y-convivencia",
+      "license": "Creative Commons Attribution",
+      "notes": "Vehículos detectados como abandonados en la vía pública y retirados por sus dueños previa notificación de Inspección General, puestos en funcionamiento o enviados al corralón.",
+      "tags": [
+        "autos",
+        "chatarra",
+        "vehiculos",
+        "vehículos",
+        "via publica",
+        "vía pública"
+      ],
+      "created": "2026-03-26T16:47:51.413264",
+      "last_updated": "2026-04-03T14:12:56.637327",
+      "source_url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/vehiculos-abandonados",
+      "resources": [
+        {
+          "ckan_resource_id": "8adebad2-3d9c-4803-9d0f-c7d75e0d60fd",
+          "name": "vehículos_abandonados_2021.csv",
+          "format": "CSV",
+          "description": "Vehículos detectados como abandonados en la vía pública y retirados por sus dueños previa notificación de Inspección General, puestos en funcionamiento o enviados al corralón durante 2021.",
+          "created": "2026-03-26T16:49:35.124488",
+          "last_modified": "2026-03-26T16:49:35.097657",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/0f319c35-27c4-4256-8236-772a5c5e9762/resource/8adebad2-3d9c-4803-9d0f-c7d75e0d60fd/download/vehiculos_abandonados_2021.csv",
+          "local_path": "data/raw/control-urbano-y-convivencia/vehiculos-abandonados-2021.csv",
+          "size_bytes": 154,
+          "sha256": "ee8d12f8084ed20b770fca709da3abbf55512b01ecc2b9df0877f4866289b8a4"
+        },
+        {
+          "ckan_resource_id": "c07bf595-9b2c-4073-b3f3-3f36ab575ae6",
+          "name": "vehículos_abandonados_2023.csv",
+          "format": "CSV",
+          "description": "Vehículos detectados como abandonados en la vía pública y retirados por sus dueños previa notificación de Inspección General, puestos en funcionamiento o enviados al corralón durante 2023.",
+          "created": "2026-03-26T16:50:12.414633",
+          "last_modified": "2026-03-26T16:52:47.824008",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/0f319c35-27c4-4256-8236-772a5c5e9762/resource/c07bf595-9b2c-4073-b3f3-3f36ab575ae6/download/vehiculos_abandonados_-2023.csv",
+          "local_path": "data/raw/control-urbano-y-convivencia/vehiculos-abandonados-2023.csv",
+          "size_bytes": 212,
+          "sha256": "56f9d34b6747abd553a483a6da6d5f2cee8a0f8f9b493580a9c4ee050804e952"
+        },
+        {
+          "ckan_resource_id": "dc3d8744-d7d3-4c9c-863b-66418ded7a1b",
+          "name": "vehículos_abandonados_2022.csv",
+          "format": "CSV",
+          "description": "Vehículos detectados como abandonados en la vía pública y retirados por sus dueños previa notificación de Inspección General, puestos en funcionamiento o enviados al corralón durante 2022.\r\n",
+          "created": "2026-03-26T16:51:15.390536",
+          "last_modified": "2026-03-26T16:51:15.358389",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/0f319c35-27c4-4256-8236-772a5c5e9762/resource/dc3d8744-d7d3-4c9c-863b-66418ded7a1b/download/vehiculos_abandonados_2022.csv",
+          "local_path": "data/raw/control-urbano-y-convivencia/vehiculos-abandonados-2022.csv",
+          "size_bytes": 215,
+          "sha256": "8a12bba9838f332c07d817f1160dea942f7f4950111f92800fbb5e968def824e"
+        },
+        {
+          "ckan_resource_id": "0622a467-7d30-407d-855e-b6c1141985bb",
+          "name": "vehículos_abandonados_2024.csv",
+          "format": "CSV",
+          "description": "Vehículos detectados como abandonados en la vía pública y retirados por sus dueños previa notificación de Inspección General, puestos en funcionamiento o enviados al corralón durante 2024.\r\n",
+          "created": "2026-03-26T16:53:27.636135",
+          "last_modified": "2026-03-26T16:53:27.606672",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/0f319c35-27c4-4256-8236-772a5c5e9762/resource/0622a467-7d30-407d-855e-b6c1141985bb/download/vehiculos_abandonados_2024.csv",
+          "local_path": "data/raw/control-urbano-y-convivencia/vehiculos-abandonados-2024.csv",
+          "size_bytes": 183,
+          "sha256": "fd0ce868b187f7ee60b97746269e08bbb5f65505ba30aef12ffe762308091bb5"
+        },
+        {
+          "ckan_resource_id": "52f63b06-d7bc-4647-b27e-cd65307a80db",
+          "name": "vehículos_abandonados_2025.csv",
+          "format": "CSV",
+          "description": "Vehículos detectados como abandonados en la vía pública y retirados por sus dueños previa notificación de Inspección General, puestos en funcionamiento o enviados al corralón durante 2025.\r\n",
+          "created": "2026-03-26T16:53:42.526865",
+          "last_modified": "2026-03-26T16:53:42.479469",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/0f319c35-27c4-4256-8236-772a5c5e9762/resource/52f63b06-d7bc-4647-b27e-cd65307a80db/download/vehiculos_abandonados_2025.csv",
+          "local_path": "data/raw/control-urbano-y-convivencia/vehiculos-abandonados-2025.csv",
+          "size_bytes": 186,
+          "sha256": "b04f68e6eab796f3ff2a62b4bf4845612e871a5763d438aabfc82b5eb145bdb9"
+        }
+      ]
+    },
+    {
+      "id": "balances-de-tesoreria",
+      "title": "Balances de Tesorería",
+      "category": "desarrollo-economico",
+      "category_label": "desarrollo-economico",
+      "organization": "Desarrollo económico",
+      "organization_slug": "desarrollo-economico",
+      "license": "Creative Commons Attribution",
+      "notes": "Balances de Tesorería.\r\nPodés encontrar más información sobre este tema en https://venadotuerto.gob.ar/balances-de-tesoreria/  ",
+      "tags": [
+        "balance",
+        "balances",
+        "tesorería",
+        "transparencia"
+      ],
+      "created": "2026-03-21T22:40:15.536258",
+      "last_updated": "2026-04-02T11:01:39.079333",
+      "source_url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/balances-de-tesoreria",
+      "resources": [
+        {
+          "ckan_resource_id": "298be82e-c264-4c9a-a811-f68ebc4bac2b",
+          "name": "balance_2021.csv",
+          "format": "CSV",
+          "description": "Balance de Tesorería 2021.",
+          "created": "2026-03-21T22:43:51.368076",
+          "last_modified": "2026-04-01T17:16:29.821993",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/23dbd563-43e7-41be-b80c-d8e197d97ab9/resource/298be82e-c264-4c9a-a811-f68ebc4bac2b/download/balance_2021.csv",
+          "local_path": "data/raw/desarrollo-economico/balances-de-tesoreria-balance-2021.csv",
+          "size_bytes": 6867,
+          "sha256": "e6173dacf33d4f959baf6300964ee73d817455e7146af34ad11ce210417c5180"
+        },
+        {
+          "ckan_resource_id": "3621dbf6-3384-416a-9b15-c10be017372e",
+          "name": "balance_2022.csv",
+          "format": "CSV",
+          "description": "Balance 2022.",
+          "created": "2026-03-21T22:48:39.712214",
+          "last_modified": "2026-04-01T17:18:02.878946",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/23dbd563-43e7-41be-b80c-d8e197d97ab9/resource/3621dbf6-3384-416a-9b15-c10be017372e/download/balance_2022.csv",
+          "local_path": "data/raw/desarrollo-economico/balances-de-tesoreria-balance-2022.csv",
+          "size_bytes": 6992,
+          "sha256": "61a4c1f4ef506db41b00d2866dddac72ed622a1efbedc2c68f7906ca4899a8d0"
+        },
+        {
+          "ckan_resource_id": "d7750e25-0220-4653-9662-5209a600ec9d",
+          "name": "balance_2023.csv",
+          "format": "CSV",
+          "description": "Balance 2023.",
+          "created": "2026-03-21T22:48:52.016234",
+          "last_modified": "2026-04-01T17:18:28.884016",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/23dbd563-43e7-41be-b80c-d8e197d97ab9/resource/d7750e25-0220-4653-9662-5209a600ec9d/download/balance_2023.csv",
+          "local_path": "data/raw/desarrollo-economico/balances-de-tesoreria-balance-2023.csv",
+          "size_bytes": 7626,
+          "sha256": "9833f09d29671735c54eeb46ef536ab0226c8ff3df14bec5e8ce5277c2960c19"
+        },
+        {
+          "ckan_resource_id": "d5d86cc5-480f-44b5-8d07-d73935faf272",
+          "name": "balance_2024.csv",
+          "format": "CSV",
+          "description": "Balance 2024.",
+          "created": "2026-03-21T22:49:06.757482",
+          "last_modified": "2026-04-01T17:18:49.093104",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/23dbd563-43e7-41be-b80c-d8e197d97ab9/resource/d5d86cc5-480f-44b5-8d07-d73935faf272/download/balance_2024.csv",
+          "local_path": "data/raw/desarrollo-economico/balances-de-tesoreria-balance-2024.csv",
+          "size_bytes": 7664,
+          "sha256": "749d46126ebbab9d451d98f02f43df4896a542d1e61acdfe51a381420e0b6698"
+        },
+        {
+          "ckan_resource_id": "82b569ee-72ae-4cc1-9f30-1e11a0c90655",
+          "name": "balance_2025.csv",
+          "format": "CSV",
+          "description": "Balance 2025.",
+          "created": "2026-03-21T22:49:18.517935",
+          "last_modified": "2026-04-01T17:19:25.993683",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/23dbd563-43e7-41be-b80c-d8e197d97ab9/resource/82b569ee-72ae-4cc1-9f30-1e11a0c90655/download/balance_2025.csv",
+          "local_path": "data/raw/desarrollo-economico/balances-de-tesoreria-balance-2025.csv",
+          "size_bytes": 8688,
+          "sha256": "fe9a86faa84745ec341ea9910cd3a4e4e8a53e3064b4c65f485cf95b381ca318"
+        },
+        {
+          "ckan_resource_id": "b802fda1-1367-4823-8ccc-dd9c92a18fba",
+          "name": "balance_2020.csv",
+          "format": "CSV",
+          "description": null,
+          "created": "2026-03-26T17:42:17.065615",
+          "last_modified": "2026-04-01T17:19:53.038464",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/23dbd563-43e7-41be-b80c-d8e197d97ab9/resource/b802fda1-1367-4823-8ccc-dd9c92a18fba/download/balance_2020.csv",
+          "local_path": "data/raw/desarrollo-economico/balances-de-tesoreria-balance-2020.csv",
+          "size_bytes": 6541,
+          "sha256": "6d8650a5fb5b3205d7d152c533a98953a687bb67613ad5f7aea5c88124eba15a"
+        }
+      ]
+    },
+    {
+      "id": "dependencias-desarrollo-humano",
+      "title": "Dependencias Desarrollo Humano",
+      "category": "desarrollo-humano",
+      "category_label": "desarrollo-humano",
+      "organization": "Desarrollo humano",
+      "organization_slug": "desarrollo-humano",
+      "license": "Open Data Commons Attribution License",
+      "notes": "Dependencias de la Secretaría de Desarrollo Humano con atención al público según tema.",
+      "tags": [
+        "atención médica",
+        "consumos problemáticos",
+        "drogadicción",
+        "escucha",
+        "prevención",
+        "salud"
+      ],
+      "created": "2026-04-08T15:56:48.364354",
+      "last_updated": "2026-04-08T15:57:55.158466",
+      "source_url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/dependencias-desarrollo-humano",
+      "resources": [
+        {
+          "ckan_resource_id": "5042b30e-48a8-40d9-ba67-2d9d3b32994e",
+          "name": "centros_de_salud.csv",
+          "format": "CSV",
+          "description": "Centros de salud de atención médica del primer nivel dependientes de la municipalidad de Venado Tuerto.",
+          "created": "2026-04-08T15:57:21.927027",
+          "last_modified": "2026-04-08T15:57:21.903417",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/1a876413-2c67-4e12-8f07-2dce7614c8f2/resource/5042b30e-48a8-40d9-ba67-2d9d3b32994e/download/centros_de_salud.csv",
+          "local_path": "data/raw/desarrollo-humano/dependencias-desarrollo-humano-centros-de-salud.csv",
+          "size_bytes": 1469,
+          "sha256": "a391170414c2d413b1e15f3d3a086ca0cb5fc61bbfc5667aa4fc2214085adc97"
+        },
+        {
+          "ckan_resource_id": "1e3130ff-d940-469e-8b77-eb73b0be57fc",
+          "name": "centros_abordaje_creer.csv",
+          "format": "CSV",
+          "description": "Centros de escucha dependientes de la Dirección de Abordaje de Consumos Problemáticos.",
+          "created": "2026-04-08T15:57:54.974285",
+          "last_modified": "2026-04-08T15:57:54.947364",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/1a876413-2c67-4e12-8f07-2dce7614c8f2/resource/1e3130ff-d940-469e-8b77-eb73b0be57fc/download/centros_abordaje_creer.csv",
+          "local_path": "data/raw/desarrollo-humano/dependencias-desarrollo-humano-centros-abordaje-creer.csv",
+          "size_bytes": 674,
+          "sha256": "b6d43462ff9a5eeb03e737804eee38cc12fee6920556487b62884bd1427ba9a8"
+        }
+      ]
+    },
+    {
+      "id": "capacitaciones-conecta-empleo",
+      "title": "Capacitaciones Conecta Empleo",
+      "category": "desarrollo-productivo",
+      "category_label": "desarrollo-productivo",
+      "organization": "Desarrollo productivo",
+      "organization_slug": "desarrollo-productivo",
+      "license": "Open Data Commons Attribution License",
+      "notes": "Capacitados por la Dirección de Empleo por año.",
+      "tags": [
+        "capacitaciones",
+        "conecta empleo",
+        "empleo",
+        "producción",
+        "trabajo"
+      ],
+      "created": "2026-03-31T14:40:44.905291",
+      "last_updated": "2026-03-31T17:26:13.892006",
+      "source_url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/capacitaciones-conecta-empleo",
+      "resources": [
+        {
+          "ckan_resource_id": "8c82c2c6-8042-44c1-868b-d224d2a3aa1c",
+          "name": "conecta_empleo_2020.csv",
+          "format": "CSV",
+          "description": "Capacitados por el programa Conecta Empleo durante el año 2020.",
+          "created": "2026-03-31T14:42:03.170446",
+          "last_modified": "2026-03-31T14:42:03.142706",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/15c28cb0-327d-4f62-98f0-1c58b0b97af3/resource/8c82c2c6-8042-44c1-868b-d224d2a3aa1c/download/conecta_empleo_2020.csv",
+          "local_path": "data/raw/desarrollo-productivo/capacitaciones-conecta-empleo-conecta-empleo-2020.csv",
+          "size_bytes": 11771,
+          "sha256": "4a1360660116e5c2908bd42487fd9595b737324ad1167458e71f1d2337c38d97"
+        },
+        {
+          "ckan_resource_id": "1ad5344f-42b6-4d40-a170-46cd6602751b",
+          "name": "conecta_empleo_2021.csv",
+          "format": "CSV",
+          "description": "Capacitados por el programa Conecta Empleo durante el año 2021.",
+          "created": "2026-03-31T14:42:16.855959",
+          "last_modified": "2026-03-31T14:42:16.823882",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/15c28cb0-327d-4f62-98f0-1c58b0b97af3/resource/1ad5344f-42b6-4d40-a170-46cd6602751b/download/conecta_empleo_2021.csv",
+          "local_path": "data/raw/desarrollo-productivo/capacitaciones-conecta-empleo-conecta-empleo-2021.csv",
+          "size_bytes": 15411,
+          "sha256": "eb6a1a91f3b709ca91565300c7b17d2f29cf4319d3d6c9f686dbe4f2bd3a6a1c"
+        },
+        {
+          "ckan_resource_id": "a59aac65-96df-4bca-903f-d7b51f7e1b73",
+          "name": "conecta_empleo_2022.csv",
+          "format": "CSV",
+          "description": "Capacitados por el programa Conecta Empleo durante el año 2022.",
+          "created": "2026-03-31T14:42:28.238696",
+          "last_modified": "2026-03-31T17:26:13.876913",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/15c28cb0-327d-4f62-98f0-1c58b0b97af3/resource/a59aac65-96df-4bca-903f-d7b51f7e1b73/download/conecta_empleo_2022.csv",
+          "local_path": "data/raw/desarrollo-productivo/capacitaciones-conecta-empleo-conecta-empleo-2022.csv",
+          "size_bytes": 18830,
+          "sha256": "05d8cf33a26cd51825996fc3e24e4699ab8bdec677efe20f51e92cf09bb8d5ce"
+        },
+        {
+          "ckan_resource_id": "18526df2-3abb-4ba3-ae67-13d241c10cfe",
+          "name": "conecta_empleo_2023.csv",
+          "format": "CSV",
+          "description": "Capacitados por el programa Conecta Empleo durante el año 2023.",
+          "created": "2026-03-31T14:42:40.002278",
+          "last_modified": "2026-03-31T14:42:39.968376",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/15c28cb0-327d-4f62-98f0-1c58b0b97af3/resource/18526df2-3abb-4ba3-ae67-13d241c10cfe/download/conecta_empleo_2023.csv",
+          "local_path": "data/raw/desarrollo-productivo/capacitaciones-conecta-empleo-conecta-empleo-2023.csv",
+          "size_bytes": 8376,
+          "sha256": "b89fa742824cd2cb9b6072cdfa05b27af7fe148b0566f8b34689f50969b1d0da"
+        },
+        {
+          "ckan_resource_id": "51e5c94e-7373-41e8-9b15-0fcbd6097c45",
+          "name": "conecta_empleo_2024.csv",
+          "format": "CSV",
+          "description": "Capacitados por el programa Conecta Empleo durante el año 2024.",
+          "created": "2026-03-31T14:42:49.831538",
+          "last_modified": "2026-03-31T14:42:49.794874",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/15c28cb0-327d-4f62-98f0-1c58b0b97af3/resource/51e5c94e-7373-41e8-9b15-0fcbd6097c45/download/conecta_empleo_2024.csv",
+          "local_path": "data/raw/desarrollo-productivo/capacitaciones-conecta-empleo-conecta-empleo-2024.csv",
+          "size_bytes": 14301,
+          "sha256": "2cdb7edd99637299a92d39f380ee77a9aeb969eb792f10b914fbb79be8cf097a"
+        },
+        {
+          "ckan_resource_id": "79f7f2d4-d9d6-4e60-9ccc-79eff8733321",
+          "name": "conecta_empleo_2025.csv",
+          "format": "CSV",
+          "description": "Capacitados por el programa Conecta Empleo durante el año 2025.",
+          "created": "2026-03-31T14:52:56.143052",
+          "last_modified": "2026-03-31T14:52:56.102491",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/15c28cb0-327d-4f62-98f0-1c58b0b97af3/resource/79f7f2d4-d9d6-4e60-9ccc-79eff8733321/download/conecta_empleo_2025.csv",
+          "local_path": "data/raw/desarrollo-productivo/capacitaciones-conecta-empleo-conecta-empleo-2025.csv",
+          "size_bytes": 25795,
+          "sha256": "c6e2fffd277e7a333ebc5af2e0548fd6063de193140c93d89ea7b97853398856"
+        }
+      ]
+    },
+    {
+      "id": "establecimientos-comerciales-habilitados",
+      "title": "Establecimientos comerciales habilitados",
+      "category": "desarrollo-productivo",
+      "category_label": "desarrollo-productivo",
+      "organization": "Desarrollo productivo",
+      "organization_slug": "desarrollo-productivo",
+      "license": "Open Data Commons Attribution License",
+      "notes": "Establecimientos comerciales que cuentan con habilitación municipal al 30/3/2026.",
+      "tags": [
+        "actividades comerciales",
+        "comercio",
+        "comercios",
+        "crecimiento",
+        "desarrollo",
+        "economia",
+        "economía",
+        "produccion",
+        "producción"
+      ],
+      "created": "2026-03-30T13:50:01.171990",
+      "last_updated": "2026-03-30T16:46:41.438225",
+      "source_url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/establecimientos-comerciales-habilitados",
+      "resources": [
+        {
+          "ckan_resource_id": "779c7bed-c25e-4f00-82c7-058e6bc7bcb8",
+          "name": "establecimientos_comerciales.csv",
+          "format": "CSV",
+          "description": "Establecimientos comerciales con habilitación municipal vigente.",
+          "created": "2026-03-30T13:51:38.580045",
+          "last_modified": "2026-03-30T13:57:02.626936",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/cf79c215-e856-4fc1-bbe1-dbbe0a0fb0a9/resource/779c7bed-c25e-4f00-82c7-058e6bc7bcb8/download/establecimientos_comerciales_habilitados.csv",
+          "local_path": "data/raw/desarrollo-productivo/establecimientos-comerciales-habilitados.csv",
+          "size_bytes": 490980,
+          "sha256": "7b0b88c09971256ee220b93ed4a1b3ad01244178a24c0da64a6ce8ff49dc0e51"
+        }
+      ]
+    },
+    {
+      "id": "habilitaciones-comerciales",
+      "title": "Habilitaciones comerciales",
+      "category": "desarrollo-productivo",
+      "category_label": "desarrollo-productivo",
+      "organization": "Desarrollo productivo",
+      "organization_slug": "desarrollo-productivo",
+      "license": "Open Data Commons Attribution License",
+      "notes": "Cantidad de habilitaciones comerciales emitidas desagregadas por mes y por año.",
+      "tags": [
+        "comercios",
+        "desarrollo",
+        "habilitaciones",
+        "producción"
+      ],
+      "created": "2026-03-30T16:48:00.008462",
+      "last_updated": "2026-03-30T16:52:10.721571",
+      "source_url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/habilitaciones-comerciales",
+      "resources": [
+        {
+          "ckan_resource_id": "13c3de1f-38cf-4087-bb5e-4f5966881428",
+          "name": "habilitaciones_por _año_2020.csv",
+          "format": "CSV",
+          "description": "Habilitaciones emitidas durante 2020 desagregadas por mes.",
+          "created": "2026-03-30T16:50:52.531300",
+          "last_modified": "2026-03-30T16:50:52.505598",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/35d2be82-9423-4b72-bbc1-57c68bda824b/resource/13c3de1f-38cf-4087-bb5e-4f5966881428/download/habilitaciones_por-_ano_2020.csv",
+          "local_path": "data/raw/desarrollo-productivo/habilitaciones-comerciales-habilitaciones-por-ano-2020.csv",
+          "size_bytes": 143,
+          "sha256": "d275c99aa580fd63bcf242458f453fb5280e60144a2b5b360c7452bfed115002"
+        },
+        {
+          "ckan_resource_id": "8d9ec1d3-734c-4fe9-baf2-ecc735c084a7",
+          "name": "habilitaciones_por _año_2021.csv",
+          "format": "CSV",
+          "description": "Habilitaciones emitidas durante 2021 desagregadas por mes.",
+          "created": "2026-03-30T16:51:04.723595",
+          "last_modified": "2026-03-30T16:51:04.684566",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/35d2be82-9423-4b72-bbc1-57c68bda824b/resource/8d9ec1d3-734c-4fe9-baf2-ecc735c084a7/download/habilitaciones_por-_ano_2021.csv",
+          "local_path": "data/raw/desarrollo-productivo/habilitaciones-comerciales-habilitaciones-por-ano-2021.csv",
+          "size_bytes": 148,
+          "sha256": "f05a7d1b6817a62f7684a6af9789d731117f319b981f040bc725e72760584d63"
+        },
+        {
+          "ckan_resource_id": "520ee643-1ab5-43b2-b4f0-d99d117f0fd4",
+          "name": "habilitaciones_por _año_2022.csv",
+          "format": "CSV",
+          "description": "Habilitaciones emitidas durante 2022 desagregadas por mes.",
+          "created": "2026-03-30T16:51:14.692309",
+          "last_modified": "2026-03-30T16:51:14.663068",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/35d2be82-9423-4b72-bbc1-57c68bda824b/resource/520ee643-1ab5-43b2-b4f0-d99d117f0fd4/download/habilitaciones_por-_ano_2022.csv",
+          "local_path": "data/raw/desarrollo-productivo/habilitaciones-comerciales-habilitaciones-por-ano-2022.csv",
+          "size_bytes": 145,
+          "sha256": "e9628fe242cfbb4fe9d315022942c35aaa75293c42f41eb88479a1cd92d65e12"
+        },
+        {
+          "ckan_resource_id": "e0799751-ab42-4d00-b9d3-ad9e71e90fb1",
+          "name": "habilitaciones_por _año_2023.csv",
+          "format": "CSV",
+          "description": "Habilitaciones emitidas durante 2023 desagregadas por mes.",
+          "created": "2026-03-30T16:51:44.216452",
+          "last_modified": "2026-03-30T16:51:44.186465",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/35d2be82-9423-4b72-bbc1-57c68bda824b/resource/e0799751-ab42-4d00-b9d3-ad9e71e90fb1/download/habilitaciones_por-_ano_2023.csv",
+          "local_path": "data/raw/desarrollo-productivo/habilitaciones-comerciales-habilitaciones-por-ano-2023.csv",
+          "size_bytes": 145,
+          "sha256": "b697128830eb6755c4813fce732bfd05ff0676eb300ae53ec112f34e3ebba31f"
+        },
+        {
+          "ckan_resource_id": "f72aa941-1211-4732-ae63-0821de6e2bf4",
+          "name": "habilitaciones_por _año_2024.csv",
+          "format": "CSV",
+          "description": "Habilitaciones emitidas durante 2024 desagregadas por mes.",
+          "created": "2026-03-30T16:51:54.067209",
+          "last_modified": "2026-03-30T16:51:54.034313",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/35d2be82-9423-4b72-bbc1-57c68bda824b/resource/f72aa941-1211-4732-ae63-0821de6e2bf4/download/habilitaciones_por-_ano_2024.csv",
+          "local_path": "data/raw/desarrollo-productivo/habilitaciones-comerciales-habilitaciones-por-ano-2024.csv",
+          "size_bytes": 145,
+          "sha256": "393ef0447291ea9f40471fe477243cb5d8a94a90afae80d04cbd32310eb8d5d3"
+        },
+        {
+          "ckan_resource_id": "debde7db-f0be-410b-b774-ccc90a7c85b0",
+          "name": "habilitaciones_por _año_2025.csv",
+          "format": "CSV",
+          "description": "Habilitaciones emitidas durante 2025 desagregadas por mes.",
+          "created": "2026-03-30T16:52:04.182529",
+          "last_modified": "2026-03-30T16:52:04.149328",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/35d2be82-9423-4b72-bbc1-57c68bda824b/resource/debde7db-f0be-410b-b774-ccc90a7c85b0/download/habilitaciones_por-_ano_2025.csv",
+          "local_path": "data/raw/desarrollo-productivo/habilitaciones-comerciales-habilitaciones-por-ano-2025.csv",
+          "size_bytes": 145,
+          "sha256": "47e41df212a12532a9aa70cef1696cec662e8606881b32893e2c291278ec6d94"
+        }
+      ]
+    },
+    {
+      "id": "hogares-de-convivencia",
+      "title": "Hogares de convivencia",
+      "category": "desarrollo-productivo",
+      "category_label": "desarrollo-productivo",
+      "organization": "Desarrollo productivo",
+      "organization_slug": "desarrollo-productivo",
+      "license": "Open Data Commons Attribution License",
+      "notes": "Hogares de convivencia con habilitación municipal.",
+      "tags": [
+        "geriátricos",
+        "hogares",
+        "hogares de convivencia"
+      ],
+      "created": "2026-04-20T15:27:26.133212",
+      "last_updated": "2026-04-20T16:18:46.172602",
+      "source_url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/hogares-de-convivencia",
+      "resources": [
+        {
+          "ckan_resource_id": "f73afcd5-920d-412a-a11a-f2de2b7d6d14",
+          "name": "hogares_convivencia.csv",
+          "format": "CSV",
+          "description": "Hogares de convivencia habilitados al 20/4/2026.",
+          "created": "2026-04-20T16:18:45.965508",
+          "last_modified": "2026-04-20T16:18:45.943003",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/debd368f-1851-4c19-82e8-8fcc522f3685/resource/f73afcd5-920d-412a-a11a-f2de2b7d6d14/download/hogares_convivencia.csv",
+          "local_path": "data/raw/desarrollo-productivo/hogares-de-convivencia.csv",
+          "size_bytes": 1873,
+          "sha256": "f4ad3d5013a7bc33f7d67ef7b6875c3f906fcd67ed22c3f15b7764701ef8ba25"
+        }
+      ]
+    },
+    {
+      "id": "asistentes-jardines-materno-infantiles-municipales-2025",
+      "title": "Asistentes jardines materno infantiles municipales",
+      "category": "educacion",
+      "category_label": "Educación",
+      "organization": "Territorialidad y desarrollo cultural",
+      "organization_slug": "territorialidad-y-desarrollo-cultural",
+      "license": "Open Data Commons Attribution License",
+      "notes": "Características de los niños asistentes a los jardines de gestión municipal.",
+      "tags": [
+        "educacion",
+        "jardin",
+        "jardines",
+        "jardines maternales"
+      ],
+      "created": "2026-01-28T20:46:04.712697",
+      "last_updated": "2026-03-31T13:30:29.159474",
+      "source_url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/asistentes-jardines-materno-infantiles-municipales-2025",
+      "resources": [
+        {
+          "ckan_resource_id": "55e5b8c7-c352-4949-a535-aa2ae17775cf",
+          "name": "jardines_materno_infantiles_municipales_2025.csv",
+          "format": "CSV",
+          "description": "Características de los niños que asistieron a los jardines materno infantiles municipales durante el año 2025.",
+          "created": "2026-01-28T20:46:32.234712",
+          "last_modified": "2026-01-28T20:46:32.211391",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/0dfd0130-50e9-4b42-9453-360685a5312d/resource/55e5b8c7-c352-4949-a535-aa2ae17775cf/download/jardines_materno_infantiles_municipales.csv",
+          "local_path": "data/raw/educacion/asistentes-jardines-materno-infantiles-municipales-2025.csv",
+          "size_bytes": 19191,
+          "sha256": "e6d18cf6c964a499b62ed0a315de82f17b7e04794a437617cf5a91140ac68089"
+        }
+      ]
+    },
+    {
+      "id": "becados-2025",
+      "title": "Becados",
+      "category": "educacion",
+      "category_label": "Educación",
+      "organization": "Territorialidad y desarrollo cultural",
+      "organization_slug": "territorialidad-y-desarrollo-cultural",
+      "license": "Open Data Commons Attribution License",
+      "notes": "Características de las personas beneficiarias de las becas educativas municipales.",
+      "tags": [
+        "becas",
+        "educacion"
+      ],
+      "created": "2026-01-28T20:48:47.803772",
+      "last_updated": "2026-04-03T13:49:55.191845",
+      "source_url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/becados-2025",
+      "resources": [
+        {
+          "ckan_resource_id": "294dae5f-1607-4499-bb30-86c90f93d1a3",
+          "name": "becados_2025.csv",
+          "format": "CSV",
+          "description": "Características de las personas beneficiarias de las becas educativas municipales en 2025.",
+          "created": "2026-01-28T20:52:56.076972",
+          "last_modified": "2026-01-28T20:52:56.057238",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/0c935275-e367-4236-bcd4-ee4bd02a22ff/resource/294dae5f-1607-4499-bb30-86c90f93d1a3/download/becados_2025.csv",
+          "local_path": "data/raw/educacion/becados-2025.csv",
+          "size_bytes": 70147,
+          "sha256": "e08f0b412c5e921b9740a340fad5c721f808a6cf046491d1b91dbe37a5b768ee"
+        }
+      ]
+    },
+    {
+      "id": "capacitaciones-al-personal-2021",
+      "title": "Capacitaciones al personal",
+      "category": "gobierno",
+      "category_label": "gobierno",
+      "organization": "Gobierno",
+      "organization_slug": "gobierno",
+      "license": "Open Data Commons Attribution License",
+      "notes": "Capacitaciones llevadas a cabo por la Dirección de Recursos Humanos.",
+      "tags": [
+        "administracion publica",
+        "capacitaciones",
+        "personal",
+        "profesionalización",
+        "recursos humanos"
+      ],
+      "created": "2026-01-28T19:46:24.281792",
+      "last_updated": "2026-04-02T11:56:48.794521",
+      "source_url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/capacitaciones-al-personal-2021",
+      "resources": [
+        {
+          "ckan_resource_id": "94cdf32a-a768-4246-9c75-ec7d51f5641f",
+          "name": "cap_rrhh_2021.csv",
+          "format": "CSV",
+          "description": "Capacitaciones al personal llevadas a cabo por la Dirección de Recursos humanos durante 2021.",
+          "created": "2026-01-28T19:46:53.148663",
+          "last_modified": "2026-01-28T19:46:53.116079",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/2b242b14-0e3c-4d25-9bd5-056e15985dfc/resource/94cdf32a-a768-4246-9c75-ec7d51f5641f/download/cap_rrhh_2021.csv",
+          "local_path": "data/raw/gobierno/capacitaciones-al-personal-2021-cap-rrhh-2021.csv",
+          "size_bytes": 7689,
+          "sha256": "2b7d72955f9d83b0216c6496437a92c4cedc0398ec1e085f28e5f0f0ca4a0569"
+        },
+        {
+          "ckan_resource_id": "a4085041-04bc-424c-b6e1-3b683e6ca01b",
+          "name": "cap_RRHH_2022.csv",
+          "format": "CSV",
+          "description": "Capacitaciones al personal llevadas a cabo por la Dirección de RRHH durante 2022.",
+          "created": "2026-03-31T12:49:41.311539",
+          "last_modified": "2026-03-31T12:49:41.282559",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/2b242b14-0e3c-4d25-9bd5-056e15985dfc/resource/a4085041-04bc-424c-b6e1-3b683e6ca01b/download/cap_rrhh_2022.csv",
+          "local_path": "data/raw/gobierno/capacitaciones-al-personal-2021-cap-rrhh-2022.csv",
+          "size_bytes": 7087,
+          "sha256": "a54baa5e6a927d8bab1f23dcf018111e3e3bed9c0366a39d9b86f6c1940665e0"
+        },
+        {
+          "ckan_resource_id": "726106f0-9c8c-40e1-b909-060b7ecc8cf7",
+          "name": "cap_RRHH_2023.csv",
+          "format": "CSV",
+          "description": "Capacitaciones al personal llevadas a cabo por la Dirección de RRHH durante 2023.",
+          "created": "2026-03-31T12:50:01.458316",
+          "last_modified": "2026-03-31T12:50:01.426467",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/2b242b14-0e3c-4d25-9bd5-056e15985dfc/resource/726106f0-9c8c-40e1-b909-060b7ecc8cf7/download/cap_rrhh_2023.csv",
+          "local_path": "data/raw/gobierno/capacitaciones-al-personal-2021-cap-rrhh-2023.csv",
+          "size_bytes": 3844,
+          "sha256": "099126348041f174192f11e5e5bb6723c00965a0591c47b6aa23ef671ca65c71"
+        },
+        {
+          "ckan_resource_id": "4ef2ac4d-631f-4b00-9efb-64bc7a371e00",
+          "name": "cap_RRHH_2024.csv",
+          "format": "CSV",
+          "description": "Capacitaciones al personal llevadas a cabo por la Dirección de RRHH durante 2024.",
+          "created": "2026-03-31T12:50:24.197392",
+          "last_modified": "2026-03-31T12:50:24.140579",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/2b242b14-0e3c-4d25-9bd5-056e15985dfc/resource/4ef2ac4d-631f-4b00-9efb-64bc7a371e00/download/cap_rrhh_2024.csv",
+          "local_path": "data/raw/gobierno/capacitaciones-al-personal-2021-cap-rrhh-2024.csv",
+          "size_bytes": 9586,
+          "sha256": "bf67b1c4952f029f55c79a3c06d5147616def74588a2da082e757a5a3c12c196"
+        },
+        {
+          "ckan_resource_id": "5b924986-4d4c-4c7b-bba6-58ec890044d9",
+          "name": "cap_RRHH_2025.csv",
+          "format": "CSV",
+          "description": "Capacitaciones al personal llevadas a cabo por la Dirección de RRHH durante 2025.",
+          "created": "2026-04-02T11:56:48.819358",
+          "last_modified": "2026-04-02T11:56:48.780975",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/2b242b14-0e3c-4d25-9bd5-056e15985dfc/resource/5b924986-4d4c-4c7b-bba6-58ec890044d9/download/cap_rrhh_2025.csv",
+          "local_path": "data/raw/gobierno/capacitaciones-al-personal-2021-cap-rrhh-2025.csv",
+          "size_bytes": 9104,
+          "sha256": "7ea6a801fcc7e319ae7363a0c97462103d679a6754724799247aa88bac5e1882"
+        }
+      ]
+    },
+    {
+      "id": "documentacion-emitida-por-el-centro-de-documentacion-rapida-2024",
+      "title": "Documentación emitida por el Centro de Documentación Rápida",
+      "category": "gobierno",
+      "category_label": "gobierno",
+      "organization": "Gobierno",
+      "organization_slug": "gobierno",
+      "license": "Open Data Commons Attribution License",
+      "notes": "Documentación emitida por el Centro de Documentación Rápida.",
+      "tags": [
+        "cdr",
+        "centro de documentacion",
+        "centro de documentacion rapida",
+        "dni",
+        "documentacion",
+        "gobierno",
+        "pasaporte"
+      ],
+      "created": "2026-01-28T19:34:36.924614",
+      "last_updated": "2026-04-02T12:04:30.646807",
+      "source_url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/documentacion-emitida-por-el-centro-de-documentacion-rapida-2024",
+      "resources": [
+        {
+          "ckan_resource_id": "fb569744-6c21-4a32-8c41-f61a778b5b6d",
+          "name": "cdr_2024.csv",
+          "format": "CSV",
+          "description": "Documentación emitida por el Centro de Documentación Rápida durante 2024.",
+          "created": "2026-01-28T19:34:50.822484",
+          "last_modified": "2026-01-28T19:34:50.791930",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/e39640dd-b361-40e6-8153-e241452b5546/resource/fb569744-6c21-4a32-8c41-f61a778b5b6d/download/cdr_2024.csv",
+          "local_path": "data/raw/gobierno/documentacion-emitida-por-el-centro-de-documentacion-rapida-2024-cdr-2024.csv",
+          "size_bytes": 445,
+          "sha256": "54744f7f0fc770194056f5509041e427af5b5ec8ec920eba6197dbf46ae2f04c"
+        },
+        {
+          "ckan_resource_id": "9dfa0f86-bed3-4bf2-946b-0ee9e1c196e5",
+          "name": "cdr_2025.csv",
+          "format": "CSV",
+          "description": "Documentación emitida por el Centro de Documentación Rápida durante 2025.",
+          "created": "2026-04-02T12:04:30.674368",
+          "last_modified": "2026-04-02T12:04:30.637266",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/e39640dd-b361-40e6-8153-e241452b5546/resource/9dfa0f86-bed3-4bf2-946b-0ee9e1c196e5/download/cdr_2025.csv",
+          "local_path": "data/raw/gobierno/documentacion-emitida-por-el-centro-de-documentacion-rapida-2024-cdr-2025.csv",
+          "size_bytes": 450,
+          "sha256": "683ea848c4cc5debe9ce1c790eaeb629cd6f67120cc2afdf60b3d8d638293c1e"
+        }
+      ]
+    },
+    {
+      "id": "elecciones-vecinales",
+      "title": "Elecciones vecinales",
+      "category": "gobierno",
+      "category_label": "gobierno",
+      "organization": "Gobierno",
+      "organization_slug": "gobierno",
+      "license": "Open Data Commons Attribution License",
+      "notes": "Resultados de las elecciones vecinales desagregados por barrio y mesa.",
+      "tags": [
+        "barrios",
+        "elecciones",
+        "elecciones vecinales",
+        "participación"
+      ],
+      "created": "2026-03-31T12:20:36.790885",
+      "last_updated": "2026-03-31T12:35:54.880629",
+      "source_url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/elecciones-vecinales",
+      "resources": [
+        {
+          "ckan_resource_id": "30c313a9-875b-4019-bd1a-048a459dc59d",
+          "name": "elecciones_vecinales_2024.csv",
+          "format": "CSV",
+          "description": "Resultados de las elecciones vecinales de 2024 desagregados por barrio y mesa.",
+          "created": "2026-03-31T12:21:04.514678",
+          "last_modified": "2026-03-31T12:21:04.486689",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/392d65ee-0cf9-43c1-991d-254c4cd9d25b/resource/30c313a9-875b-4019-bd1a-048a459dc59d/download/elecciones_vecinales_2024.csv",
+          "local_path": "data/raw/gobierno/elecciones-vecinales.csv",
+          "size_bytes": 281,
+          "sha256": "fea9d8601b32ebf7d28e54855e86bd90a2036d0732e867045ff966ce0f8dba72"
+        }
+      ]
+    },
+    {
+      "id": "ingreso-de-planos-2020",
+      "title": "Ingreso de planos",
+      "category": "gobierno",
+      "category_label": "gobierno",
+      "organization": "Gobierno",
+      "organization_slug": "gobierno",
+      "license": "Creative Commons Attribution",
+      "notes": "Presentación final de planos para proyectos iniciados en la ciudad desagregados por tipo.",
+      "tags": [
+        "metros cuadrados",
+        "planos",
+        "proyectos construcciones"
+      ],
+      "created": "2026-03-21T20:01:18.284929",
+      "last_updated": "2026-04-02T14:56:25.841661",
+      "source_url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/ingreso-de-planos-2020",
+      "resources": [
+        {
+          "ckan_resource_id": "eb4a2e0d-e60a-4fb4-af7a-a6572d81a62b",
+          "name": "planos_2020.csv",
+          "format": "CSV",
+          "description": "Planos finales de proyectos ingresados durante 2020.",
+          "created": "2026-03-21T20:01:57.785288",
+          "last_modified": "2026-03-21T20:38:17.142792",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/1f649dc7-f750-40bf-945f-61b9408f93d8/resource/eb4a2e0d-e60a-4fb4-af7a-a6572d81a62b/download/planos_2020.csv",
+          "local_path": "data/raw/gobierno/ingreso-de-planos-2020-planos-2020.csv",
+          "size_bytes": 46578,
+          "sha256": "d2879f27c6ef41fc494c227d4adfe1c17e4653db9bf8443d6878209844aced34"
+        },
+        {
+          "ckan_resource_id": "beabfd9a-7b46-4c49-853a-0aeb3f622caf",
+          "name": "planos_2021.csv",
+          "format": "CSV",
+          "description": "Planos finales de proyectos ingresados durante 2021.",
+          "created": "2026-03-26T17:25:38.399345",
+          "last_modified": "2026-03-26T17:25:38.370947",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/1f649dc7-f750-40bf-945f-61b9408f93d8/resource/beabfd9a-7b46-4c49-853a-0aeb3f622caf/download/planos_2021.csv",
+          "local_path": "data/raw/gobierno/ingreso-de-planos-2020-planos-2021.csv",
+          "size_bytes": 85806,
+          "sha256": "a94129942aebdd174d888b563d2e7f7be723b0d8dd26b72ab5764b8fb15fcde8"
+        },
+        {
+          "ckan_resource_id": "79860a4a-803a-4baa-a43c-d1279f827e46",
+          "name": "planos_2022.csv",
+          "format": "CSV",
+          "description": "Planos finales de proyectos ingresados durante 2022.",
+          "created": "2026-03-26T17:26:12.595280",
+          "last_modified": "2026-03-26T17:26:12.565587",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/1f649dc7-f750-40bf-945f-61b9408f93d8/resource/79860a4a-803a-4baa-a43c-d1279f827e46/download/planos_2022.csv",
+          "local_path": "data/raw/gobierno/ingreso-de-planos-2020-planos-2022.csv",
+          "size_bytes": 74020,
+          "sha256": "252f2b3daec90efa25420022ed1491aca7fa742127b1f8e9dfcfd818e5730e91"
+        },
+        {
+          "ckan_resource_id": "653f6401-3d3f-4dbe-bec7-d05ee4a80037",
+          "name": "planos_2023.csv",
+          "format": "CSV",
+          "description": "Planos finales de proyectos ingresados durante 2023.",
+          "created": "2026-03-26T17:26:41.459446",
+          "last_modified": "2026-03-26T17:26:41.421053",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/1f649dc7-f750-40bf-945f-61b9408f93d8/resource/653f6401-3d3f-4dbe-bec7-d05ee4a80037/download/planos_2023.csv",
+          "local_path": "data/raw/gobierno/ingreso-de-planos-2020-planos-2023.csv",
+          "size_bytes": 65521,
+          "sha256": "564f96715e1089a8e06aa1edfd2281804875a64cbaf459802ad55429dab44282"
+        },
+        {
+          "ckan_resource_id": "378811b4-d02d-4a15-b635-9884d101b932",
+          "name": "planos_2024.csv",
+          "format": "CSV",
+          "description": "Planos finales de proyectos ingresados durante 2024.",
+          "created": "2026-03-26T17:26:50.862411",
+          "last_modified": "2026-03-26T17:26:50.830172",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/1f649dc7-f750-40bf-945f-61b9408f93d8/resource/378811b4-d02d-4a15-b635-9884d101b932/download/planos_2024.csv",
+          "local_path": "data/raw/gobierno/ingreso-de-planos-2020-planos-2024.csv",
+          "size_bytes": 64004,
+          "sha256": "57c1616b65b07140e2bce9f71c18ab770f5a50b06b3ffa40bdedf37d544b8317"
+        },
+        {
+          "ckan_resource_id": "c0f58012-205b-4d24-9880-b1cc7439b90c",
+          "name": "planos_2025.csv",
+          "format": "CSV",
+          "description": "Planos finales de proyectos ingresados durante 2025.",
+          "created": "2026-03-26T17:27:02.724042",
+          "last_modified": "2026-03-26T17:27:02.685802",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/1f649dc7-f750-40bf-945f-61b9408f93d8/resource/c0f58012-205b-4d24-9880-b1cc7439b90c/download/planos_2025.csv",
+          "local_path": "data/raw/gobierno/ingreso-de-planos-2020-planos-2025.csv",
+          "size_bytes": 56731,
+          "sha256": "b7c7e8ee1aeff5912e80132f0f18d504c0d6a86f725e55233d041b1ef680051e"
+        }
+      ]
+    },
+    {
+      "id": "mensuras",
+      "title": "Mensuras",
+      "category": "gobierno",
+      "category_label": "gobierno",
+      "organization": "Gobierno",
+      "organization_slug": "gobierno",
+      "license": "Creative Commons Attribution",
+      "notes": "Expedientes de mensura ingresados desde 2020 en adelante.",
+      "tags": [
+        "desarrollo",
+        "mensuras",
+        "planeamiento",
+        "planos"
+      ],
+      "created": "2026-03-25T15:53:15.870513",
+      "last_updated": "2026-03-25T16:13:08.437811",
+      "source_url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/mensuras",
+      "resources": [
+        {
+          "ckan_resource_id": "5e6a443f-f98c-45aa-b043-7b39bec32cdb",
+          "name": "mensuras_2020.csv",
+          "format": "CSV",
+          "description": "Mensuras ingresadas en el año 2020.",
+          "created": "2026-03-25T15:56:11.639927",
+          "last_modified": "2026-03-25T15:56:11.615592",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/d9707055-827c-4465-83fe-d7f90562a2b9/resource/5e6a443f-f98c-45aa-b043-7b39bec32cdb/download/mensuras_2020.csv",
+          "local_path": "data/raw/gobierno/mensuras-2020.csv",
+          "size_bytes": 3860,
+          "sha256": "d6c18f944a6d2416faf5ecae48a2f70c7567c2f9720d2be78dab02dfdb3c08c7"
+        },
+        {
+          "ckan_resource_id": "07c70d25-6be0-4656-9b77-67066ceacfe3",
+          "name": "mensuras_2021.csv",
+          "format": "CSV",
+          "description": "Mensuras ingresadas en el año 2021.",
+          "created": "2026-03-25T16:10:16.923604",
+          "last_modified": "2026-03-25T16:10:16.899770",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/d9707055-827c-4465-83fe-d7f90562a2b9/resource/07c70d25-6be0-4656-9b77-67066ceacfe3/download/mensuras_2021.csv",
+          "local_path": "data/raw/gobierno/mensuras-2021.csv",
+          "size_bytes": 7756,
+          "sha256": "4b1e5ecf3649a0541122034ea368db2700b7d91f649fc5d87119bf265e8e3781"
+        },
+        {
+          "ckan_resource_id": "7455412e-1c9f-4b78-83ff-498905262d3c",
+          "name": "mensuras_2022.csv",
+          "format": "CSV",
+          "description": "Mensuras ingresadas en el año 2022.",
+          "created": "2026-03-25T16:11:25.003594",
+          "last_modified": "2026-03-25T16:11:24.978514",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/d9707055-827c-4465-83fe-d7f90562a2b9/resource/7455412e-1c9f-4b78-83ff-498905262d3c/download/mensuras_2022.csv",
+          "local_path": "data/raw/gobierno/mensuras-2022.csv",
+          "size_bytes": 15041,
+          "sha256": "e89a9409f4ecfd0b414cbe731a387fed698f06539342216963a45d440553ab2c"
+        },
+        {
+          "ckan_resource_id": "61ce7cd9-e26c-4fc4-b2e9-b2b64a31de67",
+          "name": "mensuras_2023.csv",
+          "format": "CSV",
+          "description": "Mensuras ingresadas en el año 2023.",
+          "created": "2026-03-25T16:12:19.997300",
+          "last_modified": "2026-03-25T16:12:19.969732",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/d9707055-827c-4465-83fe-d7f90562a2b9/resource/61ce7cd9-e26c-4fc4-b2e9-b2b64a31de67/download/mensuras_2023.csv",
+          "local_path": "data/raw/gobierno/mensuras-2023.csv",
+          "size_bytes": 12685,
+          "sha256": "f12f9d66225e2f9028dd2b286fd293ffaedbea49973624ddc90a3c211e6f7869"
+        },
+        {
+          "ckan_resource_id": "644e88b0-3544-44dd-b305-22b5ea3ef2b7",
+          "name": "mensuras_2024.csv",
+          "format": "CSV",
+          "description": "Mensuras ingresadas en el año 2024.",
+          "created": "2026-03-25T16:12:54.981292",
+          "last_modified": "2026-03-25T16:12:54.938838",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/d9707055-827c-4465-83fe-d7f90562a2b9/resource/644e88b0-3544-44dd-b305-22b5ea3ef2b7/download/mensuras_2024.csv",
+          "local_path": "data/raw/gobierno/mensuras-2024.csv",
+          "size_bytes": 14208,
+          "sha256": "566ae1c96180605c64710d7fc0865177313a85cca293bef99d7579a9557f78ae"
+        },
+        {
+          "ckan_resource_id": "fa5a9910-6b67-4373-ad21-c1d3b5fc1b6b",
+          "name": "mensuras_2025.csv",
+          "format": "CSV",
+          "description": "Mensuras ingresadas en el año 2025.",
+          "created": "2026-03-25T16:13:08.198987",
+          "last_modified": "2026-03-25T16:13:08.154896",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/d9707055-827c-4465-83fe-d7f90562a2b9/resource/fa5a9910-6b67-4373-ad21-c1d3b5fc1b6b/download/mensuras_2025.csv",
+          "local_path": "data/raw/gobierno/mensuras-2025.csv",
+          "size_bytes": 11353,
+          "sha256": "01ccd1a30583565bacf97a3e44bdf58cdb6984361dc86f43066ab64d0e0175c0"
+        }
+      ]
+    },
+    {
+      "id": "personal-municipal",
+      "title": "Personal municipal",
+      "category": "gobierno",
+      "category_label": "gobierno",
+      "organization": "Gobierno",
+      "organization_slug": "gobierno",
+      "license": "Creative Commons Attribution",
+      "notes": "Información sobre el personal municipal de Venado Tuerto y la escala salarial por categoría, incluyendo datos de la nómina de agentes y valores salariales por período.",
+      "tags": [
+        "categorias",
+        "categorías",
+        "personal",
+        "personal municipal",
+        "planta"
+      ],
+      "created": "2026-03-27T15:05:45.366308",
+      "last_updated": "2026-03-27T16:58:10.354883",
+      "source_url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/personal-municipal",
+      "resources": [
+        {
+          "ckan_resource_id": "a1b76525-f49f-42a5-b838-acb8277dc1b0",
+          "name": "personal_2026.csv",
+          "format": "CSV",
+          "description": "Personal municipal hasta febrero de 2026.",
+          "created": "2026-03-27T15:06:29.660834",
+          "last_modified": "2026-03-27T15:06:29.637416",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/843c196d-85a7-4171-8d6f-b5571ebe2572/resource/a1b76525-f49f-42a5-b838-acb8277dc1b0/download/personal_2026.csv",
+          "local_path": "data/raw/gobierno/personal-municipal-personal-2026.csv",
+          "size_bytes": 337029,
+          "sha256": "660844a661d774cbc30ce8f989188c48d8db31bec5950fdeb0d41631863c0cd7"
+        },
+        {
+          "ckan_resource_id": "4461efd0-826f-46eb-adce-5a5596113a03",
+          "name": "escala_salarial_por_categoria_2025",
+          "format": "CSV",
+          "description": "Escala salarial correspondiente al personal municipal de Venado Tuerto para el año 2025, detallada por categoría escalafonaria y mes. Los valores se expresan en pesos argentinos corrientes y reflejan la remuneración asociada a cada categoría según la normativa vigente.",
+          "created": "2026-03-27T15:10:38.348088",
+          "last_modified": "2026-03-27T16:53:39.294716",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/843c196d-85a7-4171-8d6f-b5571ebe2572/resource/4461efd0-826f-46eb-adce-5a5596113a03/download/escala_salarial_por_categoria_2025.csv",
+          "local_path": "data/raw/gobierno/personal-municipal-escala-salarial-por-categoria-2025.csv",
+          "size_bytes": 5195,
+          "sha256": "451bf74d0571df488fe272a16c8734c1ce6f669dddd803e27374636a3d72387e"
+        }
+      ]
+    },
+    {
+      "id": "presidentes-vecinales-direccion-y-contacto",
+      "title": "Comisiones vecinales",
+      "category": "gobierno",
+      "category_label": "gobierno",
+      "organization": "Gobierno",
+      "organization_slug": "gobierno",
+      "license": "Open Data Commons Attribution License",
+      "notes": "Nombre del barrio, presidente vecinal, teléfono y dirección.",
+      "tags": [
+        "barrio",
+        "presidente vecinal",
+        "vecinales"
+      ],
+      "created": "2026-03-31T12:13:31.706825",
+      "last_updated": "2026-03-31T13:31:49.291754",
+      "source_url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/presidentes-vecinales-direccion-y-contacto",
+      "resources": [
+        {
+          "ckan_resource_id": "ea2236d0-d064-490b-8398-1aac71696c75",
+          "name": "vecinales.csv",
+          "format": "CSV",
+          "description": null,
+          "created": "2026-03-31T12:13:52.429994",
+          "last_modified": "2026-03-31T12:13:52.405710",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/1b863095-e51f-4088-a946-257501193c96/resource/ea2236d0-d064-490b-8398-1aac71696c75/download/vecinales.csv",
+          "local_path": "data/raw/gobierno/presidentes-vecinales-direccion-y-contacto-vecinales.csv",
+          "size_bytes": 1677,
+          "sha256": "1274e9296bb9b2e78b546b3396726ee6b1045356178ac8a452b9cded5e909b50"
+        },
+        {
+          "ckan_resource_id": "80365d79-398f-49d8-863d-475ba90e6db6",
+          "name": "comisiones_vecinales.csv",
+          "format": "CSV",
+          "description": "Composición de las comisiones vecinales al 31/3/2026. ",
+          "created": "2026-03-31T12:39:52.385128",
+          "last_modified": "2026-03-31T12:39:52.359984",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/1b863095-e51f-4088-a946-257501193c96/resource/80365d79-398f-49d8-863d-475ba90e6db6/download/comisiones_vecinales.csv",
+          "local_path": "data/raw/gobierno/presidentes-vecinales-direccion-y-contacto-comisiones-vecinales.csv",
+          "size_bytes": 3628,
+          "sha256": "4bb72e826eabdd11a1868b7151649174daad6db769b613edee3c0727e365d4e8"
+        }
+      ]
+    },
+    {
+      "id": "actividades-reciclar-venado-2025",
+      "title": "Actividades Reciclar Venado",
+      "category": "intendencia-y-gabinete",
+      "category_label": "intendencia-y-gabinete",
+      "organization": "Intendencia y gabinete",
+      "organization_slug": "intendencia-y-gabinete",
+      "license": "Open Data Commons Attribution License",
+      "notes": "Actividades realizadas por Reciclar Venado, perteneciente a la Dirección de Participación Ambiental.",
+      "tags": [
+        "actividades",
+        "ambiente",
+        "capacitaciones",
+        "medio ambiente",
+        "participacion ambiental",
+        "reciclaje",
+        "reciclar venado",
+        "verde"
+      ],
+      "created": "2026-01-28T20:05:29.867248",
+      "last_updated": "2026-04-02T12:12:20.061324",
+      "source_url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/actividades-reciclar-venado-2025",
+      "resources": [
+        {
+          "ckan_resource_id": "e4153d4f-111c-456a-baf2-46c7a7bd276e",
+          "name": "actividades_reciclar_venado_2025.csv",
+          "format": "CSV",
+          "description": "Actividades realizadas por Reciclar Venado, perteneciente a la Dirección de Participación Ambiental, durante 2025.\r\n\r\n",
+          "created": "2026-01-28T20:05:42.692443",
+          "last_modified": "2026-01-28T20:05:42.662527",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/f12be239-a78b-49f1-88ac-7605b70302ce/resource/e4153d4f-111c-456a-baf2-46c7a7bd276e/download/actividades_reciclar_venado_2025.csv",
+          "local_path": "data/raw/intendencia-y-gabinete/actividades-reciclar-venado-2025.csv",
+          "size_bytes": 15778,
+          "sha256": "e7cd7e31c919b448251528635c6c84089d3e708d7c011d4d7ce971188f4b8059"
+        }
+      ]
+    },
+    {
+      "id": "beneficiarios-programa-nuestro-terreno",
+      "title": "Beneficiarios Programa Nuestro Terreno",
+      "category": "intendencia-y-gabinete",
+      "category_label": "intendencia-y-gabinete",
+      "organization": "Intendencia y gabinete",
+      "organization_slug": "intendencia-y-gabinete",
+      "license": "Creative Commons Attribution",
+      "notes": "Listado de beneficiarios del programa Nuestro Terreno y condición en la que salieron beneficiados.",
+      "tags": [
+        "nuestro terreno",
+        "sorteo terrenos",
+        "terrenos",
+        "vivienda",
+        "viviendas"
+      ],
+      "created": "2026-03-26T17:35:54.942089",
+      "last_updated": "2026-03-27T15:00:15.813988",
+      "source_url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/beneficiarios-programa-nuestro-terreno",
+      "resources": [
+        {
+          "ckan_resource_id": "6271a597-654e-487b-9455-282a8c785b9d",
+          "name": "nuestro_terreno_beneficiarios_2021.csv",
+          "format": "CSV",
+          "description": "Beneficiarios del programa Nuestro Terreno en el año 2021.",
+          "created": "2026-03-26T17:36:24.310898",
+          "last_modified": "2026-03-26T17:36:24.284268",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/08bad9a6-2832-41ab-b827-14b9762de02f/resource/6271a597-654e-487b-9455-282a8c785b9d/download/nuestro_terreno_beneficiarios_2021.csv",
+          "local_path": "data/raw/intendencia-y-gabinete/beneficiarios-programa-nuestro-terreno-nuestro-terreno-beneficiarios-2021.csv",
+          "size_bytes": 26731,
+          "sha256": "1ca6af5636f23fde0350e6504cd3dd24e4538004b28abd3c9ceffd23b9c11022"
+        },
+        {
+          "ckan_resource_id": "453a7b06-6885-40c6-8d6c-528981c6e61c",
+          "name": "nuestro_terreno_beneficiarios_2022.csv",
+          "format": "CSV",
+          "description": "Beneficiarios del programa Nuestro Terreno en el año 2022.",
+          "created": "2026-03-26T17:36:35.341762",
+          "last_modified": "2026-03-26T17:36:35.312230",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/08bad9a6-2832-41ab-b827-14b9762de02f/resource/453a7b06-6885-40c6-8d6c-528981c6e61c/download/nuestro_terreno_beneficiarios_2022.csv",
+          "local_path": "data/raw/intendencia-y-gabinete/beneficiarios-programa-nuestro-terreno-nuestro-terreno-beneficiarios-2022.csv",
+          "size_bytes": 20614,
+          "sha256": "a3f1dec454f689b76c2e0a55082ae3d8b3e02ecae260ca9ae758a235d8e10fab"
+        },
+        {
+          "ckan_resource_id": "8a7bfa25-1f87-4280-aba4-6050fb288979",
+          "name": "nuestro_terreno_beneficiarios_2023.csv",
+          "format": "CSV",
+          "description": "Beneficiarios del programa Nuestro Terreno en el año 2023.",
+          "created": "2026-03-26T17:37:50.455269",
+          "last_modified": "2026-03-27T00:04:02.153128",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/08bad9a6-2832-41ab-b827-14b9762de02f/resource/8a7bfa25-1f87-4280-aba4-6050fb288979/download/nuestro_terreno_beneficiarios_2023.csv",
+          "local_path": "data/raw/intendencia-y-gabinete/beneficiarios-programa-nuestro-terreno-nuestro-terreno-beneficiarios-2023.csv",
+          "size_bytes": 20730,
+          "sha256": "778562ef84680c811ad5d44bb52bc45d484fb28385e01aca42cc197b79c9d3be"
+        },
+        {
+          "ckan_resource_id": "129e9dbd-517b-4f59-8b9b-f13cc1b46ab5",
+          "name": "nuestro_terreno_beneficiarios_2024.csv",
+          "format": "CSV",
+          "description": "Beneficiarios del programa Nuestro Terreno en el año 2024.",
+          "created": "2026-03-27T12:21:23.714147",
+          "last_modified": "2026-03-27T12:21:23.681299",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/08bad9a6-2832-41ab-b827-14b9762de02f/resource/129e9dbd-517b-4f59-8b9b-f13cc1b46ab5/download/nuestro_terreno_beneficiarios_2024.csv",
+          "local_path": "data/raw/intendencia-y-gabinete/beneficiarios-programa-nuestro-terreno-nuestro-terreno-beneficiarios-2024.csv",
+          "size_bytes": 18928,
+          "sha256": "872c45e5cdd5ccf513b7c72d5a1bc2fddf288ec68cb9e5a796529c935a3b8de6"
+        },
+        {
+          "ckan_resource_id": "3f7e0cf8-807c-4fa2-b52e-28da5525e69b",
+          "name": "nuestro_terreno_beneficiarios_2025.csv",
+          "format": "CSV",
+          "description": "Beneficiarios del programa Nuestro Terreno en el año 2025.",
+          "created": "2026-03-27T12:22:34.225925",
+          "last_modified": "2026-03-27T12:22:34.186443",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/08bad9a6-2832-41ab-b827-14b9762de02f/resource/3f7e0cf8-807c-4fa2-b52e-28da5525e69b/download/nuestro_terreno_beneficiarios_2025.csv",
+          "local_path": "data/raw/intendencia-y-gabinete/beneficiarios-programa-nuestro-terreno-nuestro-terreno-beneficiarios-2025.csv",
+          "size_bytes": 14025,
+          "sha256": "6521a1b1edc4fa66fb34c96ec26c93c0e25a23dd73ce2874682c9468cf113141"
+        }
+      ]
+    },
+    {
+      "id": "organigrama",
+      "title": "Organigrama",
+      "category": "politicas-verdes",
+      "category_label": "Politicas Verdes",
+      "organization": "Intendencia y gabinete",
+      "organization_slug": "intendencia-y-gabinete",
+      "license": null,
+      "notes": "Estructura orgánica de la Municipalidad de Venado Tuerto hasta marzo de 2026.",
+      "tags": [
+        "funcionarios",
+        "gobierno",
+        "organigrama"
+      ],
+      "created": "2026-01-28T20:10:44.986538",
+      "last_updated": "2026-04-02T11:23:58.293084",
+      "source_url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/organigrama",
+      "resources": [
+        {
+          "ckan_resource_id": "8f7922ee-b750-4884-99e1-5c5a808b964a",
+          "name": "organigrama_municipal_2026.csv",
+          "format": "CSV",
+          "description": "Estructura orgánica de la Municipalidad de Venado Tuerto hasta marzo de 2026. ",
+          "created": "2026-01-28T20:11:15.467731",
+          "last_modified": "2026-03-26T17:30:02.423873",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/e153090f-1afd-4b27-a697-fcd4c617eead/resource/8f7922ee-b750-4884-99e1-5c5a808b964a/download/organigrama_municipal_2026.csv",
+          "local_path": "data/raw/politicas-verdes/organigrama.csv",
+          "size_bytes": 16480,
+          "sha256": "51c134afe028e3c71f8c51ece6e60a573ec75d2c286f75e7570d743120e3644b"
+        }
+      ]
+    },
+    {
+      "id": "visitas-a-la-planta-de-tratamiento-de-residuos-solidos-urbanos-2025",
+      "title": "Visitas a la Planta de Tratamiento de Residuos Sólidos Urbanos",
+      "category": "politicas-verdes",
+      "category_label": "Politicas Verdes",
+      "organization": "Intendencia y gabinete",
+      "organization_slug": "intendencia-y-gabinete",
+      "license": "Open Data Commons Attribution License",
+      "notes": "Visitas realizadas por escuelas e instituciones de Venado Tuerto y la zona.",
+      "tags": [
+        "planta",
+        "planta de tratamiento",
+        "reciclaje",
+        "reciclar venado"
+      ],
+      "created": "2026-01-28T20:07:51.371045",
+      "last_updated": "2026-03-31T12:54:40.736447",
+      "source_url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/visitas-a-la-planta-de-tratamiento-de-residuos-solidos-urbanos-2025",
+      "resources": [
+        {
+          "ckan_resource_id": "abdaacb7-c3fb-4808-8b34-b83b81e69aad",
+          "name": "visitas_planta_2025.csv",
+          "format": "CSV",
+          "description": "Visitas a la Planta de Tratamiento de Residuos Sólidos Urbanos realizadas por escuelas e instituciones de Venado Tuerto y la zona.",
+          "created": "2026-01-28T20:08:30.899486",
+          "last_modified": "2026-01-28T20:08:30.875402",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/e1589cf2-de55-4ed6-b8c5-75f8e434ef89/resource/abdaacb7-c3fb-4808-8b34-b83b81e69aad/download/visitas_planta_2025.csv",
+          "local_path": "data/raw/politicas-verdes/visitas-a-la-planta-de-tratamiento-de-residuos-solidos-urbanos-2025.csv",
+          "size_bytes": 5400,
+          "sha256": "f2ff2129ce4bb8eb1d920ee0046c21af7f7de5eaef090945f48f0def61bc7fc3"
+        }
+      ]
+    },
+    {
+      "id": "fabricacion-municipal-de-tubos-y-ladrillos-2020",
+      "title": "Fabricación municipal de tubos y ladrillos",
+      "category": "servicios-y-obras-publicas",
+      "category_label": "servicios-y-obras-publicas",
+      "organization": "Servicios y obras públicas",
+      "organization_slug": "servicios-y-obras-publicas",
+      "license": "Open Data Commons Attribution License",
+      "notes": "Cantidad de tubos y ladrillos fabricados por el municipio.",
+      "tags": [
+        "obras",
+        "obras publicas"
+      ],
+      "created": "2026-01-28T21:19:47.479218",
+      "last_updated": "2026-04-01T10:46:24.860001",
+      "source_url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/fabricacion-municipal-de-tubos-y-ladrillos-2020",
+      "resources": [
+        {
+          "ckan_resource_id": "6c1449c4-edb8-44fe-ab10-90b94b3a3788",
+          "name": "fabrica_tubos_2020.csv",
+          "format": "CSV",
+          "description": "Producción municipal de tubos, ladrillos y otros elementos de hormigón durante 2020.",
+          "created": "2026-01-28T21:20:33.965863",
+          "last_modified": "2026-04-01T10:24:44.044335",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/2b546c56-d982-41b3-a6d7-67edf24162ac/resource/6c1449c4-edb8-44fe-ab10-90b94b3a3788/download/fabrica_tubos_2020.csv",
+          "local_path": "data/raw/servicios-y-obras-publicas/fabricacion-municipal-de-tubos-y-ladrillos-2020-fabrica-tubos-2020.csv",
+          "size_bytes": 269,
+          "sha256": "36a836a1f3150507c7744b4f41ba51bf146164b7c89a27f3f6c71e0efe55ca67"
+        },
+        {
+          "ckan_resource_id": "8a9909bc-7824-42fa-9aa9-6497d397005e",
+          "name": "fabrica_tubos_2021.csv",
+          "format": "CSV",
+          "description": "Producción municipal de tubos, ladrillos y otros elementos de hormigón durante 2021.",
+          "created": "2026-03-31T12:57:10.047559",
+          "last_modified": "2026-03-31T12:57:10.025974",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/2b546c56-d982-41b3-a6d7-67edf24162ac/resource/8a9909bc-7824-42fa-9aa9-6497d397005e/download/fabrica_tubos_2021.csv",
+          "local_path": "data/raw/servicios-y-obras-publicas/fabricacion-municipal-de-tubos-y-ladrillos-2020-fabrica-tubos-2021.csv",
+          "size_bytes": 447,
+          "sha256": "df3a38b2b821f19c400490bb734291cff54903b3a56c1dad37c6c0a098e77cd6"
+        },
+        {
+          "ckan_resource_id": "ea9e8908-5284-4ea6-8e75-b27efc14f785",
+          "name": "fabrica_tubos_2022.csv",
+          "format": "CSV",
+          "description": "Producción municipal de tubos, ladrillos y otros elementos de hormigón durante 2022.",
+          "created": "2026-03-31T12:59:48.336140",
+          "last_modified": "2026-03-31T12:59:48.311130",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/2b546c56-d982-41b3-a6d7-67edf24162ac/resource/ea9e8908-5284-4ea6-8e75-b27efc14f785/download/fabrica_tubos_2022.csv",
+          "local_path": "data/raw/servicios-y-obras-publicas/fabricacion-municipal-de-tubos-y-ladrillos-2020-fabrica-tubos-2022.csv",
+          "size_bytes": 403,
+          "sha256": "2ef91d428d7de440bd4e377ff3dce495d0d813c712c25032eb4a77bf9feab78a"
+        },
+        {
+          "ckan_resource_id": "74c3a466-53cc-4865-87c5-35c6362de9c1",
+          "name": "fabrica_tubos_2023 .csv",
+          "format": "CSV",
+          "description": "Producción municipal de tubos, ladrillos y otros elementos de hormigón durante 2023.",
+          "created": "2026-03-31T13:01:08.617153",
+          "last_modified": "2026-03-31T13:01:08.590861",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/2b546c56-d982-41b3-a6d7-67edf24162ac/resource/74c3a466-53cc-4865-87c5-35c6362de9c1/download/fabrica_tubos_2023-.csv",
+          "local_path": "data/raw/servicios-y-obras-publicas/fabricacion-municipal-de-tubos-y-ladrillos-2020-fabrica-tubos-2023.csv",
+          "size_bytes": 381,
+          "sha256": "de9036bc9cbafb4f70163a714231f3a12c57693605c319016b779c7c0d6639e9"
+        },
+        {
+          "ckan_resource_id": "37fc75d6-aab3-4690-a151-05bb402cc245",
+          "name": "fabrica_tubos_2024.csv",
+          "format": "CSV",
+          "description": "Producción municipal de tubos, ladrillos y otros elementos de hormigón durante 2024.",
+          "created": "2026-03-31T13:06:01.938961",
+          "last_modified": "2026-03-31T13:06:01.900639",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/2b546c56-d982-41b3-a6d7-67edf24162ac/resource/37fc75d6-aab3-4690-a151-05bb402cc245/download/fabrica_tubos_2024.csv",
+          "local_path": "data/raw/servicios-y-obras-publicas/fabricacion-municipal-de-tubos-y-ladrillos-2020-fabrica-tubos-2024.csv",
+          "size_bytes": 339,
+          "sha256": "a236df07c65b94ad7b90b7750ed23b3e4fe5fd3891e74f2f16780f89d48d4d00"
+        },
+        {
+          "ckan_resource_id": "2f393c88-c200-45a3-820f-436cf68bad36",
+          "name": "fabrica_tubos_2025.csv",
+          "format": "CSV",
+          "description": "Producción municipal de tubos, ladrillos y otros elementos de hormigón durante 2025.",
+          "created": "2026-03-31T13:24:51.282835",
+          "last_modified": "2026-04-01T10:46:24.847808",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/2b546c56-d982-41b3-a6d7-67edf24162ac/resource/2f393c88-c200-45a3-820f-436cf68bad36/download/fabrica_tubos_2025.csv",
+          "local_path": "data/raw/servicios-y-obras-publicas/fabricacion-municipal-de-tubos-y-ladrillos-2020-fabrica-tubos-2025.csv",
+          "size_bytes": 424,
+          "sha256": "d4f0bfa7d117b6b6d6a8adaafdb41858e1c16500fdc80e37867cf54aa82541fd"
+        }
+      ]
+    },
+    {
+      "id": "obras-de-pavimento-cordon-cuneta-y-otros-2020",
+      "title": "Obras de pavimento, cordón cuneta y otros",
+      "category": "servicios-y-obras-publicas",
+      "category_label": "servicios-y-obras-publicas",
+      "organization": "Servicios y obras públicas",
+      "organization_slug": "servicios-y-obras-publicas",
+      "license": "Open Data Commons Attribution License",
+      "notes": "Obras de pavimento, cordón cuneta y otros.",
+      "tags": [
+        "asfalto",
+        "cordon",
+        "cordon cuneta",
+        "faja central",
+        "hormigon",
+        "obras",
+        "obras publicas",
+        "pavimento"
+      ],
+      "created": "2026-01-28T21:08:13.297631",
+      "last_updated": "2026-04-01T10:53:24.855578",
+      "source_url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/obras-de-pavimento-cordon-cuneta-y-otros-2020",
+      "resources": [
+        {
+          "ckan_resource_id": "51544ed1-ecff-4c06-8af3-9d486568d553",
+          "name": "pavimentos_cc_2020.csv",
+          "format": "CSV",
+          "description": "Obras de pavimento, cordón cuneta y otros realizadas en 2020.",
+          "created": "2026-01-28T21:08:53.495519",
+          "last_modified": "2026-03-31T13:12:30.731534",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/0ba6bcd3-4ee2-48f9-a5fc-9be3c6ff24b3/resource/51544ed1-ecff-4c06-8af3-9d486568d553/download/pavimentos_cc_2020.csv",
+          "local_path": "data/raw/servicios-y-obras-publicas/obras-de-pavimento-cordon-cuneta-y-otros-2020-pavimentos-cc-2020.csv",
+          "size_bytes": 416,
+          "sha256": "1d2613403639194196647d7c5cbc64724be1f274d40ff942ea906ab7514ba3d9"
+        },
+        {
+          "ckan_resource_id": "baad2b9c-23da-4db0-b774-cd98b3eaaaaf",
+          "name": "pavimentos_cc_2021.csv",
+          "format": "CSV",
+          "description": "Obras de pavimento, cordón cuneta y otros realizadas en 2021.",
+          "created": "2026-03-31T13:13:15.889131",
+          "last_modified": "2026-03-31T13:13:15.850529",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/0ba6bcd3-4ee2-48f9-a5fc-9be3c6ff24b3/resource/baad2b9c-23da-4db0-b774-cd98b3eaaaaf/download/pavimentos_cc_2021.csv",
+          "local_path": "data/raw/servicios-y-obras-publicas/obras-de-pavimento-cordon-cuneta-y-otros-2020-pavimentos-cc-2021.csv",
+          "size_bytes": 4262,
+          "sha256": "9f34be9ae7e2c2f75cc149ee066c668f42b256e9bf2295014b586ef1a1e9e508"
+        },
+        {
+          "ckan_resource_id": "664020ab-d522-478b-94ea-083b84f4a8fc",
+          "name": "pavimentos_cc_2022.csv",
+          "format": "CSV",
+          "description": "Obras de pavimento, cordón cuneta y otros realizadas en 2022.",
+          "created": "2026-03-31T13:13:28.277511",
+          "last_modified": "2026-03-31T13:13:28.237797",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/0ba6bcd3-4ee2-48f9-a5fc-9be3c6ff24b3/resource/664020ab-d522-478b-94ea-083b84f4a8fc/download/pavimentos_cc_2022.csv",
+          "local_path": "data/raw/servicios-y-obras-publicas/obras-de-pavimento-cordon-cuneta-y-otros-2020-pavimentos-cc-2022.csv",
+          "size_bytes": 7495,
+          "sha256": "ba9de79acc5de051ebc2911474acd89944e673dfacf1224de2b84c92067d0076"
+        },
+        {
+          "ckan_resource_id": "5e6bfd8b-6cb7-4476-bc91-a1ba54d2bd0c",
+          "name": "pavimentos_cc_2023.csv",
+          "format": "CSV",
+          "description": "Obras de pavimento, cordón cuneta y otros realizadas en 2023.",
+          "created": "2026-03-31T13:13:39.780604",
+          "last_modified": "2026-03-31T13:13:39.728436",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/0ba6bcd3-4ee2-48f9-a5fc-9be3c6ff24b3/resource/5e6bfd8b-6cb7-4476-bc91-a1ba54d2bd0c/download/pavimentos_cc_2023.csv",
+          "local_path": "data/raw/servicios-y-obras-publicas/obras-de-pavimento-cordon-cuneta-y-otros-2020-pavimentos-cc-2023.csv",
+          "size_bytes": 7473,
+          "sha256": "927ef1ffbc6d62ecc8f2a7ad985b876dbe28e9266ee00a460c2fe2c0c9fc4d01"
+        },
+        {
+          "ckan_resource_id": "f50970cb-7ecd-4f72-9173-41279de7506d",
+          "name": "pavimentos_cc_2024.csv",
+          "format": "CSV",
+          "description": "Obras de pavimento, cordón cuneta y otros realizadas en 2024.",
+          "created": "2026-03-31T13:13:52.627105",
+          "last_modified": "2026-03-31T13:13:52.586217",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/0ba6bcd3-4ee2-48f9-a5fc-9be3c6ff24b3/resource/f50970cb-7ecd-4f72-9173-41279de7506d/download/pavimentos_cc_2024.csv",
+          "local_path": "data/raw/servicios-y-obras-publicas/obras-de-pavimento-cordon-cuneta-y-otros-2020-pavimentos-cc-2024.csv",
+          "size_bytes": 3718,
+          "sha256": "b68dca36b59521f9740b9e9d0727c917eea6a64e1b5cbb984596aec9014b254f"
+        },
+        {
+          "ckan_resource_id": "3a589623-a3f7-4d21-890b-61c241891b96",
+          "name": "pavimentos_cc_2025.csv",
+          "format": "CSV",
+          "description": "Obras de pavimento y cordón cuneta realizadas durante el año 2025.",
+          "created": "2026-03-31T13:21:56.627467",
+          "last_modified": "2026-03-31T13:21:56.576395",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/0ba6bcd3-4ee2-48f9-a5fc-9be3c6ff24b3/resource/3a589623-a3f7-4d21-890b-61c241891b96/download/pavimentos_cc_2025.csv",
+          "local_path": "data/raw/servicios-y-obras-publicas/obras-de-pavimento-cordon-cuneta-y-otros-2020-pavimentos-cc-2025.csv",
+          "size_bytes": 3889,
+          "sha256": "6db79f6a509508d33c0484a85f29baa60a3aaf881172515186c5843189c09c99"
+        }
+      ]
+    },
+    {
+      "id": "viajes-y-kilometros-recorridos-tup",
+      "title": "Viajes y kilómetros recorridos TUP",
+      "category": "servicios-y-obras-publicas",
+      "category_label": "servicios-y-obras-publicas",
+      "organization": "Servicios y obras públicas",
+      "organization_slug": "servicios-y-obras-publicas",
+      "license": "Creative Commons Attribution",
+      "notes": "Cantidad de viajes y recorridos por el transporte urbano de pasajeros.",
+      "tags": [
+        "TUP",
+        "colectivos",
+        "movilidad",
+        "pasajeros",
+        "tup",
+        "viajes"
+      ],
+      "created": "2026-03-21T22:11:21.926280",
+      "last_updated": "2026-03-21T22:15:10.502106",
+      "source_url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/viajes-y-kilometros-recorridos-tup",
+      "resources": [
+        {
+          "ckan_resource_id": "166da140-23c4-4cd5-9e5d-f0230c4ad22f",
+          "name": "tup_2020.csv",
+          "format": "CSV",
+          "description": "Viajes y km recorridos TUP 2020.",
+          "created": "2026-03-21T22:11:55.007785",
+          "last_modified": "2026-03-21T22:11:54.976946",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/801d8e82-d8ef-47af-8de7-2ffe427272a2/resource/166da140-23c4-4cd5-9e5d-f0230c4ad22f/download/tup_2020.csv",
+          "local_path": "data/raw/servicios-y-obras-publicas/viajes-y-kilometros-recorridos-tup-tup-2020.csv",
+          "size_bytes": 208,
+          "sha256": "20ae60b6020dede296b0c07084455d6d916117ef45078c188fa00809d16c67da"
+        },
+        {
+          "ckan_resource_id": "14b2a4f0-bc09-4437-a0d5-73fcd69043f9",
+          "name": "tup_2021.csv",
+          "format": "CSV",
+          "description": "Viajes y kilómetros recorridos por el TUP durante 2021.",
+          "created": "2026-03-21T22:13:40.377549",
+          "last_modified": "2026-03-21T22:13:40.346377",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/801d8e82-d8ef-47af-8de7-2ffe427272a2/resource/14b2a4f0-bc09-4437-a0d5-73fcd69043f9/download/tup_2021.csv",
+          "local_path": "data/raw/servicios-y-obras-publicas/viajes-y-kilometros-recorridos-tup-tup-2021.csv",
+          "size_bytes": 270,
+          "sha256": "3cf9aa083e94b69f083af37fadf87f64f57b437561be2e085663acc76bbb4d42"
+        },
+        {
+          "ckan_resource_id": "3cbaa680-fd0c-46a8-9d05-3b17d975e2ee",
+          "name": "tup_2022.csv",
+          "format": "CSV",
+          "description": "Viajes y kilómetros recorridos por el TUP durante 2022.",
+          "created": "2026-03-21T22:14:08.995940",
+          "last_modified": "2026-03-21T22:14:08.963017",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/801d8e82-d8ef-47af-8de7-2ffe427272a2/resource/3cbaa680-fd0c-46a8-9d05-3b17d975e2ee/download/tup_2022.csv",
+          "local_path": "data/raw/servicios-y-obras-publicas/viajes-y-kilometros-recorridos-tup-tup-2022.csv",
+          "size_bytes": 273,
+          "sha256": "d40699fb857f44059e21ba2e7d5052f5e9c5f3f9f77c863d478a3eb52fc68b3f"
+        },
+        {
+          "ckan_resource_id": "fd859f69-7187-473a-b63a-b103b9169af2",
+          "name": "tup_2023.csv",
+          "format": "CSV",
+          "description": "Viajes y kilómetros recorridos por el TUP durante 2023.",
+          "created": "2026-03-21T22:14:31.265079",
+          "last_modified": "2026-03-21T22:14:31.232334",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/801d8e82-d8ef-47af-8de7-2ffe427272a2/resource/fd859f69-7187-473a-b63a-b103b9169af2/download/tup_2023.csv",
+          "local_path": "data/raw/servicios-y-obras-publicas/viajes-y-kilometros-recorridos-tup-tup-2023.csv",
+          "size_bytes": 273,
+          "sha256": "1e0e4f9e9fc9e1c0cbbadd0a368ae18f6679b662e2fdc6883b64448a397f2917"
+        },
+        {
+          "ckan_resource_id": "6102b4d0-162f-44d5-8f4c-ac18e58b664a",
+          "name": "tup_2024.csv",
+          "format": "CSV",
+          "description": "Viajes y kilómetros recorridos por el TUP durante 2024.",
+          "created": "2026-03-21T22:14:48.673384",
+          "last_modified": "2026-03-21T22:14:48.634120",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/801d8e82-d8ef-47af-8de7-2ffe427272a2/resource/6102b4d0-162f-44d5-8f4c-ac18e58b664a/download/tup_2024.csv",
+          "local_path": "data/raw/servicios-y-obras-publicas/viajes-y-kilometros-recorridos-tup-tup-2024.csv",
+          "size_bytes": 273,
+          "sha256": "80ab6e9064441592328b654bdc92a579cf12b2d6f3bc807c200a121e2dccf8df"
+        },
+        {
+          "ckan_resource_id": "195246a0-9e49-4beb-b293-9cfc22cec6e2",
+          "name": "tup_2025.csv",
+          "format": "CSV",
+          "description": "Viajes y kilómetros recorridos por el TUP durante 2025.",
+          "created": "2026-03-21T22:15:05.824176",
+          "last_modified": "2026-03-21T22:15:05.785551",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/801d8e82-d8ef-47af-8de7-2ffe427272a2/resource/195246a0-9e49-4beb-b293-9cfc22cec6e2/download/tup_2025.csv",
+          "local_path": "data/raw/servicios-y-obras-publicas/viajes-y-kilometros-recorridos-tup-tup-2025.csv",
+          "size_bytes": 273,
+          "sha256": "da2becd2de23b519d05971cb70ce3ad9bafb4dd444a2ba974bc1b5c4af67b547"
+        }
+      ]
+    },
+    {
+      "id": "oferta-educativa-terciaria-y-universitaria-en-venado-tuerto",
+      "title": "Instituciones educativas",
+      "category": "territorialidad-y-desarrollo-cultural",
+      "category_label": "territorialidad-y-desarrollo-cultural",
+      "organization": "Territorialidad y desarrollo cultural",
+      "organization_slug": "territorialidad-y-desarrollo-cultural",
+      "license": "Open Data Commons Attribution License",
+      "notes": "Oferta educativa en la ciudad de Venado Tuerto, desde nivel inicial a nivel superior.",
+      "tags": [
+        "educacion",
+        "oferta educativa",
+        "terciario",
+        "universitario"
+      ],
+      "created": "2026-01-28T20:43:44.204113",
+      "last_updated": "2026-04-08T15:47:19.579972",
+      "source_url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/oferta-educativa-terciaria-y-universitaria-en-venado-tuerto",
+      "resources": [
+        {
+          "ckan_resource_id": "462acc98-eccb-47f8-9047-d10ce7faf521",
+          "name": "instituciones_educativas_terciarias_y_universitarias.csv",
+          "format": "CSV",
+          "description": "Oferta educativa de las instituciones terciarias y universitarias de Venado Tuerto.",
+          "created": "2026-01-28T20:44:13.389377",
+          "last_modified": "2026-01-28T20:44:13.365565",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/51886e7a-cae9-4bfe-a732-96b6967b9fb6/resource/462acc98-eccb-47f8-9047-d10ce7faf521/download/instituciones_educativas.csv",
+          "local_path": "data/raw/territorialidad-y-desarrollo-cultural/oferta-educativa-terciaria-y-universitaria-en-venado-tuerto-instituciones-educativas-terciarias-y-universitarias.csv",
+          "size_bytes": 63918,
+          "sha256": "817c1ddd5fd7e4048aabd8234132e8796d954dc4cd228f5069931975a3f3021c"
+        },
+        {
+          "ckan_resource_id": "2c58347a-eb58-4b41-985d-3c8bbe7fca4d",
+          "name": "escuelas_primarias.csv",
+          "format": "CSV",
+          "description": "Escuelas primarias de la ciudad y medios de contacto.",
+          "created": "2026-04-08T15:15:44.979583",
+          "last_modified": "2026-04-08T15:39:24.625711",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/51886e7a-cae9-4bfe-a732-96b6967b9fb6/resource/2c58347a-eb58-4b41-985d-3c8bbe7fca4d/download/escuelas_primarias.csv",
+          "local_path": "data/raw/territorialidad-y-desarrollo-cultural/oferta-educativa-terciaria-y-universitaria-en-venado-tuerto-escuelas-primarias.csv",
+          "size_bytes": 3099,
+          "sha256": "bffeaefb228332e7d18c56d3fbfa4ead802704055c3f0a6b59df2920595df066"
+        },
+        {
+          "ckan_resource_id": "60f53580-e7d4-4f70-aa68-0d9d51994235",
+          "name": "escuelas_secundarias.csv",
+          "format": "CSV",
+          "description": "Escuelas secundarias de la ciudad y medios de contacto.",
+          "created": "2026-04-08T15:16:23.953200",
+          "last_modified": "2026-04-08T15:42:09.293686",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/51886e7a-cae9-4bfe-a732-96b6967b9fb6/resource/60f53580-e7d4-4f70-aa68-0d9d51994235/download/escuelas_secundarias.csv",
+          "local_path": "data/raw/territorialidad-y-desarrollo-cultural/oferta-educativa-terciaria-y-universitaria-en-venado-tuerto-escuelas-secundarias.csv",
+          "size_bytes": 2652,
+          "sha256": "3c6db7563cfcf2f905ad6ff7627beb65e1ab38b8e20caa3d2b666e1e95f5e622"
+        },
+        {
+          "ckan_resource_id": "753d831d-ab21-4333-b735-2a0eecaa269f",
+          "name": "nivel_inicial.csv",
+          "format": "CSV",
+          "description": "Instituciones de nivel inicial de la ciudad de Venado Tuerto. Los jardines maternales municipales cuentan únicamente con salas hasta los 3 años de edad.",
+          "created": "2026-04-08T15:47:19.601098",
+          "last_modified": "2026-04-08T15:47:19.568804",
+          "url": "https://datos-abiertos.venadotuerto.gob.ar/dataset/51886e7a-cae9-4bfe-a732-96b6967b9fb6/resource/753d831d-ab21-4333-b735-2a0eecaa269f/download/nivel_inicial.csv",
+          "local_path": "data/raw/territorialidad-y-desarrollo-cultural/oferta-educativa-terciaria-y-universitaria-en-venado-tuerto-nivel-inicial.csv",
+          "size_bytes": 3345,
+          "sha256": "4f45e4538dce09c25e69a5d842e1ce41cac326b431d8ce89f7b9898f7f8f6dde"
+        }
+      ]
+    }
+  ]
+}

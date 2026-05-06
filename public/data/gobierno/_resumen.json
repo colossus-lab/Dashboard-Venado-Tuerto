@@ -1,0 +1,344 @@
+{
+  "meta": {
+    "id": "gobierno",
+    "title": "Gobierno · Resumen ejecutivo",
+    "category": "gobierno",
+    "description": "Tablero de la estructura administrativa del municipio: planta de agentes, capacitación interna, documentación al ciudadano y participación vecinal.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/",
+    "license": "CC-BY / ODC-BY",
+    "last_updated": "2026-03-27T16:58:10.354883",
+    "organization": "Gobierno · Múltiples áreas"
+  },
+  "kpis": [
+    {
+      "id": "agentes",
+      "label": "Agentes municipales",
+      "value": 1345,
+      "formatted": "1.345",
+      "hint": "970 permanentes"
+    },
+    {
+      "id": "capacitaciones",
+      "label": "Capacitaciones RRHH (acumulado)",
+      "value": 137,
+      "formatted": "137",
+      "status": "good",
+      "hint": "3.280 participaciones"
+    },
+    {
+      "id": "cdr-2025",
+      "label": "Documentos CDR 2025",
+      "value": 6568,
+      "formatted": "6.568",
+      "hint": "27,2% vs 2024"
+    },
+    {
+      "id": "vecinales",
+      "label": "Comisiones vecinales",
+      "value": 27,
+      "formatted": "27",
+      "hint": "27 con teléfono publicado"
+    },
+    {
+      "id": "votantes-elec",
+      "label": "Votantes en últimas vecinales",
+      "value": 2846,
+      "formatted": "2.846",
+      "hint": "8 barrios participantes"
+    }
+  ],
+  "charts": [
+    {
+      "id": "personal-vinculo",
+      "type": "horizontalBar",
+      "title": "Composición de la planta municipal",
+      "subtitle": "Agentes según tipo de vínculo laboral.",
+      "data": [
+        {
+          "tipo": "Personal Permanente",
+          "agentes": 970
+        },
+        {
+          "tipo": "Personal Contratado",
+          "agentes": 341
+        },
+        {
+          "tipo": "Gabinete",
+          "agentes": 19
+        },
+        {
+          "tipo": "Departamento Ejecutivo",
+          "agentes": 13
+        },
+        {
+          "tipo": "Ordenanza Nº 4385/2013",
+          "agentes": 1
+        }
+      ],
+      "config": {
+        "indexBy": "tipo",
+        "keys": [
+          "agentes"
+        ]
+      }
+    },
+    {
+      "id": "capac-yoy",
+      "type": "area",
+      "title": "Capacitaciones al personal por año",
+      "subtitle": "Total de participaciones registradas en programas de RRHH.",
+      "data": [
+        {
+          "anio": "2021",
+          "participantes": 820
+        },
+        {
+          "anio": "2022",
+          "participantes": 428
+        },
+        {
+          "anio": "2023",
+          "participantes": 738
+        },
+        {
+          "anio": "2024",
+          "participantes": 627
+        },
+        {
+          "anio": "2025",
+          "participantes": 667
+        }
+      ],
+      "config": {
+        "indexBy": "anio",
+        "keys": [
+          "participantes"
+        ]
+      }
+    },
+    {
+      "id": "cdr-mensual",
+      "type": "stackedBar",
+      "title": "Documentación emitida en el CDR",
+      "subtitle": "Total de trámites mensuales (DNI, pasaporte, actualizaciones) — 2024 vs 2025.",
+      "data": [
+        {
+          "2024": 459,
+          "2025": 711,
+          "mes": "Enero"
+        },
+        {
+          "2024": 382,
+          "2025": 571,
+          "mes": "Febrero"
+        },
+        {
+          "2024": 384,
+          "2025": 525,
+          "mes": "Marzo"
+        },
+        {
+          "2024": 349,
+          "2025": 407,
+          "mes": "Abril"
+        },
+        {
+          "2024": 403,
+          "2025": 510,
+          "mes": "Mayo"
+        },
+        {
+          "2024": 391,
+          "2025": 576,
+          "mes": "Junio"
+        },
+        {
+          "2024": 468,
+          "2025": 595,
+          "mes": "Julio"
+        },
+        {
+          "2024": 424,
+          "2025": 537,
+          "mes": "Agosto"
+        },
+        {
+          "2024": 483,
+          "2025": 627,
+          "mes": "Septiembre"
+        },
+        {
+          "2024": 512,
+          "2025": 513,
+          "mes": "Octubre"
+        },
+        {
+          "2024": 416,
+          "2025": 509,
+          "mes": "Noviembre"
+        },
+        {
+          "2024": 492,
+          "2025": 487,
+          "mes": "Diciembre"
+        }
+      ],
+      "config": {
+        "indexBy": "mes",
+        "keys": [
+          "2024",
+          "2025"
+        ]
+      }
+    }
+  ],
+  "tables": [
+    {
+      "id": "vecinales-tabla",
+      "title": "Comisiones vecinales con presidente y contacto",
+      "columns": [
+        "Barrio",
+        "Presidente",
+        "Teléfono"
+      ],
+      "rows": [
+        [
+          "Belgrano",
+          "Miguel Angel Jarque",
+          "3462553176"
+        ],
+        [
+          "Centro I",
+          "Ines Catalina Soljan",
+          "3462516780"
+        ],
+        [
+          "Centro II",
+          "Tomas Alejo Ricci",
+          "3462556319"
+        ],
+        [
+          "Centro III",
+          "Leonardo Martin Cuaranta",
+          "3462617409"
+        ],
+        [
+          "Ciudad Nueva",
+          "Luis Ubaldo Pedotta",
+          "3462535621"
+        ],
+        [
+          "El Cruce",
+          "Jose Alberto Gonzalez",
+          "3462501677"
+        ],
+        [
+          "Favaloro",
+          "Evangelina Rodriguez B.",
+          "3462412246"
+        ],
+        [
+          "Guemes",
+          "Emanuel Hernan Covichi",
+          "3462321736"
+        ],
+        [
+          "Gutierrez",
+          "Alicia Herminda Barraza",
+          "3462435120"
+        ],
+        [
+          "Iturbide",
+          "Guillermo Ariel Fraysse",
+          "3462631424"
+        ],
+        [
+          "Juan XXIII",
+          "Diego Armando Rosales",
+          "3462506771"
+        ],
+        [
+          "Los Pinos/Los Robles",
+          "Sandra Patricia Bolognini",
+          "3462672742"
+        ],
+        [
+          "Malvinas Argentinas",
+          "Luis Alberto Tonso",
+          "3462598437"
+        ],
+        [
+          "Norte",
+          "Juan Carlos Cellino",
+          "3462617895"
+        ],
+        [
+          "Polo Viejo",
+          "Pablo Fernando Hugonett",
+          "3462544343"
+        ],
+        [
+          "Provincias Unidas",
+          "Monica Emilia Longhi",
+          "3416712364"
+        ],
+        [
+          "Rivadavia",
+          "Rosa Amelia Benitez",
+          "3462644223"
+        ],
+        [
+          "San Cayetano",
+          "Santiago Nicolas Balague",
+          "3462607057"
+        ],
+        [
+          "San Jose Obrero",
+          "Juan Patricio Ferraris",
+          "3462607371"
+        ],
+        [
+          "San Martin",
+          "Juan Manuel Medica",
+          "3462410502"
+        ],
+        [
+          "Santa Fe",
+          "Gladys Mariela Ludueña",
+          "3462329433"
+        ],
+        [
+          "Santa Rosa",
+          "Olga Elena Diaz",
+          "3462614052"
+        ],
+        [
+          "San Vicente",
+          "Marcela Liliana Pederzoli",
+          "3462633896"
+        ],
+        [
+          "Silva",
+          "Marina del Valle Howes",
+          "3462368892"
+        ],
+        [
+          "Tiro Federal",
+          "Karina Leonor Mansilla",
+          "3462340059"
+        ],
+        [
+          "Victoria",
+          "Oscar Correa",
+          "3462621106"
+        ],
+        [
+          "Villa Casey",
+          "Diego Jesus Correa",
+          "3462627025"
+        ]
+      ],
+      "maxRows": 30
+    }
+  ]
+}

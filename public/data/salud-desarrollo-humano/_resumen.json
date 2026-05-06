@@ -1,0 +1,289 @@
+{
+  "meta": {
+    "id": "salud-desarrollo-humano",
+    "title": "Salud y Desarrollo Humano · Resumen ejecutivo",
+    "category": "salud-desarrollo-humano",
+    "description": "Atención primaria de salud, dispositivos de acompañamiento social y control sanitario alimentario.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/",
+    "license": "CC-BY / ODC-BY",
+    "last_updated": "2026-04-08T15:57:55.158466",
+    "organization": "Desarrollo Humano · Control Urbano"
+  },
+  "kpis": [
+    {
+      "id": "centros",
+      "label": "Centros de salud municipales",
+      "value": 12,
+      "formatted": "12",
+      "status": "good",
+      "hint": "Atención primaria distribuida en barrios"
+    },
+    {
+      "id": "creer",
+      "label": "Espacios Abordaje CREER",
+      "value": 8,
+      "formatted": "8",
+      "hint": "Centros de escucha y acompañamiento social"
+    },
+    {
+      "id": "carnets-2025",
+      "label": "Carnets manipulación 2025",
+      "value": 2129,
+      "formatted": "2.129",
+      "hint": "Emitidos por Seguridad Alimentaria"
+    }
+  ],
+  "charts": [
+    {
+      "id": "centros-tipo",
+      "type": "pie",
+      "title": "Centros de salud por tipo",
+      "subtitle": "Especialización del primer nivel de atención.",
+      "data": [
+        {
+          "id": "Adultos",
+          "label": "Adultos",
+          "value": 8
+        },
+        {
+          "id": "Pediátrico",
+          "label": "Pediátrico",
+          "value": 3
+        },
+        {
+          "id": "Pediátrico/Mujeres",
+          "label": "Pediátrico/Mujeres",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "creer-tipo",
+      "type": "horizontalBar",
+      "title": "Espacios CREER · tipo de dispositivo",
+      "subtitle": "Centros de escucha, acompañamiento y atención psicosocial.",
+      "data": [
+        {
+          "tipo": "Centro de escucha",
+          "espacios": 8
+        }
+      ],
+      "config": {
+        "indexBy": "tipo",
+        "keys": [
+          "espacios"
+        ]
+      }
+    },
+    {
+      "id": "carnets-mes",
+      "type": "bar",
+      "title": "Carnets de manipulación emitidos por mes",
+      "subtitle": "Trámite obligatorio para personal gastronómico (2025).",
+      "data": [
+        {
+          "mes": "2025-01",
+          "carnets": 10
+        },
+        {
+          "mes": "2025-02",
+          "carnets": 120
+        },
+        {
+          "mes": "2025-03",
+          "carnets": 217
+        },
+        {
+          "mes": "2025-04",
+          "carnets": 266
+        },
+        {
+          "mes": "2025-05",
+          "carnets": 266
+        },
+        {
+          "mes": "2025-06",
+          "carnets": 225
+        },
+        {
+          "mes": "2025-07",
+          "carnets": 111
+        },
+        {
+          "mes": "2025-08",
+          "carnets": 149
+        },
+        {
+          "mes": "2025-09",
+          "carnets": 156
+        },
+        {
+          "mes": "2025-10",
+          "carnets": 219
+        },
+        {
+          "mes": "2025-11",
+          "carnets": 207
+        },
+        {
+          "mes": "2025-12",
+          "carnets": 183
+        }
+      ],
+      "config": {
+        "indexBy": "mes",
+        "keys": [
+          "carnets"
+        ]
+      }
+    }
+  ],
+  "tables": [
+    {
+      "id": "tabla-centros",
+      "title": "Centros de salud · directorio",
+      "columns": [
+        "Centro",
+        "Dirección",
+        "Tipo",
+        "Días y horarios"
+      ],
+      "rows": [
+        [
+          "Centro integrador comunitario (CIC)",
+          "Vuelta de Obligado y Falucho",
+          "Adultos",
+          "Todos los días 7 a 20 h"
+        ],
+        [
+          "Iturbide",
+          "Caparrós 351",
+          "Pediátrico",
+          "Lunes a viernes 7 a 20 h"
+        ],
+        [
+          "Victoria",
+          "Chile 1350",
+          "Adultos",
+          "Lunes a viernes 7 a 13 h"
+        ],
+        [
+          "Ciudad Nueva",
+          "Amincton 585",
+          "Adultos",
+          "Lunes a viernes 7 a 20 h"
+        ],
+        [
+          "Asistencia pública municipal (APM)",
+          "Brown 478",
+          "Pediátrico/Mujeres",
+          "Lunes a viernes 7 a 17 h"
+        ],
+        [
+          "San José Obrero",
+          "Quintana 1300 (Quintana y Lisandro de la Torre)",
+          "Adultos",
+          "Lunes a viernes 7 a 20 h"
+        ],
+        [
+          "Rivadavia",
+          "26 de Abril 835",
+          "Adultos",
+          "Lunes a viernes 7 a 13 h"
+        ],
+        [
+          "Juan XXIII",
+          "Saenz Peña 1980 (Saenz Peña y Monteagudo)",
+          "Pediátrico",
+          "Lunes a viernes 7 a 13 h/Prosane 15 a 20 h"
+        ],
+        [
+          "Malvinas Argentinas",
+          "Valdez 555",
+          "Adultos",
+          "Lunes a viernes 7 a 20 h"
+        ],
+        [
+          "San Vicente",
+          "Dorrego 2600 (Dorrego y Goumond)",
+          "Adultos",
+          "Lunes a viernes 7 a 15 h"
+        ],
+        [
+          "Villa Casey",
+          "Mariano López 1344",
+          "Pediátrico",
+          "Lunes a viernes 7 a 13 h"
+        ],
+        [
+          "Santa Rosa",
+          "Balcarce 4151",
+          "Adultos",
+          "Lunes a viernes 7 a 13 h"
+        ]
+      ],
+      "maxRows": 30
+    },
+    {
+      "id": "tabla-creer",
+      "title": "Espacios CREER · puntos de atención",
+      "columns": [
+        "Espacio",
+        "Tipo",
+        "Dirección",
+        "Días y horarios"
+      ],
+      "rows": [
+        [
+          "Salón Oasis",
+          "Centro de escucha",
+          "Pje. Chaco 872",
+          "Lunes 9 a 11 h"
+        ],
+        [
+          "Salón Oasis",
+          "Centro de escucha",
+          "Pje. Chaco 872",
+          "Miércoles 11 a 15 h"
+        ],
+        [
+          "Salón Oasis",
+          "Centro de escucha",
+          "Pje. Chaco 872",
+          "Viernes 15 a 17 h"
+        ],
+        [
+          "Casa de los abuelos Beluardi",
+          "Centro de escucha",
+          "Pte. Perón 915",
+          "Lunes 15 a 17 h"
+        ],
+        [
+          "Casa de los abuelos Beluardi",
+          "Centro de escucha",
+          "Pte. Perón 915",
+          "Miércoles 12 a 16 h"
+        ],
+        [
+          "Casa de los abuelos Beluardi",
+          "Centro de escucha",
+          "Pte. Perón 915",
+          "Viernes 9 a 11 h"
+        ],
+        [
+          "Salón principal Ministerio Impacto de Dios",
+          "Centro de escucha",
+          "Sáenz Peña 1219",
+          "Martes 9 a 13 h"
+        ],
+        [
+          "Salón principal Ministerio Impacto de Dios",
+          "Centro de escucha",
+          "Sáenz Peña 1219",
+          "Jueves 13 a 17 h"
+        ]
+      ],
+      "maxRows": 30
+    }
+  ]
+}

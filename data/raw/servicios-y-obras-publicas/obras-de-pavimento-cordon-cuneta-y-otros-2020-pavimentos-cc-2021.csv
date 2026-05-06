@@ -1,0 +1,76 @@
+año,tipo_obra,dirección,altura,barrio
+2021,Pavimento,ALMAFUERTE,2000,Norte
+2021,Pavimento,PELLEGRINI,2000,Rivadavia
+2021,Pavimento,NEUQUEN,200,Cayetano Silva
+2021,Pavimento,LEONCIO DE LA BARRERA,800,Norte
+2021,Pavimento,BELGRANO,2200,Norte
+2021,Pavimento,"BASUALDO, NORA WADE DE",800,Norte
+2021,Pavimento,BELGRANO,2300,Norte
+2021,Pavimento,LEONCIO DE LA BARRERA,700,Norte
+2021,Pavimento,MAESTROS ARGENTINOS,900,San José Obrero
+2021,Pavimento,"DIMMER, GUILLERMO (EX CALLE 11) (PAR)",500,Norte
+2021,Pavimento,ALMAFUERTE,2100,Norte
+2021,Pavimento,SANTIAGO DEL ESTERO (EX CALLE IV 33),200,Cayetano Silva
+2021,Pavimento,"PERILLO, NATALIO (EX CALLE 18)",300,Güemes
+2021,Pavimento,"ITURBIDE, PEDRO",1000,Victoria
+2021,Pavimento,"ITURBIDE, PEDRO",1100,Victoria
+2021,Pavimento,"ITURBIDE, PEDRO",1200,Victoria
+2021,Pavimento,"ITURBIDE, PEDRO",1300,Victoria
+2021,Pavimento,ALVEAR,2100,Rivadavia
+2021,Pavimento,RODRIGUEZ PEÑA (EX CALLE IX 33),700,Cayetano Silva
+2021,Pavimento,ALMAFUERTE,2800,Malvinas Argentinas
+2021,Pavimento,QUINTANA,0,Norte
+2021,Pavimento,"RE, DR. ANGEL (EX CALLE 129)",600,San Cayetano
+2021,Pavimento,"SIGAL, ISAAC (EX CALLE 49 BARRIO CIUDAD NUEVA)",600,San Cayetano
+2021,Cordón cuneta,"BONANSEA, EGIDIO N. (EX CALLE 39)",1000,Villa Casey
+2021,Cordón cuneta,"BONANSEA, EGIDIO N. (EX CALLE 39)",1100,Villa Casey
+2021,Cordón cuneta,LAVALLE,3700,Villa Casey
+2021,Cordón cuneta,LAVALLE,3800,Villa Casey
+2021,Reconstrucción cordón cuneta,LAPRIDA (IMPAR),600,Güemes
+2021,Cordón cuneta,"COBEÑAS, DR. ALFREDO (EX CALLE 37)",1000,Villa Casey
+2021,Cordón cuneta,BELGRANO,2600,Malvinas Argentinas
+2021,Cordón cuneta,"TURNER, SANTIAGO",800,Iturbide
+2021,Cordón cuneta,"COBEÑAS, DR. ALFREDO (EX CALLE 37)",1100,Villa Casey
+2021,Cordón cuneta,"TURNER, SANTIAGO",700,Iturbide
+2021,Cordón cuneta,"CAPARROS, RAIMUNDO (EX CALLE 105)",600,Iturbide
+2021,Cordón cuneta,"CAPARROS, RAIMUNDO (EX CALLE 105)",500,Iturbide
+2021,Cordón cuneta,DANTE ALIGHIERI,1600,Rivadavia
+2021,Cordón cuneta,REPUBLICA DE CROACIA (EX CALLE 45 BARRIO CIUDAD NUEVA),1200,Ciudad Nueva
+2021,Cordón cuneta,"LASCALA, PRICIANO",1000,Rivadavia
+2021,Cordón cuneta,SAN JUAN,200,Cayetano Silva
+2021,Cordón cuneta,CATAMARCA,700,Ciudad Nueva
+2021,Cordón cuneta,"TONELLI, MIGUEL (EX CALLE 41 BARRIO CIUDAD NUEVA)",1100,Ciudad Nueva
+2021,Cordón cuneta,"GIACAGLIA, ULISES (EX CALLE 22)",600,
+2021,Cordón cuneta,"GIACAGLIA, ULISES (EX CALLE 22)",700,
+2021,Cordón cuneta,"GIACAGLIA, ULISES (EX CALLE 22)",800,
+2021,Cordón cuneta,"GIACAGLIA, ULISES (EX CALLE 22)",900,
+2021,Cordón cuneta,"STRENITZ, HUGO (CALLE 43 BARRIO CIUDAD NUEVA)",1100,Ciudad Nueva
+2021,Bocacalle,"GARBARINO, CARLOS (EX CALLE 106)",700,Rivadavia
+2021,Bocacalle,ALMAFUERTE,2000,Norte
+2021,Reconstrucción aleta,LAPRIDA (IMPAR),600,Güemes
+2021,Centro bocacalle,PELLEGRINI,1900,Rivadavia
+2021,Bocacalle,LAVALLE,3600,Villa Casey
+2021,Bocacalle,GÜEMES (PAR),500,Pcias Unidas
+2021,Aleta,"TURNER, SANTIAGO",800,Iturbide
+2021,Aleta bocacalle,"BONANSEA, EGIDIO N. (EX CALLE 39)",1000,Villa Casey
+2021,Aleta bocacalle,"COBEÑAS, DR. ALFREDO (EX CALLE 37)",1000,Villa Casey
+2021,Aleta bocacalle,JUNIN,1100,Centro 2
+2021,Aleta bocacalle,LEONCIO DE LA BARRERA,800,Norte
+2021,Bocacalle,"BASUALDO, NORA WADE DE",800,Norte
+2021,Aleta,"PASAJE MOLINA, JULIO H. (DIMMER AL 950) EX PASAJE A",950,
+2021,Aleta,9 (NUEVE) DE JULIO,2000,Rivadavia
+2021,Aleta,CASTELLI,2300,Norte
+2021,Centro bocacalle,ALMAFUERTE,2000,Norte
+2021,Aleta,"AMINCTON, HARRY LUCAS (EX CALLE 20)",700,Ciudad Nueva
+2021,Bocacalle,"ITURBIDE, PEDRO",1100,Victoria
+2021,Aleta,ALVEAR,2000,Rivadavia
+2021,Bocacalle,ALVEAR,2100,Rivadavia
+2021,Aleta,"TONELLI, MIGUEL (EX CALLE 41 BARRIO CIUDAD NUEVA)",1000,Ciudad Nueva
+2021,Centro bocacalle,"ITURBIDE, PEDRO",1200,Victoria
+2021,Aleta,"TURNER, SANTIAGO",300,Iturbide
+2021,Aleta,"GIACAGLIA, ULISES (EX CALLE 22)",1100,
+2021,Aleta,ALMAFUERTE,2800,Malvinas Argentinas
+2021,Centro bocacalle,LOS ANDES,800,Victoria
+2021,Aleta,12 (DOCE) DE OCTUBRE (RUTA 8) (IMPAR),800,Centro 2
+2021,Aleta,"TONELLI, MIGUEL (EX CALLE 41 BARRIO CIUDAD NUEVA)",1000,Ciudad Nueva
+2021,Bocacalle,"PERON, PRESIDENTE JUAN DOMINGO (EX ESTADOS UNIDOS) (IMPAR)",1100,Victoria

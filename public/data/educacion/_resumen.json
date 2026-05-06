@@ -1,0 +1,152 @@
+{
+  "meta": {
+    "id": "educacion",
+    "title": "Educación · Resumen ejecutivo",
+    "category": "educacion",
+    "description": "Panorama del sistema educativo en Venado Tuerto: oferta de instituciones por nivel, programa municipal de becas y jardines materno-infantiles.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/",
+    "license": "CC-BY / ODC-BY",
+    "last_updated": "2026-04-03T13:49:55.191845",
+    "organization": "Territorialidad y Desarrollo Cultural"
+  },
+  "kpis": [
+    {
+      "id": "instituciones",
+      "label": "Instituciones educativas",
+      "value": 97,
+      "formatted": "97",
+      "hint": "Niveles inicial, primario, secundario y superior"
+    },
+    {
+      "id": "becados",
+      "label": "Becados municipales",
+      "value": 678,
+      "formatted": "678",
+      "status": "good",
+      "hint": "62,7% mujeres"
+    },
+    {
+      "id": "asistentes",
+      "label": "Niños en jardines municipales",
+      "value": 378,
+      "formatted": "378",
+      "hint": "8 jardines materno-infantiles"
+    }
+  ],
+  "charts": [
+    {
+      "id": "instituciones-nivel",
+      "type": "bar",
+      "title": "Instituciones educativas por nivel",
+      "subtitle": "Cobertura por etapa formativa.",
+      "data": [
+        {
+          "nivel": "Inicial",
+          "instituciones": 31
+        },
+        {
+          "nivel": "Primario",
+          "instituciones": 32
+        },
+        {
+          "nivel": "Secundario",
+          "instituciones": 17
+        },
+        {
+          "nivel": "Terciario/Universitario",
+          "instituciones": 17
+        }
+      ],
+      "config": {
+        "indexBy": "nivel",
+        "keys": [
+          "instituciones"
+        ]
+      }
+    },
+    {
+      "id": "becados-nivel",
+      "type": "pie",
+      "title": "Becados por nivel educativo",
+      "subtitle": "Distribución del programa de becas municipales.",
+      "data": [
+        {
+          "id": "Secundario",
+          "label": "Secundario",
+          "value": 216
+        },
+        {
+          "id": "Primario",
+          "label": "Primario",
+          "value": 216
+        },
+        {
+          "id": "Universitario",
+          "label": "Universitario",
+          "value": 133
+        },
+        {
+          "id": "Terciario",
+          "label": "Terciario",
+          "value": 101
+        },
+        {
+          "id": "Secundario p/ adultos",
+          "label": "Secundario p/ adultos",
+          "value": 8
+        },
+        {
+          "id": "Primario p/adultos",
+          "label": "Primario p/adultos",
+          "value": 1
+        },
+        {
+          "id": "Especial",
+          "label": "Especial",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "becados-genero",
+      "type": "pie",
+      "title": "Becados por género",
+      "subtitle": "Composición demográfica.",
+      "data": [
+        {
+          "id": "Masculino",
+          "label": "Masculino",
+          "value": 253
+        },
+        {
+          "id": "Femenino",
+          "label": "Femenino",
+          "value": 425
+        }
+      ]
+    },
+    {
+      "id": "jardines-turno",
+      "type": "pie",
+      "title": "Asistentes a jardines · turno",
+      "subtitle": "Distribución mañana / tarde / doble jornada.",
+      "data": [
+        {
+          "id": "Tarde",
+          "label": "Tarde",
+          "value": 190
+        },
+        {
+          "id": "Mañana",
+          "label": "Mañana",
+          "value": 182
+        },
+        {
+          "id": "Noche",
+          "label": "Noche",
+          "value": 6
+        }
+      ]
+    }
+  ]
+}

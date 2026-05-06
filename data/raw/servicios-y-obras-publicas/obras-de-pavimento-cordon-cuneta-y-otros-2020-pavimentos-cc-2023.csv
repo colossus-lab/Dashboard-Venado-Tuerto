@@ -1,0 +1,148 @@
+año,tipo_obra,dirección,altura,barrio
+2023,Pavimento,SAAVEDRA,2000,Norte
+2023,Pavimento,SAN MARTIN,2100,Norte
+2023,Pavimento,GOBERNADOR MOLINAS (EX CALLE 113 AL ESTE DE SANTA FE),2400,
+2023,Pavimento,BALCARCE,1700,Norte
+2023,Pavimento,BALCARCE,2000,Norte
+2023,Pavimento,"ITURBIDE, PEDRO",800,Iturbide
+2023,Pavimento,"BRETT, SANTIAGO",1300,Victoria
+2023,Pavimento,COLON,2000,Rivadavia
+2023,Pavimento,"BRETT, SANTIAGO",1200,Victoria
+2023,Pavimento,ITALIA,2400,Malvinas Argentinas
+2023,Pavimento,"AZCOAGA, FERNANDO (EX CALLE 21)",600,Malvinas Argentinas
+2023,Pavimento,"DIMMER, GUILLERMO (EX CALLE 11) (PAR)",0,Norte
+2023,Pavimento,"DIMMER, GUILLERMO (EX CALLE 11) (PAR)",100,Norte
+2023,Pavimento,"DIMMER, GUILLERMO (EX CALLE 11) (PAR)",200,Norte
+2023,Pavimento,"TONELLI, MIGUEL (EX CALLE 41 BARRIO CIUDAD NUEVA)",900,Ciudad Nueva
+2023,Pavimento,FRENCH,500,Tiro Federal
+2023,Pavimento,PUEYRREDON,2000,Rivadavia
+2023,Pavimento,"DIMMER, GUILLERMO (EX CALLE 11) (IMPAR)",1500,San Vicente
+2023,Pavimento,AYACUCHO,800,Victoria
+2023,Pavimento,PIACENZA,1200,San José Obrero
+2023,Pavimento,"GOUMOND, PADRE FELIX (EX CALLE 15)",1100,San Vicente
+2023,Pavimento,"VALDEZ, DR. JOSE A. (EX CALLE 19)",1000,San Vicente
+2023,Pavimento,PASAJE PERU (FALUCHO AL 850),200,Iturbide
+2023,Pavimento,MORENO,2400,San Vicente
+2023,Pavimento,"BASUALDO, NORA WADE DE",1000,San José Obrero
+2023,Pavimento,BALCARCE,2100,Norte
+2023,Pavimento,PAVON,700,Iturbide
+2023,Pavimento,PASAJE PERU (FALUCHO AL 850),100,
+2023,Pavimento,BALCARCE,2200,Norte
+2023,Pavimento,VELEZ SARSFIELD,200,Norte
+2023,Pavimento,RIVADAVIA (IMPAR),2100,Rivadavia
+2023,Pavimento,PIACENZA,1400,San José Obrero
+2023,Pavimento,DORREGO,1900,San José Obrero
+2023,Pavimento,PUEYRREDON,2100,Rivadavia
+2023,Pavimento,"KIRK, PATRICIO (EX CALLE 57, CONTINUACION AVELLANEDA)",0,Norte
+2023,Pavimento,"MARTI, JOSE (EX CALLE 16)",100,Güemes
+2023,Pavimento,FORMOSA,600,Ciudad Nueva
+2023,Pavimento,"JUSTO, JUAN BAUTISTA",800,Iturbide
+2023,Pavimento,ITALIA,2800,Malvinas Argentinas
+2023,Pavimento,"JUSTO, JUAN BAUTISTA",700,Iturbide
+2023,Pavimento,SAAVEDRA,2400,Malvinas Argentinas
+2023,Pavimento,LEONCIO DE LA BARRERA,400,Norte
+2023,Pavimento,CHACO,900,Ciudad Nueva
+2023,Pavimento,CHACO,900,Ciudad Nueva
+2023,Pavimento,PAZ,1100,Rivadavia
+2023,Pavimento,ITUZAINGO,1100,Victoria
+2023,Pavimento,PASAJE RODOLFO WALSH (DIMMER AL 1150) EX PASAJE C,2400,San Vicente
+2023,Pavimento,"AUFRANC, JOSE (EX CALLE 13)",700,Malvinas Argentinas
+2023,Pavimento,ESPAÑA,2600,Malvinas Argentinas
+2023,Pavimento,"GARBARINO, CARLOS (EX CALLE 106)",600,Rivadavia
+2023,Pavimento,"MARTI, JOSE (EX CALLE 16)",1400,
+2023,Pavimento,"MARTI, JOSE (EX CALLE 16)",1500,
+2023,Pavimento,"MARTI, JOSE (EX CALLE 16)",1600,
+2023,Pavimento,"MARTI, JOSE (EX CALLE 16)",1700,
+2023,Pavimento,"KIRK, PATRICIO (EX CALLE 57, CONTINUACION AVELLANEDA)",800,
+2023,Pavimento,BROWN (PAR),1900,Rivadavia
+2023,Pavimento,BROWN (PAR),2000,Rivadavia
+2023,Pavimento,ROCA,2200,Rivadavia
+2023,Pavimento,ROCA,2300,Rivadavia
+2023,Pavimento,OBISPO ROSSI (EX CALLE 106),100,Rivadavia
+2023,Pavimento,RODRIGUEZ PEÑA (EX CALLE IX 33),400,Cayetano Silva
+2023,Pavimento,FORMOSA,0,Güemes
+2023,Pavimento,"MARTI, JOSE (EX CALLE 16)",0,
+2023,Pavimento,ARENALES,700,Güemes
+2023,Pavimento,CABRAL,700,Iturbide
+2023,Pavimento,BERUTTI,500,Tiro Federal
+2023,Pavimento,PASAJE PERU (FALUCHO AL 850),300,Iturbide
+2023,Pavimento,"ITURBIDE, PEDRO",900,Victoria
+2023,Pavimento,SAN LORENZO,800,Iturbide
+2023,Pavimento,SAN LORENZO,800,Iturbide
+2023,Pavimento,ESPERANTO,800,Güemes
+2023,Pavimento,"JAURETCHE, ARTURO MARTIN (EX CALLE 35 AL OESTE DE SANTA FE)",900,Villa Casey
+2023,Pavimento,EDISON,2100,San José Obrero
+2023,Pavimento,LEONCIO DE LA BARRERA,1700,San José Obrero
+2023,Pavimento,"MAXWELL, PADRE JOSE T. (EX CALLE 17)",1100,San Vicente
+2023,Cordón cuneta,"LASCALA, PRICIANO",1700,Juan XXIII
+2023,Cordón cuneta,26 (VEINTISEIS) DE ABRIL,1400,
+2023,Cordón cuneta,26 (VEINTISEIS) DE ABRIL,1500,
+2023,Cordón cuneta,SAENZ PEÑA,2100,Juan XXIII
+2023,Cordón cuneta,MORENO,3500,Villa Casey
+2023,Cordón cuneta,PASAJE TORRES D. (CASTELLI AL 2750 Y VALDEZ AL 650),1100,
+2023,Cordón cuneta,CABRAL,1500,Iturbide
+2023,Cordón cuneta,"ETEROVICH, ANGEL (EX CALLE 111)",300,Iturbide
+2023,Cordón cuneta,"TURNER, SANTIAGO",1000,Victoria
+2023,Cordón cuneta,"TURNER, SANTIAGO",900,Victoria
+2023,Cordón cuneta,"ITURBIDE, PEDRO",800,Iturbide
+2023,Cordón cuneta,CERRITO,800,Victoria
+2023,Cordón cuneta,"ITURBIDE, PEDRO",100,Iturbide
+2023,Cordón cuneta,ROCA,2300,Rivadavia
+2023,Cordón cuneta,"AZCOAGA, FERNANDO (EX CALLE 21)",800,Malvinas Argentinas
+2023,Cordón cuneta,"LASCALA, PRICIANO",1000,Rivadavia
+2023,Aleta,BALCARCE,1900,Norte
+2023,Bocacalle,BALCARCE,2100,Norte
+2023,Bocacalle,LOS ANDES,900,Victoria
+2023,Aleta,"BRETT, SANTIAGO",1300,Victoria
+2023,Bocacalle,BALCARCE,2400,Malvinas Argentinas
+2023,Bocacalle,ITALIA,2400,Malvinas Argentinas
+2023,Aleta,"TONELLI, MIGUEL (EX CALLE 41 BARRIO CIUDAD NUEVA)",1000,Ciudad Nueva
+2023,Bocacalle,PUEYRREDON,2000,Rivadavia
+2023,Aleta,AZCUENAGA,2100,San José Obrero
+2023,Aleta,PASAJE RODOLFO WALSH (DIMMER AL 1150) EX PASAJE C,2600,
+2023,Bocacalle,"TURNER, SANTIAGO",1000,Victoria
+2023,Bocacalle,"DIMMER, GUILLERMO (EX CALLE 11) (IMPAR)",1000,San Vicente
+2023,Bocacalle,LEONCIO DE LA BARRERA,100,Norte
+2023,Aleta,SAENZ PEÑA,2100,Juan XXIII
+2023,Aleta,"BASUALDO, NORA WADE DE",100,Norte
+2023,Aleta,AGÜERO,2000,Juan XXIII
+2023,Bocacalle,AZCUENAGA,2500,San Vicente
+2023,Bocacalle,"VALDEZ, DR. JOSE A. (EX CALLE 19)",1000,San Vicente
+2023,Bocacalle,ALMAFUERTE,1800,Norte
+2023,Aleta,"KIRK, PATRICIO (EX CALLE 57, CONTINUACION AVELLANEDA)",,Norte
+2023,Aleta,FORMOSA,600,Ciudad Nueva
+2023,Aleta,"AZCOAGA, FERNANDO (EX CALLE 21)",200,Malvinas Argentinas
+2023,Bocacalle,PUEYRREDON,2000,Rivadavia
+2023,Bocacalle,"JUSTO, JUAN BAUTISTA",800,Iturbide
+2023,Bocacalle,SAAVEDRA,2400,Malvinas Argentinas
+2023,Bocacalle,SAAVEDRA,400,Centro 1
+2023,Bocacalle,ESPAÑA,2100,Norte
+2023,Bocacalle,CHACO,1000,Ciudad Nueva
+2023,Bocacalle,CHACO,1100,Ciudad Nueva
+2023,Aleta,PAZ,1200,Rivadavia
+2023,Aleta,SAENZ PEÑA,2000,Juan XXIII
+2023,Bocacalle,LOPEZ,1900,Rivadavia
+2023,Bocacalle,COLON,2200,Rivadavia
+2023,Bocacalle,COLON,2100,Rivadavia
+2023,Centro bocacalle,"KIRK, PATRICIO (EX CALLE 57, CONTINUACION AVELLANEDA)",1100,
+2023,Centro bocacalle,"MARTI, JOSE (EX CALLE 16)",1400,
+2023,Centro bocacalle,"MARTI, JOSE (EX CALLE 16)",800,
+2023,Bocacalle,BELGRANO,700,Centro 1
+2023,Bocacalle,MONTEAGUDO,1300,Rivadavia
+2023,Aleta,PASAJE LA VICTORIA (BROWN AL 1950),1300,Rivadavia
+2023,Bocacalle,PAZ,1300,Rivadavia
+2023,Aleta,PAVON,800,Iturbide
+2023,Bocacalle,COLON,2100,Rivadavia
+2023,Bocacalle,"GARBARINO, CARLOS (EX CALLE 106)",0,Rivadavia
+2023,Aleta,RIO DE LA PLATA,200,Cayetano Silva
+2023,Bocacalle,ITUZAINGO,800,Victoria
+2023,Bocacalle,FORMOSA,0,Güemes
+2023,Bocacalle,"MARTI, JOSE (EX CALLE 16)",0,
+2023,Bocacalle,FORMOSA,100,Güemes
+2023,Centro bocacalle,PASAJE PERU (FALUCHO AL 850),200,Iturbide
+2023,Aleta,"AZCOAGA, FERNANDO (EX CALLE 21)",900,San Vicente
+2023,Aleta,"PASAJE JORGE ABRAHAM (BERTI, COVACEVICH, ETERIVICH AL 150)",1500,Iturbide
+2023,Aleta,"CHAPUIS, DR. LUIS (PAR)",3600,Villa Casey
+2023,Bocacalle,PIACENZA,1600,San José Obrero
+2023,Bocacalle,LEONCIO DE LA BARRERA,1600,San José Obrero
+2023,Aleta,LEONCIO DE LA BARRERA,1700,San José Obrero

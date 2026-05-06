@@ -1,0 +1,279 @@
+{
+  "meta": {
+    "id": "obras-servicios",
+    "title": "Obras y Servicios Públicos · Resumen ejecutivo",
+    "category": "obras-servicios",
+    "description": "Inversión en infraestructura urbana, producción municipal de insumos y prestación del servicio de transporte público.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/",
+    "license": "CC-BY / ODC-BY",
+    "last_updated": "2026-04-01T10:53:24.855578",
+    "organization": "Servicios y Obras Públicas"
+  },
+  "kpis": [
+    {
+      "id": "obras-total",
+      "label": "Obras públicas ejecutadas",
+      "value": 509,
+      "formatted": "509",
+      "status": "good",
+      "hint": "Pavimento, cordón cuneta y otros (2020-2025)"
+    },
+    {
+      "id": "fabrica",
+      "label": "Producción municipal",
+      "value": 102431,
+      "formatted": "102.431",
+      "hint": "7.218 tubos · 95.213 bloques"
+    },
+    {
+      "id": "planos",
+      "label": "Planos presentados",
+      "value": 5534,
+      "formatted": "5.534",
+      "hint": "2.470.851 m² regularizados"
+    },
+    {
+      "id": "mensuras",
+      "label": "Expedientes de mensura",
+      "value": 1041,
+      "formatted": "1.041",
+      "hint": "Cambios catastrales (2020-2025)"
+    },
+    {
+      "id": "tup-viajes",
+      "label": "Viajes TUP acumulados",
+      "value": 1864465,
+      "formatted": "1.864.465",
+      "hint": "2.896 mil km recorridos"
+    }
+  ],
+  "charts": [
+    {
+      "id": "obras-anuales",
+      "type": "area",
+      "title": "Obras públicas ejecutadas por año",
+      "subtitle": "Pavimento, cordón cuneta y otras intervenciones.",
+      "data": [
+        {
+          "anio": "2020",
+          "obras": 8
+        },
+        {
+          "anio": "2021",
+          "obras": 75
+        },
+        {
+          "anio": "2022",
+          "obras": 140
+        },
+        {
+          "anio": "2023",
+          "obras": 147
+        },
+        {
+          "anio": "2024",
+          "obras": 70
+        },
+        {
+          "anio": "2025",
+          "obras": 69
+        }
+      ],
+      "config": {
+        "indexBy": "anio",
+        "keys": [
+          "obras"
+        ]
+      }
+    },
+    {
+      "id": "obras-tipo",
+      "type": "pie",
+      "title": "Obras por tipo de intervención",
+      "subtitle": "Composición del programa de obras.",
+      "data": [
+        {
+          "id": "Pavimento",
+          "label": "Pavimento",
+          "value": 300
+        },
+        {
+          "id": "Cordón cuneta",
+          "label": "Cordón cuneta",
+          "value": 69
+        },
+        {
+          "id": "Bocacalle",
+          "label": "Bocacalle",
+          "value": 66
+        },
+        {
+          "id": "Aleta",
+          "label": "Aleta",
+          "value": 56
+        },
+        {
+          "id": "Centro bocacalle",
+          "label": "Centro bocacalle",
+          "value": 10
+        },
+        {
+          "id": "Aleta bocacalle",
+          "label": "Aleta bocacalle",
+          "value": 4
+        },
+        {
+          "id": "Reconstrucción aleta",
+          "label": "Reconstrucción aleta",
+          "value": 2
+        },
+        {
+          "id": "Curvas aleta",
+          "label": "Curvas aleta",
+          "value": 1
+        },
+        {
+          "id": "Reconstrucción cordón cuneta",
+          "label": "Reconstrucción cordón cuneta",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "obras-barrios",
+      "type": "horizontalBar",
+      "title": "Top barrios con obras ejecutadas",
+      "subtitle": "Distribución territorial de la inversión pública.",
+      "data": [
+        {
+          "barrio": "Norte",
+          "obras": 70
+        },
+        {
+          "barrio": "Rivadavia",
+          "obras": 56
+        },
+        {
+          "barrio": "Ciudad Nueva",
+          "obras": 48
+        },
+        {
+          "barrio": "Iturbide",
+          "obras": 48
+        },
+        {
+          "barrio": "San José Obrero",
+          "obras": 43
+        },
+        {
+          "barrio": "Malvinas Argentinas",
+          "obras": 41
+        },
+        {
+          "barrio": "Victoria",
+          "obras": 33
+        },
+        {
+          "barrio": "San Vicente",
+          "obras": 32
+        }
+      ],
+      "config": {
+        "indexBy": "barrio",
+        "keys": [
+          "obras"
+        ]
+      }
+    },
+    {
+      "id": "fab-yoy",
+      "type": "stackedBar",
+      "title": "Producción municipal de tubos y bloques por año",
+      "subtitle": "Insumos para obra propia y abastecimiento de programas habitacionales.",
+      "data": [
+        {
+          "anio": "2020",
+          "tubos": 596,
+          "bloques": 2396
+        },
+        {
+          "anio": "2021",
+          "tubos": 1143,
+          "bloques": 10936
+        },
+        {
+          "anio": "2022",
+          "tubos": 400,
+          "bloques": 44176
+        },
+        {
+          "anio": "2023",
+          "tubos": 880,
+          "bloques": 14680
+        },
+        {
+          "anio": "2024",
+          "tubos": 2152,
+          "bloques": 7026
+        },
+        {
+          "anio": "2025",
+          "tubos": 2047,
+          "bloques": 15999
+        }
+      ],
+      "config": {
+        "indexBy": "anio",
+        "keys": [
+          "tubos",
+          "bloques"
+        ]
+      }
+    },
+    {
+      "id": "tup-yoy",
+      "type": "line",
+      "title": "Transporte urbano · viajes y kilómetros",
+      "subtitle": "Evolución del servicio público de pasajeros.",
+      "data": [
+        {
+          "anio": "2020",
+          "viajes": 60336,
+          "km": 210000
+        },
+        {
+          "anio": "2021",
+          "viajes": 152316,
+          "km": 376213
+        },
+        {
+          "anio": "2022",
+          "viajes": 288734,
+          "km": 580584
+        },
+        {
+          "anio": "2023",
+          "viajes": 374525,
+          "km": 571358
+        },
+        {
+          "anio": "2024",
+          "viajes": 499648,
+          "km": 571375
+        },
+        {
+          "anio": "2025",
+          "viajes": 488906,
+          "km": 586966
+        }
+      ],
+      "config": {
+        "indexBy": "anio",
+        "keys": [
+          "viajes",
+          "km"
+        ]
+      }
+    }
+  ]
+}

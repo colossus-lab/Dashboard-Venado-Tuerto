@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "id": "hacienda-economia",
+    "title": "Hacienda y Economía · Resumen ejecutivo",
+    "category": "hacienda-economia",
+    "description": "Tablero económico-financiero del municipio: comercio, empleo, finanzas y políticas de promoción productiva.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/",
+    "license": "CC-BY / ODC-BY",
+    "last_updated": "2026-03-30T16:46:41.438225",
+    "organization": "Desarrollo Económico · Desarrollo Productivo"
+  },
+  "kpis": [
+    {
+      "id": "establecimientos",
+      "label": "Comercios habilitados vigentes",
+      "value": 2365,
+      "formatted": "2.365",
+      "hint": "Distribuidos en 31 barrios"
+    },
+    {
+      "id": "habilitaciones",
+      "label": "Habilitaciones acumuladas (2020-2025)",
+      "value": 5755,
+      "formatted": "5.755",
+      "hint": "687 en 2025 (-8,3% vs 2024)"
+    },
+    {
+      "id": "conecta",
+      "label": "Capacitados Conecta Empleo",
+      "value": 2054,
+      "formatted": "2.054",
+      "status": "good",
+      "hint": "43,1% mujeres"
+    },
+    {
+      "id": "hogares",
+      "label": "Hogares de convivencia",
+      "value": 19,
+      "formatted": "19",
+      "hint": "Habilitación municipal vigente"
+    }
+  ],
+  "charts": [
+    {
+      "id": "hab-yoy",
+      "type": "bar",
+      "title": "Habilitaciones comerciales por año",
+      "subtitle": "Cantidad anual de nuevas habilitaciones emitidas.",
+      "data": [
+        {
+          "anio": "2020",
+          "habilitaciones": 397
+        },
+        {
+          "anio": "2021",
+          "habilitaciones": 2312
+        },
+        {
+          "anio": "2022",
+          "habilitaciones": 787
+        },
+        {
+          "anio": "2023",
+          "habilitaciones": 823
+        },
+        {
+          "anio": "2024",
+          "habilitaciones": 749
+        },
+        {
+          "anio": "2025",
+          "habilitaciones": 687
+        }
+      ],
+      "config": {
+        "indexBy": "anio",
+        "keys": [
+          "habilitaciones"
+        ]
+      }
+    },
+    {
+      "id": "top-barrios",
+      "type": "horizontalBar",
+      "title": "Top barrios con comercios habilitados",
+      "subtitle": "Concentración geográfica de la actividad económica.",
+      "data": [
+        {
+          "barrio": "Centro 1",
+          "comercios": 632
+        },
+        {
+          "barrio": "Centro 2",
+          "comercios": 409
+        },
+        {
+          "barrio": "Norte",
+          "comercios": 151
+        },
+        {
+          "barrio": "Centro 3",
+          "comercios": 136
+        },
+        {
+          "barrio": "Rivadavia",
+          "comercios": 134
+        },
+        {
+          "barrio": "San José Obrero",
+          "comercios": 107
+        },
+        {
+          "barrio": "San Cayetano",
+          "comercios": 63
+        },
+        {
+          "barrio": "Malvinas Argentinas",
+          "comercios": 49
+        }
+      ],
+      "config": {
+        "indexBy": "barrio",
+        "keys": [
+          "comercios"
+        ]
+      }
+    },
+    {
+      "id": "top-rubros",
+      "type": "horizontalBar",
+      "title": "Rubros más frecuentes",
+      "subtitle": "Top 8 rubros declarados en habilitaciones vigentes.",
+      "data": [
+        {
+          "rubro": "DESPENSA",
+          "total": 125
+        },
+        {
+          "rubro": "VENTA DE PRENDAS DE VESTIR",
+          "total": 113
+        },
+        {
+          "rubro": "DEPOSITO",
+          "total": 99
+        },
+        {
+          "rubro": "KIOSCO",
+          "total": 71
+        },
+        {
+          "rubro": "OFICINA",
+          "total": 70
+        },
+        {
+          "rubro": "PERFUMERIA",
+          "total": 48
+        },
+        {
+          "rubro": "ELECTRICISTA",
+          "total": 45
+        },
+        {
+          "rubro": "CARNICERIA",
+          "total": 40
+        }
+      ],
+      "config": {
+        "indexBy": "rubro",
+        "keys": [
+          "total"
+        ]
+      }
+    },
+    {
+      "id": "conecta-yoy",
+      "type": "area",
+      "title": "Capacitaciones Conecta Empleo por año",
+      "subtitle": "Personas formadas por la Dirección de Empleo.",
+      "data": [
+        {
+          "anio": "2020",
+          "capacitados": 360
+        },
+        {
+          "anio": "2021",
+          "capacitados": 532
+        },
+        {
+          "anio": "2022",
+          "capacitados": 489
+        },
+        {
+          "anio": "2023",
+          "capacitados": 255
+        },
+        {
+          "anio": "2024",
+          "capacitados": 167
+        },
+        {
+          "anio": "2025",
+          "capacitados": 251
+        }
+      ],
+      "config": {
+        "indexBy": "anio",
+        "keys": [
+          "capacitados"
+        ]
+      }
+    }
+  ]
+}

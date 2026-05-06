@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "id": "ambiente",
+    "title": "Ambiente · Resumen ejecutivo",
+    "category": "ambiente",
+    "description": "Programas de educación ambiental y gestión de residuos sólidos urbanos.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/",
+    "license": "CC-BY / ODC-BY",
+    "last_updated": "2026-04-02T12:12:20.061324",
+    "organization": "Intendencia · Participación Ambiental"
+  },
+  "kpis": [
+    {
+      "id": "actividades",
+      "label": "Actividades de educación ambiental",
+      "value": 158,
+      "formatted": "158",
+      "status": "good",
+      "hint": "6.426 asistentes en 2025"
+    },
+    {
+      "id": "asistentes-rec",
+      "label": "Asistentes a actividades",
+      "value": 6426,
+      "formatted": "6.426",
+      "hint": "Niños, jóvenes y adultos sumados"
+    },
+    {
+      "id": "visitas-planta",
+      "label": "Visitas a la planta de tratamiento",
+      "value": 128,
+      "formatted": "128",
+      "hint": "2.894 alumnos · 80 escuelas"
+    }
+  ],
+  "charts": [
+    {
+      "id": "tipo-receptor",
+      "type": "pie",
+      "title": "Actividades de Reciclar Venado · público objetivo",
+      "subtitle": "Empresas, escuelas, ONG y otros destinatarios.",
+      "data": [
+        {
+          "id": "Escuela",
+          "label": "Escuela",
+          "value": 41
+        },
+        {
+          "id": "Colonia",
+          "label": "Colonia",
+          "value": 27
+        },
+        {
+          "id": "Público general",
+          "label": "Público general",
+          "value": 23
+        },
+        {
+          "id": "Empresa",
+          "label": "Empresa",
+          "value": 18
+        },
+        {
+          "id": "Municipalidad de Venado Tuerto",
+          "label": "Municipalidad de Venado Tuerto",
+          "value": 13
+        },
+        {
+          "id": "Institución social",
+          "label": "Institución social",
+          "value": 10
+        },
+        {
+          "id": "Voluntarios",
+          "label": "Voluntarios",
+          "value": 10
+        },
+        {
+          "id": "Vecinos",
+          "label": "Vecinos",
+          "value": 8
+        },
+        {
+          "id": "Planta de Tratamiento",
+          "label": "Planta de Tratamiento",
+          "value": 5
+        },
+        {
+          "id": "Concejo Municipal",
+          "label": "Concejo Municipal",
+          "value": 2
+        },
+        {
+          "id": "Club",
+          "label": "Club",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "rango-etario",
+      "type": "pie",
+      "title": "Asistentes por rango etario",
+      "subtitle": "Composición demográfica de las actividades.",
+      "data": [
+        {
+          "id": "Niños 0-9",
+          "label": "Niños 0-9",
+          "value": 40
+        },
+        {
+          "id": "Público General",
+          "label": "Público General",
+          "value": 32
+        },
+        {
+          "id": "Adultos",
+          "label": "Adultos",
+          "value": 31
+        },
+        {
+          "id": "Niños 10-14",
+          "label": "Niños 10-14",
+          "value": 28
+        },
+        {
+          "id": "Personal de Gobierno",
+          "label": "Personal de Gobierno",
+          "value": 9
+        },
+        {
+          "id": "Jóvenes 19-29",
+          "label": "Jóvenes 19-29",
+          "value": 5
+        },
+        {
+          "id": "Voluntarios",
+          "label": "Voluntarios",
+          "value": 5
+        },
+        {
+          "id": "Adultos mayores",
+          "label": "Adultos mayores",
+          "value": 4
+        },
+        {
+          "id": "Jóvenes 15-18",
+          "label": "Jóvenes 15-18",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "tipo-activ",
+      "type": "horizontalBar",
+      "title": "Top actividades realizadas",
+      "subtitle": "Capacitaciones, charlas, talleres y otras intervenciones.",
+      "data": [
+        {
+          "tipo": "Capacitación",
+          "total": 106
+        },
+        {
+          "tipo": "Stand educativo",
+          "total": 33
+        },
+        {
+          "tipo": "Canje ecotachos",
+          "total": 6
+        },
+        {
+          "tipo": "Encuentro",
+          "total": 5
+        },
+        {
+          "tipo": "Actividad Recreativa",
+          "total": 3
+        },
+        {
+          "tipo": "Aniversario de Reciclar Venado",
+          "total": 2
+        }
+      ],
+      "config": {
+        "indexBy": "tipo",
+        "keys": [
+          "total"
+        ]
+      }
+    },
+    {
+      "id": "visitas-turno",
+      "type": "pie",
+      "title": "Visitas escolares · turno",
+      "subtitle": "Distribución mañana / tarde de las visitas a la planta.",
+      "data": [
+        {
+          "id": "Mañana",
+          "label": "Mañana",
+          "value": 75
+        },
+        {
+          "id": "Tarde",
+          "label": "Tarde",
+          "value": 53
+        }
+      ]
+    }
+  ]
+}

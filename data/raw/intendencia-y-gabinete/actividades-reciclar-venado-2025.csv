@@ -1,0 +1,159 @@
+fecha,actividad,tipo_receptor,nombre_receptor,ubicacion,barrio,cantidad_asistentes,rango_etario
+02/01/2025,Capacitación,Empresa,P&L Pirelli,Blvd. 12 de octubre 985,Polo Viejo,13,Adultos
+03/01/2025,Capacitación,Colonia,Colonia Luz y Fuerza,Eterovich y Los Andes,Victoria,21,Niños 0-9
+03/01/2025,Aniversario de Reciclar Venado,Colonia,Colonia Luz y Fuerza,Eterovich y Los Andes,Victoria,23,Niños 10-14
+03/01/2025,Capacitación,Institución social,Circulo Medico,Pellegrini 958,Centro 2,8,Adultos
+08/01/2025,Capacitación,Colonia,Colonia Tiro federal,Blvd. Ovidio Lagos 798,Tiro Federal,27,Niños 0-9
+08/01/2025,Capacitación,Colonia,Colonia Tiro federal,Blvd. Ovidio Lagos 798,Tiro Federal,22,Niños 10-14
+09/01/2025,Capacitación,Colonia,Colonia Jockey,Castelli 657,Centro 1,21,Niños 0-9
+09/01/2025,Capacitación,Colonia,Colonia Jockey,Castelli 657,Centro 1,25,Niños 10-14
+09/01/2025,Capacitación,Colonia,Colonia Soiva,Quinta Soiva,El Cruce,22,Niños 0-9
+09/01/2025,Capacitación,Colonia,Colonia Soiva,Quinta Soiva,El Cruce,23,Niños 10-14
+10/01/2025,Capacitación,Colonia,Colonia Camioneros,Newbery 3222,NO EXISTE,24,Niños 0-9
+10/01/2025,Capacitación,Colonia,Colonia Camioneros,Newbery 3222,NO EXISTE,23,Niños 10-14
+10/01/2025,Canje ecotachos,Voluntarios,Parque Municipal,Parque Municipal,Centro 1,123,Público General
+11/01/2025,Actividad Recreativa,Voluntarios,Venite Al Parquee,Parque Municipal,Centro 1,,Público General
+13/01/2025,Capacitación,Colonia,Colonia Parque,Parque Municipal,Centro 1,17,Niños 0-9
+14/01/2025,Capacitación,Empresa,Stine,RN8 km 357,Km357,18,Adultos
+14/01/2025,Capacitación,Colonia,Colonia Parque,Parque Municipal,Centro 1,21,Niños 10-14
+16/01/2025,Capacitación,Empresa,Corven,Marcos Ciani 2118,Juan XXIII,32,Adultos
+17/01/2025,Capacitación,Empresa,Conforma SRL,Ismael Iraola 1270,Parque Industrial,21,Adultos
+20/01/2025,Capacitación,Colonia,Colonia Ciudad,Lussenhoff y Ruta 8,Villa Casey,22,Niños 0-9
+20/01/2025,Capacitación,Colonia,Colonia Ciudad,Lussenhoff y Ruta 8,Villa Casey,19,Jóvenes 15-18
+20/01/2025,Capacitación,Colonia,Colonia Ciudad,Lussenhoff y Ruta 8,Villa Casey,23,Niños 10-14
+20/01/2025,Capacitación,Colonia,Colonia CCVT (privada),lussenhoff y Ruta 8,Villa Casey,24,Niños 0-9
+20/01/2025,Capacitación,Colonia,Colonia CCVT (privada),lussenhoff y Ruta 8,Villa Casey,17,Niños 10-14
+21/01/2025,Capacitación,Colonia,Colonia Centenario,Jujuy 202,San Cayetano,22,Niños 0-9
+21/01/2025,Capacitación,Colonia,Colonia Centenario,Jujuy 202,San Cayetano,23,Niños 10-14
+22/01/2025,Capacitación,Empresa,Cañiflex,Lavalle 1235,Centro 2,12,Adultos
+25/01/2025,Capacitación,Empresa,Matassi,Hirigoyen 1603,Centro 2,9,Adultos
+26/01/2025,Aniversario de Reciclar Venado,Voluntarios,Aniversario de Reciclar Venado,Planta de Tratamiendo,Planta de Tratamiento de Residuos Solidos Urbanos,200,Público General
+27/01/2025,Capacitación,Colonia,Colonia PRAMAD,Parque Municipal,Centro 1,23,Adultos
+28/01/2025,Capacitación,Colonia,Colonia Club Universitario,Club Universitario,,22,Niños 10-14
+28/01/2025,Capacitación,Colonia,Colonia Club Universitario,Club Universitario,,21,Niños 0-9
+29/01/2025,Capacitación,Empresa,La Rural,La rural,Tiro Federal,6,Adultos
+29/01/2025,Capacitación,Colonia,Colonia Polo,Polo Club,,21,Niños 0-9
+31/01/2025,Capacitación,Empresa,Cooperativa Obra Sanitarias,Italia 555,Centro 1,13,Adultos
+06/02/2025,Capacitación,Institución social,Hogar Los pinos,Los Platanos y Ruta 8,NO EXISTE,14,Adultos mayores
+07/02/2025,Capacitación,Institución social,Tribunal de Faltas,Sarmiento 479,Centro 3,11,Adultos
+08/02/2025,Capacitación,Empresa,Mecan,Blvd. 12 de Octubre 626,Rivadavia,15,Adultos
+09/02/2025,Actividad Recreativa,Público general,Plaza Cayetano Silva,Plaza Cayetano SIlva,Cayetano Silva,150,Público General
+10/02/2025,Capacitación,Empresa,Cooperativa Electrica,Mitre 796,Centro 1,27,Adultos
+10/02/2025,Capacitación,Empresa,Cooperativa Electrica,Mitre 796,Centro 1,27,Adultos
+13/02/2025,Capacitación,Club,Club Centenario,Jujuy 202,San Cayetano,15,Adultos
+19/02/2025,Capacitación,Empresa,Cooperativa Obra Sanitarias,Italia 555,Centro 1,18,Adultos
+25/02/2025,Eco Ideaton,Público general,Ecoideaton,San Martin 869,Centro 1,11,Jóvenes 19-29
+27/02/2025,Capacitación,Institución social,Residencia Pampa,Francia 450,Centro 2,11,Adultos mayores
+28/02/2025,Capacitación,Municipalidad de Venado Tuerto,IMUSCA,Monteagudo y Alvear,,9,Adultos
+05/03/2025,Capacitación,Institución social,Sanatorio San Martin,San Martin e Iturraspe,Centro 1,15,Adultos
+06/03/2025,Capacitación,Institución social,Hogar Santa Angela,Dorrego 2250,San José Obrero,14,Adultos mayores
+08/03/2025,Capacitación,Escuela,Jardin Ced,Pellegrini 959,Centro 2,17,Niños 0-9
+14/03/2025,Capacitación,Empresa,Tecni color,Rivadavia 447,Centro 1,8,Adultos
+18/03/2025,Capacitación,Escuela,Jardin 110,Dimmer 128,Norte,17,Niños 0-9
+20/03/2025,Capacitación,Institución social,IMUSCA,Monteagudo y Alvear,Rivadavia,8,Adultos
+20/03/2025,Capacitación,Empresa,Centro Hidraulico,Hirigoyen y Ruta 8,Rivadavia,37,Adultos
+21/03/2025,Canje ecotachos,Voluntarios,Canje Ecotachos,Parque Municipal,Centro 1,56,Público General
+26/03/2025,Capacitación,Institución social,Centro de Dia Los pinos,Lavalle 1145,Centro 2,17,Adultos
+28/03/2025,Capacitación,Empresa,Rogeles de Marcela,Paz 1007,Rivadavia,17,Adultos
+31/03/2025,Capacitación,Escuela,Escuela Nocturna 238,Pellegrini 1485,Centro 2,96,Adultos
+01/04/2025,Capacitación,Escuela,Jardin Escuela de los Padres,Sarmiento 155,Centro 3,21,Niños 0-9
+03/04/2025,Capacitación,Municipalidad de Venado Tuerto,Capacitacion Municipio,Marconi 625,Centro 1,12,Adultos
+07/04/2025,Capacitación,Municipalidad de Venado Tuerto,Capacitacion Municipio,Marconi 625,Centro 1,13,Personal de Gobierno
+08/04/2025,Capacitación,Empresa,Dorotea,Mitre 525,Centro 1,12,Adultos
+09/04/2025,Capacitación,Municipalidad de Venado Tuerto,Capacitacion Municipio,Marconi 625,Centro 1,8,Personal de Gobierno
+15/04/2025,Capacitación,Escuela,Cultura Inglesa,Marconi 631,Centro 1,32,Niños 10-14
+15/04/2025,Capacitación,Escuela,Cultura Inglesa,Marconi 631,Centro 1,31,Niños 10-14
+22/04/2025,Capacitación,Escuela,Cultura Inglesa,Marconi 631,Centro 1,27,Niños 0-9
+25/04/2025,Capacitación,Municipalidad de Venado Tuerto,Capacitacion Municipio,Marconi 631,Centro 1,8,Personal de Gobierno
+29/04/2025,Capacitación,Escuela,Capacitación Prof Nº7,Estrugamou  250,Centro 2,15,Jóvenes 19-29
+04/05/2025,Stand educativo,Escuela,Maraton,Parque Municipal,San Cayetano,,Público General
+11/05/2025,Stand educativo,Público general,Dia del Animal,Plaza Italia,Barrio Norte,75,Público General
+14/05/2025,Capacitación,Municipalidad de Venado Tuerto,Capacitacion Municipio,Marconi,Centro 1,8,Personal de Gobierno
+16/05/2025,Capacitación,Escuela,Jardin Sagrado Corazon,Lisandro de la Torre,Centro 2,36,Niños 0-9
+16/05/2025,Capacitación,Escuela,Jardin Sagrado Corazon,Lisandro de la Torre,Centro 2,16,Niños 0-9
+22/05/2025,Stand educativo,Público general,Expoeducativa,Plaza San Martin,Plaza San Martin,,Público General
+24/05/2025,Encuentro,Voluntarios,Encuentro de Voluntarios,Marconi,Centro 1,,Voluntarios
+27/05/2025,Capacitación,Escuela,Escuela N° 1364 Natalio del Carmen Perillo,Alvear,Rivadavia,22,Niños 0-9
+27/05/2025,Capacitación,Escuela,Escuela N° 1364 Natalio del Carmen Perillo,Alvear,Rivadavia,27,Niños 0-9
+30/05/2025,Capacitación,Escuela,Jardin N8,2 de abril,,23,Niños 0-9
+30/05/2025,Capacitación,Escuela,Jardin N8,2 de abril,,19,Niños 0-9
+30/05/2025,Capacitación,Institución social,Octavio Fueyo,Alvear,Centro 2,12,Adultos
+31/05/2025,Plogging,Voluntarios,Voluntarios Reciclar Venado,Jujuy y Alberto de Brouckere,Polo viejo,9,Jóvenes 19-29
+31/05/2025,Plogging,Empresa,Cooperacion Seguros,Jujuy y Alberto de Brouckere,Polo viejo,40,Público General
+02/06/2025,Stand educativo,Público general,Mesita,Alvear y San Martin,Centro 1,100,Público General
+03/06/2025,Capacitación,Municipalidad de Venado Tuerto,Personal de Gobierno Comercio,Marconi,631,12,Personal de Gobierno
+03/06/2025,Capacitación,Escuela,UGR,Iturraspe Y Belgrano,Centro 1,30,Jóvenes 19-29
+03/06/2025,Stand educativo,Público general,Mesita,Alvear y San Martin,Centro 1,100,Público General
+04/06/2025,Stand educativo,Público general,Mesita,Alvear y San Martin,Centro 1,125,Público General
+05/06/2025,Stand educativo,Público general,Mesita,Mitre y San Martin,Centro 1,,Público General
+06/06/2025,Capacitación,Municipalidad de Venado Tuerto,Personal de Gobierno Comercio  y Mayordomia,Municipalidad,,6,Personal de Gobierno
+06/06/2025,Capacitación,Escuela,Escuela de los Padres,Sarmiento 198,Centro 3,23,Niños 0-9
+06/06/2025,Stand educativo,Planta de Tratamiento,Mesita,Mitre y San Martin,Centro 1,75,Público General
+07/06/2025,Encuentro,Voluntarios,Mural con Sofi Galnares,Matheu y Neuquen,Gutierrez,17,Voluntarios
+08/06/2025,Stand educativo,Público general,Paseo de la Ciudad,Plaza San Martin,Centro 1,200,Público General
+10/06/2025,Capacitación,Institución social,Octavio Fueyo,Alvear,Centro 2,15,Adultos
+17/06/2025,Capacitación,Escuela,Taller de Nazareth,Mitre 1050,Centro 2,19,Niños 0-9
+17/06/2025,Capacitación,Escuela,Taller de Nazareth,Mitre 1051,Centro 2,21,Niños 0-9
+24/06/2025,Capacitación,Escuela,Jardin nº 138,Pellegrini 1385,Centro 2,28,Niños 0-9
+24/06/2025,Capacitación,Escuela,Jardin nº 138,Pellegrini 1385,Centro 2,21,Niños 0-9
+27/07/2025,Capacitación,Escuela,Jardin nº138,Dorrego,Centro 2,16,Niños 10-14
+02/07/2025,Capacitación,Escuela,Jardin Dante Alighieri,Iturraspe,Centro 1,22,Niños 0-9
+02/07/2025,Capacitación,Escuela,Jardin Dante Alighieri,Iturraspe,Centro 1,25,Niños 0-9
+11/07/2025,Capacitación,Empresa,Ravera-Arcor,Iturraspe 1701,Centro 2,16,Adultos
+14/07/2025,Capacitación,Municipalidad de Venado Tuerto,Museo Cayetano Silva,Maipu,Centro 2,4,Personal de Gobierno
+16/08/2025,Stand educativo,Público general,Expo Rural,Rural,Rural,200,Público General
+17/08/2025,Stand educativo,Público general,Expo Rural,Rural,Rural,700,Público General
+20/08/2025,Capacitación,Escuela,Taller de Nazareth,Mitre 1050,Centro 2,32,Niños 10-14
+20/08/2025,Capacitación,Escuela,Taller de Nazareth,Mitre 1051,Centro 2,28,Niños 10-14
+22/08/2025,Capacitación,Escuela,Escuela Nueva Vida,Monseñor Borgarino,Tiro federal,31,Niños 10-14
+22/08/2025,Capacitación,Escuela,Escuela Nueva Vida,Monseñor Borgarino,Tiro federal,17,Niños 0-9
+02/09/2025,Stand educativo,Concejo Municipal,Intervencion Concejales por un dia,Por la mañana,Centro 3,60,Jóvenes 15-18
+02/09/2025,Stand educativo,Concejo Municipal,Intervencion Concejales por un dia,Por la tarde,Centro 3,70,Jóvenes 15-18
+07/09/2025,Stand educativo,Público general,Ciclismo Voluntarios,Planta de Tratamiento de Residuos Solidos Urbanos,Planta de Tratamiento de Residuos Solidos Urbanos,8,Voluntarios
+09/09/2025,Capacitación,Escuela,Santa Rosa,Marconi,Centro 1,31,Niños 10-14
+10/09/2025,Capacitación,Escuela,Santa Rosa,Marconi,Centro 1,33,Niños 10-14
+16/09/2025,Actividad Recreativa,Escuela,Escuela Almafuerte,RUTA 33 Y LINIERS,Santa Rosa,47,Niños 10-14
+22/09/2025,Stand educativo,Escuela,Ices,Ices,Centro 2,100,Público General
+23/09/2025,Capacitación,Escuela,Jardin 110,Dimmer 1298,Norte,18,Niños 0-9
+24/09/2025,Capacitación,Municipalidad de Venado Tuerto,Juventudes,2 de abril y Cabral,,20,Adultos
+25/09/2025,Capacitación,Planta de Tratamiento,Bomberos Voluntarios 1191,Planta de Tratamiento de Residuos Solidos Urbanos,Planta de Tratamiento de Residuos Solidos Urbanos,15,Niños 10-14
+25/09/2025,Capacitación,Planta de Tratamiento,Esc 969,Planta de Tratamiento de Residuos Solidos Urbanos,Planta de Tratamiento de Residuos Solidos Urbanos,17,Niños 10-14
+26/09/2025,Stand educativo,Escuela,Encuentro Tecnologico Esc 602,Maxwell y San Martin,,110,Niños 10-14
+28/09/2025,Stand educativo,Público general,Dia de la primavera,Plaza Arabe,,15,Niños 0-9
+29/09/2025,Capacitación,Planta de Tratamiento,Esc 969,Planta de Tratamiento de Residuos Solidos Urbanos,Planta de Tratamiento de Residuos Solidos Urbanos,18,Niños 10-14
+29/09/2025,Capacitación,Planta de Tratamiento,Esc 498,Planta de Tratamiento de Residuos Solidos Urbanos,Planta de Tratamiento de Residuos Solidos Urbanos,22,Niños 0-9
+30/09/2025,Capacitación,Escuela,Esc 1262 Malvinas Argentinas,Amincton  702,Güemes,75,Niños 0-9
+30/10/2025,Canje ecotachos,Municipalidad de Venado Tuerto,Canje de Ecotachos,Plaza España,Rivadavia,141,Público General
+4/10/2025,Stand educativo,Público general,Maraton de Ritmos,La Rural,La Rural,100,Niños 0-9
+7/10/2025,Capacitación,Municipalidad de Venado Tuerto,Equipo CCM,Marconi,Marconi,10,Personal de Gobierno
+14/10/2025,Capacitación,Escuela,Jardin 206,Barberis,,30,Niños 0-9
+14/10/2025,Capacitación,Escuela,Jardin 207,Barberis,,36,Niños 0-9
+17/10/2025,Capacitación,Municipalidad de Venado Tuerto,Direccion de Educacion,9 de julio,9 de Julio,8,Personal de Gobierno
+17/10/2025,Stand educativo,Público general,Family day Syngenta,Syngenta,Syngenta,200,
+20/10/2025,Capacitación,Escuela,Intervencion Jardin Municipal,Semillitas,,17,Niños 0-9
+21/10/2025,Stand educativo,Vecinos,Capacitacion y entrega de bolsones Barrio Iturbide,,ITURBIDE,6,Público General
+22/10/2025,Encuentro,Voluntarios,Foro Ambiental encuentro de General Lopez,ROSARIO,ROSARIO SANTA FE,5,Voluntarios
+28/10/2025,Canje ecotachos,Público general,Canje de Ecotachos Plaza Italia,PLAZA ITALIA,,144,Público General
+28/10/2025,Canje ecotachos,Público general,Canje de Ecotachos Plaza Italia,PLAZA ITALIA,,32,Niños 0-9
+2/11/2025,Stand educativo,Público general,Fashion Day,Patio Casey,Patio Casey,300,Público General
+5/11/2025,Stand educativo,Vecinos,Vecinal San Jose Obrero,,Vecinal San Jose Obrero,43,Público General
+5/11/2025,Capacitación,Escuela,Taller de Nazareth,,Centro 2,30,Niños 0-9
+6/11/2025,Capacitación,Escuela,Taller de Nazareth,,Centro 2,26,Niños 0-9
+6/11/2025,Stand educativo,Vecinos,Vecinal Islas Malvinas,Vecinal Islas Malvinas,,34,Público General
+12/11/2025,Stand educativo,Vecinos,Bolsones Parque Municipal,Parque Municipal,,4,Público General
+14/11/2025,Stand educativo,Vecinos,Vecinal centro I,Vecinal centro 1,,12,Público General
+15/11/2025,Encuentro,Voluntarios,Voluntarios Reciclar Venado,Municipalidad de Venado Tuerto,,14,Jóvenes 19-29
+16/11/2025,Stand educativo,Público general,Entrega de RAES,Parque Municipal,,80,Público General
+20/11/2025,Stand educativo,Vecinos,Vecinal Barrio Gutierrez,Barrio Gutierrez,,10,Público General
+28/12/2025,Canje ecotachos,Público general,"Canje de Ecotachos, Plaza Estrada",Plaza Estrada,,59,Público General
+2/12/2025,Stand educativo,Vecinos,Vecinal Villa Casey,Villa Casey,,6,Adultos
+4/12/2025,Stand educativo,Escuela,Actividad escuela de Runciman,Runciman,,21,Niños 10-14
+5/12/2025,Stand educativo,Público general,Tren Sanitario,Estacion de Tren,,10,Niños 10-14
+6/12/2025,Stand educativo,Público general,Noche de Los Museos,Planta de Tratamiento de Residuos Solidos Urbanos,,205,Público General
+10/12/2025,Stand educativo,Público general,Tren Sanitario ,Estacion de Tren,,7,Público General
+13/12/2025,Encuentro,Voluntarios,Planificacion 2026 Voluntarios,Museo Cayetano Silva,,13,Voluntarios
+17/12/2025,Capacitación,Colonia,Colonia Centenario,Club Centenario,,55,Niños 10-14
+18/12/2025,Capacitación,Colonia,Colonia Centenario,Club Centenario,,19,Niños 10-14
+19/12/2025,Capacitación,Colonia,Colonia Adultos municipal,Parque Municipal,,47,Adultos mayores
+19/12/2025,Stand educativo,Vecinos,Feria Navideña,Jockey Club,,92,Público General
+22/12/2025,Capacitación,Colonia,Colonia Jockey Club,Jockey Club,,31,Niños 10-14

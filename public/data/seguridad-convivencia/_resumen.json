@@ -1,0 +1,288 @@
+{
+  "meta": {
+    "id": "seguridad-convivencia",
+    "title": "Seguridad y Convivencia · Resumen ejecutivo",
+    "category": "seguridad-convivencia",
+    "description": "Convivencia urbana, control vehicular y vigilancia sanitaria de alimentos.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/",
+    "license": "CC-BY / ODC-BY",
+    "last_updated": "2026-04-03T14:02:50.293646",
+    "organization": "Control Urbano y Convivencia"
+  },
+  "kpis": [
+    {
+      "id": "veh-total",
+      "label": "Vehículos abandonados intervenidos",
+      "value": 1380,
+      "formatted": "1.380",
+      "hint": "Retirados, regularizados o llevados al corralón (2021-2025)"
+    },
+    {
+      "id": "licencias",
+      "label": "Licencias de conducir 2025",
+      "value": 12825,
+      "formatted": "12.825",
+      "status": "good",
+      "hint": "36,4% emitidas a mujeres"
+    },
+    {
+      "id": "kg-decomisados",
+      "label": "Kg decomisados (2024-2025)",
+      "value": 19531,
+      "formatted": "19.531",
+      "unit": "kg",
+      "status": "warning",
+      "hint": "13.670 litros también decomisados"
+    }
+  ],
+  "charts": [
+    {
+      "id": "veh-yoy",
+      "type": "bar",
+      "title": "Vehículos abandonados intervenidos por año",
+      "subtitle": "Suma de retiros, regularizaciones y traslados al corralón.",
+      "data": [
+        {
+          "anio": "2021",
+          "vehiculos": 175
+        },
+        {
+          "anio": "2022",
+          "vehiculos": 324
+        },
+        {
+          "anio": "2023",
+          "vehiculos": 140
+        },
+        {
+          "anio": "2024",
+          "vehiculos": 168
+        },
+        {
+          "anio": "2025",
+          "vehiculos": 573
+        }
+      ],
+      "config": {
+        "indexBy": "anio",
+        "keys": [
+          "vehiculos"
+        ]
+      }
+    },
+    {
+      "id": "lic-clases",
+      "type": "horizontalBar",
+      "title": "Licencias de conducir 2025 · top clases",
+      "subtitle": "Categorías más solicitadas (A: motos, B: autos, C/D: cargas y pasajeros).",
+      "data": [
+        {
+          "clase": "B.2",
+          "licencias": 5912
+        },
+        {
+          "clase": "A.2.1",
+          "licencias": 5594
+        },
+        {
+          "clase": "B.1",
+          "licencias": 3224
+        },
+        {
+          "clase": "E.1",
+          "licencias": 1406
+        },
+        {
+          "clase": "A.3",
+          "licencias": 957
+        },
+        {
+          "clase": "A.2.2",
+          "licencias": 904
+        },
+        {
+          "clase": "D.1",
+          "licencias": 512
+        },
+        {
+          "clase": "G.1",
+          "licencias": 429
+        }
+      ],
+      "config": {
+        "indexBy": "clase",
+        "keys": [
+          "licencias"
+        ]
+      }
+    },
+    {
+      "id": "lic-tramite",
+      "type": "pie",
+      "title": "Licencias por tipo de trámite",
+      "subtitle": "Original vs renovación / duplicado.",
+      "data": [
+        {
+          "id": "RENOVACIÓN",
+          "label": "RENOVACIÓN",
+          "value": 9187
+        },
+        {
+          "id": "ORIGINAL",
+          "label": "ORIGINAL",
+          "value": 2252
+        },
+        {
+          "id": "RENOVACIÓN CON AMPLIACIÓN",
+          "label": "RENOVACIÓN CON AMPLIACIÓN",
+          "value": 1240
+        },
+        {
+          "id": "DUPLICADO",
+          "label": "DUPLICADO",
+          "value": 122
+        },
+        {
+          "id": "DUPLICADO POR CAMBIO DE DATOS",
+          "label": "DUPLICADO POR CAMBIO DE DATOS",
+          "value": 21
+        },
+        {
+          "id": "AMPLIACIÓN",
+          "label": "AMPLIACIÓN",
+          "value": 2
+        },
+        {
+          "id": "AMPLIACIÓN CON CAMBIO DE CLASE",
+          "label": "AMPLIACIÓN CON CAMBIO DE CLASE",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "dec-mes",
+      "type": "stackedBar",
+      "title": "Decomisos alimentarios por mes",
+      "subtitle": "Kilos decomisados — 2024 vs 2025.",
+      "data": [
+        {
+          "2024": 4668.98,
+          "2025": 0,
+          "mes": "Marzo"
+        },
+        {
+          "2024": 1016.07,
+          "2025": 0,
+          "mes": "Abril"
+        },
+        {
+          "2024": 178.01,
+          "2025": 0,
+          "mes": "Mayo"
+        },
+        {
+          "2024": 2219.99,
+          "2025": 0,
+          "mes": "Junio"
+        },
+        {
+          "2024": 894.15,
+          "2025": 0,
+          "mes": "Julio"
+        },
+        {
+          "2024": 0,
+          "2025": 0,
+          "mes": "Agosto"
+        },
+        {
+          "2024": 509.4,
+          "2025": 0,
+          "mes": "Septiembre"
+        },
+        {
+          "2024": 51.1,
+          "2025": 0,
+          "mes": "Octubre"
+        },
+        {
+          "2024": 377.66,
+          "2025": 0,
+          "mes": "Noviembre"
+        },
+        {
+          "2024": 3278.7,
+          "2025": 0,
+          "mes": "Diciembre"
+        },
+        {
+          "2024": 0,
+          "2025": 1494.379,
+          "mes": "2025-01"
+        },
+        {
+          "2024": 0,
+          "2025": 41.145,
+          "mes": "2025-02"
+        },
+        {
+          "2024": 0,
+          "2025": 202.442,
+          "mes": "2025-03"
+        },
+        {
+          "2024": 0,
+          "2025": 199.773,
+          "mes": "2025-04"
+        },
+        {
+          "2024": 0,
+          "2025": 444.254,
+          "mes": "2025-05"
+        },
+        {
+          "2024": 0,
+          "2025": 0,
+          "mes": "2025-06"
+        },
+        {
+          "2024": 0,
+          "2025": 0,
+          "mes": "2025-07"
+        },
+        {
+          "2024": 0,
+          "2025": 40.22,
+          "mes": "2025-08"
+        },
+        {
+          "2024": 0,
+          "2025": 8,
+          "mes": "2025-09"
+        },
+        {
+          "2024": 0,
+          "2025": 7.88,
+          "mes": "2025-10"
+        },
+        {
+          "2024": 0,
+          "2025": 31.57,
+          "mes": "2025-11"
+        },
+        {
+          "2024": 0,
+          "2025": 3867.03,
+          "mes": "2025-12"
+        }
+      ],
+      "config": {
+        "indexBy": "mes",
+        "keys": [
+          "2024",
+          "2025"
+        ]
+      }
+    }
+  ]
+}

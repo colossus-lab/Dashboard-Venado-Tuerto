@@ -1,0 +1,679 @@
+genero,nivel,institucion,año_en_curso,carrera
+Masculino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 602 ""GENERAL SAN MARTÍN""",Segundo año,No corresponde
+Masculino,Primario,"ESCUELA NRO 1325 ""JOSE VICENTE CIBELLI""",Sexto grado,No corresponde
+Femenino,Primario,"ESCUELA NRO 1325 ""JOSE VICENTE CIBELLI""",Cuarto grado,No corresponde
+Masculino,Secundario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Cuarto grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Quinto año,No corresponde
+Masculino,Primario,"ESCUELA NRO 582 ""9 DE JULIO""",Quinto grado,No corresponde
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Tercer año,Coordinador y Técnico en Turismo
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Tercer año,No corresponde
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Tercer año,Tec. Sup. en Trabajo Social
+Femenino,Primario,"Escuela Part. Nro. 1023 ""Santa Rosa""",Cuarto grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Tercer año,No corresponde
+Femenino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Segundo año,Lic. en Recursos Humanos
+Masculino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Segundo año,Tec. Sup. En desarrollo de software
+Femenino,Primario,"ESCUELA NRO 582 ""9 DE JULIO""",Cuarto grado,No corresponde
+Femenino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Quinto grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Tercer año,No corresponde
+Femenino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Segundo año,Lic. en Comercio Exterior
+Masculino,Primario,"ESCUELA NRO 540 ""DOMINGO FAUSTINO SARMIENTO""",Séptimo grado,No corresponde
+Masculino,Secundario,"Esc. Part. Inc. Nro. 1085 ""Sagrado Corazon""",Séptimo grado,No corresponde
+Femenino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Tercer año,Lic. en Recursos Humanos
+Masculino,Primario,"ESCUELA NRO 1189 ""CARLOS JAVIER BENIELLI""",Sexto grado,No corresponde
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Primer año,Prof. de Educación Secundaria en Historia
+Femenino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Tercer grado,No corresponde
+Femenino,Universitario,UGR (Universidad del Gran Rosario),Cuarto año,Lic. en Kinesiología y Fisiatría
+Masculino,Terciario,"IES NRO 7 (Inst. Superior Nro. 7 ""Brigadier E. López"")",Primer año,Tec. Sup. en Desarrollo de Software
+Femenino,Primario,"ESCUELA NRO 968 ""EDUARDO CASEY""",Primer grado,No corresponde
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Cuarto año,Tec. Sup. en Trabajo Social
+Femenino,Primario,"Escuela Part. Nro. 1023 ""Santa Rosa""",Séptimo grado,No corresponde
+Femenino,Secundario,"E.E.S.O. Part. Inc. Nro. 8032 ""Santa Rosa""",Cuarto año,No corresponde
+Femenino,Terciario,"IES NRO 7 (Inst. Superior Nro. 7 ""Brigadier E. López"")",Tercer año,Prof. de Artes Visuales con Orientación en Producción
+Femenino,Terciario,"Inst. Superior Part. Nro. 4058 ""Dante Alighieri""",Tercer año,Tec. Sup. en Periodismo
+Femenino,Primario,"ESCUELA NRO 1248 ""ROSA TURNER DE ESTRUGAMOU""",Cuarto grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 496 ""MARIANO MORENO""",Sexto grado,No corresponde
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Tercer año,Prof. de Educ. Secundaria en Matemática
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 602 ""GENERAL SAN MARTÍN""",Quinto año,No corresponde
+Femenino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Quinto año,Lic. en Psicología
+Masculino,Primario,"ESCUELA NRO 540 ""DOMINGO FAUSTINO SARMIENTO""",Séptimo grado,No corresponde
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Segundo grado,Prof. de Educación Inicial
+Femenino,Primario,"ESCUELA NRO 1189 ""CARLOS JAVIER BENIELLI""",Segundo grado,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 447 ""VICENTE MANZANO""",Segundo año,No corresponde
+Masculino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 483 ""EL INDUSTRIAL""",Quinto año,No corresponde
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 402 ""MANUEL BELGRANO""",Primer año,No corresponde
+Masculino,Primario,"ESCUELA NRO 6404 ""GENERAL MARTIN M. DE GUEMES""",Quinto grado,No corresponde
+Femenino,Secundario,"E.E.S.O. Part. Inc. Nro. 3095 ""Cultura Inglesa""",Cuarto año,No corresponde
+Masculino,Primario,"ESCUELA PART. INC. NRO 1085 ""SAGRADO CORAZON""",Sexto grado,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Quinto año,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Segundo año,No corresponde
+Femenino,Primario,"ESCUELA NRO 496 ""MARIANO MORENO""",Cuarto grado,No corresponde
+Masculino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Tercer año,Tec. Sup. en Diseño Gráfico
+Femenino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Tercer año,Lic. en Psicología
+Femenino,Terciario,"Inst. Superior Part. Nro. 4058 ""Dante Alighieri""",Tercer año,PyMES
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 402 ""MANUEL BELGRANO""",Segundo año,No corresponde
+Masculino,Primario,"ESCUELA NRO 497 ""CAYETANO ALBERTO SILVA""",Séptimo grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 497 ""CAYETANO ALBERTO SILVA""",Segundo grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 1248 ""ROSA TURNER DE ESTRUGAMOU""",Sexto grado,No corresponde
+Femenino,Secundario,"E.E.S.O. Part. Inc. Nro. 3081 ""Dante Alighieri""",Primer año,No corresponde
+Femenino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Cuarto año,Lic. en Comercio Exterior
+Femenino,Primario,"ESCUELA NRO 540 ""DOMINGO FAUSTINO SARMIENTO""",Séptimo grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 1198 ""GENERAL JOSE DE SAN MARTIN""",Quinto grado,No corresponde
+Femenino,Secundario p/ adultos,"E.E.M.P.A. Nro. 1013 ""Jose Pedroni""",,No corresponde
+Masculino,Primario,"ESCUELA NRO. 1198 ""GRAL. JOSE DE SAN MARTIN""",Segundo grado,No corresponde
+Masculino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Primer año,"Prof. de Nivel Inicial, E.G.B. y polimodal en Educación Física"
+Femenino,Primario,"ESCUELA NRO 1248 ""ROSA TURNER DE ESTRUGAMOU""",Segundo grado,No corresponde
+Masculino,Primario,"ESCUELA PART. INC. NRO 1280 ""DANTE ALIGHIERI""",Quinto grado,No corresponde
+Masculino,Universitario,UNR (Universidad Nacional de Rosario),Tercer año,Contador Público
+Masculino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 483 ""EL INDUSTRIAL""",Sexto año,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 447 ""VICENTE MANZANO""",Quinto año,No corresponde
+Masculino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Cuarto año,Lic. en Psicología
+Femenino,Primario,"ESCUELA NRO 497 ""CAYETANO ALBERTO SILVA""",Sexto grado,No corresponde
+Femenino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Cuarto año,Lic. en Recursos Humanos
+Femenino,Universitario,UGR (Universidad del Gran Rosario),Quinto año,Psicopedagogía
+Femenino,Primario,"ESCUELA NRO 1198 ""GENERAL JOSE DE SAN MARTIN""",Quinto grado,No corresponde
+Femenino,Terciario,ESCUELA SUPERIOR DE ENFERMERÍA,Tercer año,Tec. Sup. en Enfermería
+Femenino,Primario,"ESCUELA NRO 1201 ""F. ANTONIO RIZZUTO""",Tercer grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Cuarto año,No corresponde
+Masculino,Secundario,"E.E.T.P. Y S.O. Part. Inc. Nro. 8183 Ctro. Agro. Regional""",Tercer año,No corresponde
+Masculino,Primario,"ESCUELA NRO 1325 ""JOSE VICENTE CIBELLI""",Tercer grado,No corresponde
+Femenino,Universitario,UK - UNIVERSIDAD KENNEDY,Tercer año,Lic. en Psicopedagogía
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 402 ""MANUEL BELGRANO""",Primer año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Segundo año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Quinto año,No corresponde
+Femenino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Segundo año,Lic. en Psicología
+Femenino,Primario,"ESCUELA NRO 496 ""MARIANO MORENO""",Tercer grado,No corresponde
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 402 ""MANUEL BELGRANO""",Cuarto año,No corresponde
+Femenino,Primario,"ESCUELA NRO 968 ""EDUARDO CASEY""",Quinto grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Segundo año,No corresponde
+Femenino,Primario,"ESCUELA NRO 1295 ""DE LOS CIEN AÑOS""",Cuarto grado,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Quinto año,No corresponde
+Masculino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 402 ""MANUEL BELGRANO""",Sexto año,No corresponde
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 402 ""MANUEL BELGRANO""",Quinto año,No corresponde
+Femenino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Cuarto año,Lic. en Recursos Humanos
+Masculino,Terciario,"Inst. Superior Part. Nro. 4058 ""Dante Alighieri""",Primer año,
+Masculino,Primario,"ESCUELA PART. INC. NRO. 1329 ""CULTURA INGLESA""",Sexto grado,No corresponde
+Femenino,Universitario,UGR (Universidad del Gran Rosario),Segundo año,Lic. en Kinesiología y Fisiatría
+Femenino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Segundo año,Lic. en Recursos Humanos
+Femenino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Cuarto año,Lic. en Psicología
+Femenino,Secundario p/ adultos,"E.E.M.P.A. Nro. 1013 ""Jose Pedroni""",,No corresponde
+Femenino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Quinto año,Lic. en Psicología
+Femenino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Cuarto año,Lic. en Psicología
+Femenino,Primario,"ESCUELA NRO 969 ""JOAQUIN VICTOR GONZALEZ""",Cuarto grado,No corresponde
+Femenino,Primario,"ESCUELA NRO 1364 ""NATALIO DEL CARMEN PERILLO""",Tercer grado,No corresponde
+Femenino,Terciario,"IES NRO 7 (Inst. Superior Nro. 7 ""Brigadier E. López"")",Tercer año,Prof. en Educación Primaria
+Femenino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Segundo año,Lic. en Psicología
+Femenino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Segundo año,Lic. en Administación de Empresas
+Masculino,Terciario,UTN (Universidad Tecnológica Nacional),Tercer año,Tec. Univ. en Radiología
+Masculino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 602 ""GENERAL SAN MARTÍN""",Sexto año,No corresponde
+Masculino,Primario,"ESCUELA NRO 1295 ""DE LOS CIEN AÑOS""",Quinto grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Cuarto año,No corresponde
+Masculino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Tercer grado,No corresponde
+Masculino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 602 ""GENERAL SAN MARTÍN""",Segundo año,No corresponde
+Masculino,Terciario,"IES NRO 7 (Inst. Superior Nro. 7 ""Brigadier E. López"")",Segundo año,Tec. Sup. En desarrollo de software
+Femenino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Primer año,Derecho
+Femenino,Primario,"ESCUELA NRO 540 ""DOMINGO FAUSTINO SARMIENTO""",Séptimo grado,No corresponde
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Segundo año,Prof. de Nivel Inicial
+Masculino,Secundario,"E.E.S. ORIENTADA PART. INC. NRO 8032 ""SANTA ROSA""",Cuarto año,No corresponde
+Masculino,Universitario,UGR (Universidad del Gran Rosario),Tercer grado,Lic. en Kinesiología y Fisiatría
+Femenino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Segundo año,Lic. en Psicología
+Femenino,Universitario,UGR (Universidad del Gran Rosario),Quinto año,Lic. en Kinesiología y Fisiatría
+Femenino,Secundario,"E.E.S.O. PART. INC. NRO. 3095 ""CULTURA INGLESA""",Segundo año,No corresponde
+Femenino,Terciario,"IES NRO 7 (Inst. Superior Nro. 7 ""Brigadier E. López"")",Segundo año,Prof. de Artes Visuales con Orientación en Producción
+Femenino,Primario,"ESCUELA NRO 540 ""DOMINGO FAUSTINO SARMIENTO""",Séptimo grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 789 """"ALMAFUERTE""",Segundo grado,No corresponde
+Masculino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Tercer año,Coordinador y Técnico en Turismo
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Quinto año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Tercer año,No corresponde
+Femenino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Quinto año,Derecho
+Masculino,Primario,"ESCUELA NRO 1191 ""BOMBEROS VOLUNTARIOS""",Quinto grado,No corresponde
+Masculino,Primario,"ESCUELA PART. INC. NRO 1280 ""DANTE ALIGHIERI""",Quinto grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Segundo año,No corresponde
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Primer año,"Prof. de Nivel Inicial, E.G.B. y polimodal en Educación Física"
+Masculino,Terciario,"IES NRO 7 (Inst. Superior Nro. 7 ""Brigadier E. López"")",Segundo año,Tec. Sup. en Desarrollo de Software
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Segundo año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Quinto año,No corresponde
+Masculino,Primario,"ESCUELA CRISTIANA EVANGELICA ""NUEVA VIDA""",Segundo grado,No corresponde
+Femenino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Séptimo grado,No corresponde
+Femenino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Tercer año,Lic. en Recursos Humanos
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Cuarto año,No corresponde
+Femenino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Cuarto año,Lic. en Psicología
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 483 ""EL INDUSTRIAL""",Quinto año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Quinto grado,No corresponde
+Masculino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Primer año,Lic. en Comercio Exterior
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Tercer año,No corresponde
+Femenino,Primario,"ESCUELA NRO 1295 ""DE LOS CIEN AÑOS""",Sexto grado,No corresponde
+Femenino,Universitario,UCASAL (Universidad Católica de Salta),Primer año,Lic. en Comercio Exterior
+Femenino,Terciario,"IES NRO 7 (Inst. Superior Nro. 7 ""Brigadier E. López"")",Cuarto año,Prof. de Inglés
+Masculino,Universitario,SIGLO XXI (Universidad Siglo XXI),Cuarto año,Contador Público
+Femenino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Séptimo grado,No corresponde
+Femenino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Tercer año,Lic. en Psicología
+Femenino,Universitario,UTN (Universidad Tecnológica Nacional),Tercer año,Ing. en Sistemas de Información
+Femenino,Primario,"ESCUELA NRO 1325 ""JOSE VICENTE CIBELLI""",Quinto grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 1325 ""JOSE VICENTE CIBELLI""",Sexto grado,No corresponde
+Femenino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Segundo año,Lic. en Psicología
+Femenino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Segundo año,Lic. en Comercio Exterior
+Femenino,Secundario p/ adultos,"E.E.S. ORIENTADA NRO. 238 ""DR. RICARDO TORRES BLANCO""",,No corresponde
+Masculino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Tercer año,Lic. en Comercio Exterior
+Masculino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 602 ""GENERAL SAN MARTÍN""",Segundo año,No corresponde
+Masculino,Terciario,"Inst. Superior Part. Nro. 4058 ""Dante Alighieri""",,"Tec. Sup. en Seguridad, Higiene y Medio Ambiente en el Trabajo"
+Femenino,Primario,"ESCUELA NRO 1189 ""CARLOS JAVIER BENIELLI""",Sexto grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 968 ""EDUARDO CASEY""",Sexto grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Tercer año,No corresponde
+Femenino,Primario,"ESCUELA NRO 6404 ""GENERAL MARTIN M. DE GUEMES""",Séptimo grado,No corresponde
+Masculino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Segundo año,Lic. en Recursos Humanos
+Masculino,Primario,"Esc. Primaria Part. Nro. 1329 ""Cultura Inglesa""",Tercer grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Tercer año,No corresponde
+Femenino,Primario,"ESCUELA NRO 1364 ""NATALIO DEL CARMEN PERILLO""",Quinto grado,No corresponde
+Masculino,Universitario,UGR (Universidad del Gran Rosario),Quinto año,Lic. en Kinesiología y Fisiatría
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 602 ""GENERAL SAN MARTÍN""",Sexto año,No corresponde
+Femenino,Terciario,UTN (Universidad Tecnológica Nacional),Segundo año,Tec. Univ. en Radiología
+Femenino,Terciario,UTN (Universidad Tecnológica Nacional),Segundo año,Tec. Univ. en Radiología
+Femenino,Primario,"ESCUELA NRO 1201 ""F. ANTONIO RIZZUTO""",Séptimo grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Primer año,No corresponde
+Masculino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 602 ""GENERAL SAN MARTÍN""",Segundo año,No corresponde
+Masculino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 602 ""GENERAL SAN MARTÍN""",Cuarto año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Primer año,No corresponde
+Masculino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 483 ""EL INDUSTRIAL""",Segundo año,No corresponde
+Masculino,Primario,"ESCUELA NRO 540 ""DOMINGO FAUSTINO SARMIENTO""",Cuarto grado,No corresponde
+Femenino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Quinto año,Lic. en Psicología
+Femenino,Universitario,UNR (Universidad Nacional de Rosario),Primer año,Contador Público
+Masculino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 602 ""GENERAL SAN MARTÍN""",Quinto año,No corresponde
+Masculino,Primario,"ESCUELA NRO 1295 ""DE LOS CIEN AÑOS""",Quinto grado,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Cuarto año,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Tercer año,No corresponde
+Femenino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Segundo año,Derecho
+Masculino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 602 ""GENERAL SAN MARTÍN""",Tercer año,No corresponde
+Femenino,Primario,"ESCUELA NRO 968 ""EDUARDO CASEY""",,No corresponde
+Masculino,Primario,"ESCUELA NRO 1189 ""CARLOS JAVIER BENIELLI""",Segundo grado,No corresponde
+Femenino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Segundo año,Lic. en Psicología
+Femenino,Secundario,"E.E.S. Orientada Part. Inc. Nro. 2065 ""Taller de Nazareth""",Quinto año,No corresponde
+Masculino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 483 ""EL INDUSTRIAL""",Tercer año,No corresponde
+Femenino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Segundo año,Lic. en Psicología
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Segundo año,No corresponde
+Femenino,Primario,"ESCUELA NRO 6391 ""ANTARTIDA ARGENTINA""",Sexto grado,No corresponde
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 402 ""MANUEL BELGRANO""",Cuarto año,No corresponde
+Femenino,Secundario,"E.E.S.O. Part. Inc. Nro. 3081 ""Dante Alighieri""",Tercer año,No corresponde
+Femenino,Secundario,"E.E.S.O. Part. Inc. Nro. 3081 ""Dante Alighieri""",Tercer año,No corresponde
+Masculino,Secundario,ESCUELA PROVINCIAL DE ARTE NRO 3,Quinto año,No corresponde
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 602 ""GENERAL SAN MARTÍN""",Segundo año,No corresponde
+Masculino,Primario,"ESCUELA NRO 968 ""EDUARDO CASEY""",Sexto grado,No corresponde
+Femenino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),,Lic. en Psicología
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 483 ""EL INDUSTRIAL""",Primer año,No corresponde
+Femenino,Primario,"ESCUELA NRO 540 ""DOMINGO FAUSTINO SARMIENTO""",Cuarto grado,No corresponde
+Femenino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Segundo año,Derecho
+Femenino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Cuarto grado,No corresponde
+Masculino,Universitario,UGR (Universidad del Gran Rosario),,Lic. en Kinesiología y Fisiatría
+Femenino,Terciario,"IES NRO 7 (Inst. Superior Nro. 7 ""Brigadier E. López"")",Primer año,Prof. de Educación Inicial
+Femenino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Tercer año,Lic. en Comercio Exterior
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Segundo año,Tec. Sup. en Enfermería
+Masculino,Universitario,UTN (Universidad Tecnológica Nacional),Segundo año,Ingenieria civil
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Segundo año,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Tercer año,No corresponde
+Femenino,Universitario,UGR (Universidad del Gran Rosario),,Lic. en Kinesiología y Fisiatría
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 483 ""EL INDUSTRIAL""",Tercer año,No corresponde
+Femenino,Primario,"ESCUELA NRO 968 ""EDUARDO CASEY""",Cuarto grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 968 ""EDUARDO CASEY""",Sexto grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 496 ""MARIANO MORENO""",Sexto grado,No corresponde
+Femenino,Primario,"ESCUELA NRO 496 ""MARIANO MORENO""",Primer año,No corresponde
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 402 ""MANUEL BELGRANO""",Primer año,No corresponde
+Femenino,Primario,"ESCUELA NRO 1364 ""NATALIO DEL CARMEN PERILLO""",Primer año,No corresponde
+Femenino,Primario,"ESCUELA NRO 1364 ""NATALIO DEL CARMEN PERILLO""",Cuarto grado,No corresponde
+Masculino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 602 ""GENERAL SAN MARTÍN""",Quinto año,No corresponde
+Femenino,Secundario,"E.E.S.O. Part. Inc. Nro. 3081 ""Dante Alighieri""",Segundo año,No corresponde
+Masculino,Primario,"ESCUELA PART. INC. NRO 1280 ""DANTE ALIGHIERI""",Tercer grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Cuarto grado,No corresponde
+Femenino,Secundario,"ESC. ORIENT. PART. INC. NRO. 2065 ""TALLER DE NAZARETH""",Cuarto año,No corresponde
+Masculino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Cuarto año,"Prof. de Nivel Inicial, E.G.B. y polimodal en Educación Física"
+Femenino,Terciario,"Inst. Superior Part. Nro. 4058 ""Dante Alighieri""",Segundo año,Tec. Sup. en Gestion de las Organizaciones
+Femenino,Terciario,"IES NRO 7 (Inst. Superior Nro. 7 ""Brigadier E. López"")",Primer año,Prof. de Educación Sup. en Ciencias de la Educación
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Primer año,No corresponde
+Femenino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Quinto año,Lic. en Psicología
+Masculino,Primario,"ESCUELA NRO 6404 ""GENERAL MARTIN M. DE GUEMES""",Séptimo grado,No corresponde
+Femenino,Universitario,UGR (Universidad del Gran Rosario),Segundo año,Lic. en Kinesiología y Fisiatría
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Cuarto año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Tercer año,No corresponde
+Femenino,Primario,"ESCUELA NRO 540 ""DOMINGO FAUSTINO SARMIENTO""",Quinto grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Segundo año,No corresponde
+Femenino,Primario,"ESCUELA NRO 1248 ""ROSA TURNER DE ESTRUGAMOU""",Quinto grado,No corresponde
+Femenino,Terciario,ESCUELA SUPERIOR DE ENFERMERÍA,Tercer año,Tec. Sup. en Enfermería
+Femenino,Terciario,"Inst. Superior Part. Nro. 4058 ""Dante Alighieri""",Segundo año,"Tec. Sup. en Seguridad, Higiene y Medio Ambiente en el Trabajo"
+Masculino,Primario,"ESCUELA PART. INC. NRO 1325 ""TALLER DE NAZARETH""",Séptimo grado,No corresponde
+Femenino,Universitario,UNR (Universidad Nacional de Rosario),Primer año,Contador Público
+Femenino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Segundo año,Derecho
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 483 ""EL INDUSTRIAL""",Tercer año,No corresponde
+Femenino,Primario,"ESCUELA NRO 582 ""9 DE JULIO""",Cuarto grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Tercer año,No corresponde
+Masculino,Terciario,"IES NRO 7 (Inst. Superior Nro. 7 ""Brigadier E. López"")",Segundo año,Prof. en Cs. Educación
+Femenino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Primer año,Lic. en Administación de Empresas
+Masculino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Tercer año,Tec. Sup. en Diseño Gráfico
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Segundo año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Segundo año,No corresponde
+Femenino,Terciario,"Inst. Superior Part. Nro. 4058 ""Dante Alighieri""",Segundo año,Tec. Sup. en Gestion de las Organizaciones
+Femenino,Secundario p/ adultos,"E.E.M.P.A. Nro. 1013 ""Jose Pedroni""",Tercer año,No corresponde
+Femenino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Cuarto año,Lic. en Recursos Humanos
+Femenino,Terciario,"Inst. Superior Part. Nro. 4058 ""Dante Alighieri""",Tercer año,Tec. Sup. en Gestion de las Organizaciones
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 447 ""VICENTE MANZANO""",Segundo año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Primer año,No corresponde
+Femenino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Segundo año,Derecho
+Masculino,Primario,"ESCUELA NRO 1189 ""CARLOS JAVIER BENIELLI""",Séptimo grado,No corresponde
+Femenino,Primario,"ESCUELA NRO 1248 ""ROSA TURNER DE ESTRUGAMOU""",Tercer grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 1201 ""F. ANTONIO RIZZUTO""",Sexto grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 1248 ""ROSA TURNER DE ESTRUGAMOU""",Quinto grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 497 ""CAYETANO ALBERTO SILVA""",Séptimo grado,No corresponde
+Femenino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Tercer año,Lic. en Psicología
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Quinto año,No corresponde
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Tercer año,Tec. Sup. En Enfermeria
+Masculino,Primario,"ESCUELA NRO 6391 ""ANTARTIDA ARGENTINA""",Séptimo grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 447 ""VICENTE MANZANO""",Quinto año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 447 ""VICENTE MANZANO""",Quinto año,No corresponde
+Masculino,Terciario,"Inst. Superior Part. Nro. 4058 ""Dante Alighieri""",Segundo año,Tec. Sup. en Administración Rural
+Masculino,Primario,"ESCUELA NRO 969 ""JOAQUIN VICTOR GONZALEZ""",Quinto grado,No corresponde
+Femenino,Terciario,"Inst. Superior Part. Nro. 4058 ""Dante Alighieri""",Segundo año,Tec. Sup. en Administración Rural
+Femenino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Primer año,Derecho
+Femenino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Primer año,Derecho
+Masculino,Primario,"ESCUELA NRO 789 """"ALMAFUERTE""",Sexto grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 497 ""CAYETANO ALBERTO SILVA""",Tercer grado,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Quinto año,No corresponde
+Masculino,Primario,"ESCUELA NRO 968 ""EDUARDO CASEY""",Cuarto grado,No corresponde
+Femenino,Terciario,"Inst. Superior Part. Nro. 4058 ""Dante Alighieri""",Tercer año,Tec. Sup. en Gestion de las Organizaciones
+Femenino,Primario,"ESCUELA NRO 968 ""EDUARDO CASEY""",Sexto grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Séptimo grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA PART. INC. NRO 8032 ""SANTA ROSA""",Quinto año,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Segundo año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Quinto año,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Cuarto año,No corresponde
+Masculino,Universitario,UGR (Universidad del Gran Rosario),Segundo año,Lic. en Kinesiología y Fisiatría
+Femenino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Cuarto año,Lic. en Psicología
+Masculino,Primario,"ESCUELA NRO 1262 ""MALVINAS ARGENTINAS""",Tercer grado,No corresponde
+Femenino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Séptimo grado,No corresponde
+Femenino,Primario,"ESCUELA NRO 1262 ""MALVINAS ARGENTINAS""",Séptimo grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 1198 ""GENERAL JOSE DE SAN MARTIN""",Séptimo grado,No corresponde
+Femenino,Primario,"ESCUELA NRO 1198 ""GENERAL JOSE DE SAN MARTIN""",Sexto grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 1295 ""DE LOS CIEN AÑOS""",Sexto grado,No corresponde
+Masculino,Secundario,,,No corresponde
+Masculino,Primario,"ESCUELA NRO 1262 ""MALVINAS ARGENTINAS""",Tercer grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Segundo año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Cuarto año,No corresponde
+Masculino,Universitario,UGR (Universidad del Gran Rosario),Segundo año,Lic. en Kinesiología y Fisiatría
+Masculino,Terciario,UTN (Universidad Tecnológica Nacional),Segundo año,Tec. Universitario en Programación
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 402 ""MANUEL BELGRANO""",Cuarto año,No corresponde
+Femenino,Primario,"ESCUELA NRO 496 ""MARIANO MORENO""",Quinto grado,No corresponde
+Femenino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Tercer año,Lic. en Psicología
+Masculino,Primario,"ESCUELA NRO. 1198 ""GRAL. JOSE DE SAN MARTIN""",Quinto grado,No corresponde
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Tercer año,Prof. de Educ. Sec. en Lengua y Literatura
+Femenino,Primario p/adultos,"ESCUELA NOCTURNA NRO 19 ""John Fitzgerald Kennedy""",Tercer grado,No corresponde
+Femenino,Universitario,SIGLO XXI (Universidad Siglo XXI),Primer año,Lic. en Criminología y Seguridad
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Tercer año,Coordinador y Técnico en Turismo
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Tercer año,No corresponde
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Segundo año,Tec. Sup. en Trabajo Social
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Quinto año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Cuarto año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Quinto año,No corresponde
+Femenino,Secundario,,Primer año,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Cuarto año,No corresponde
+Femenino,Universitario,UK - UNIVERSIDAD KENNEDY,Primer año,"Tecnicatura Universitaria en Cosmetología, Cosmiatría y Estética"
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Quinto año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Tercer año,No corresponde
+Femenino,Terciario,"Inst. Superior Part. Nro. 4058 ""Dante Alighieri""",Tercer año,"Tec. Sup. en Seguridad, Higiene y Medio Ambiente en el Trabajo"
+Femenino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Segundo año,Lic. en Nutrición
+Femenino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Tercer año,Lic. en Recursos Humanos
+Femenino,Terciario,UTN (Universidad Tecnológica Nacional),Segundo año,Tec. Univ. en Programación
+Masculino,Terciario,"Inst. Superior Part. Nro. 4058 ""Dante Alighieri""",,Tec. Sup. en Administración Rural
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Primer año,Tec. Sup. En Enfermeria
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Segundo año,Tec. Sup. En Enfermeria
+Femenino,Primario,"ESCUELA NRO 582 ""9 DE JULIO""",Cuarto grado,No corresponde
+Femenino,Primario,"ESCUELA NRO 582 ""9 DE JULIO""",Séptimo grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 496 ""MARIANO MORENO""",Sexto grado,No corresponde
+Femenino,Universitario,UTN (Universidad Tecnológica Nacional),Segundo año,Ingeniería Electromecánica
+Masculino,Primario,"ESCUELA NRO 497 ""CAYETANO ALBERTO SILVA""",Cuarto grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Tercer año,No corresponde
+Masculino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Segundo año,Tec. Sup. en Diseño Gráfico
+Femenino,Terciario,UTN (Universidad Tecnológica Nacional),Primer año,Tec. Univ. en Radiología
+Masculino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Cuarto grado,No corresponde
+Masculino,Terciario,"IES NRO 7 (Inst. Superior Nro. 7 ""Brigadier E. López"")",Primer año,Prof. En Inglés
+Femenino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Cuarto año,Lic. en Nutrición
+Masculino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Primer año,Lic. en Administación de Empresas
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Tercer año,Tec. Sup. en Enfermería
+Masculino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Segundo año,Lic. en Psicología
+Femenino,Terciario,ESCUELA SUPERIOR DE ENFERMERÍA,Segundo año,Tec. Sup. en Enfermería
+Femenino,Primario,"ESCUELA NRO 789 """"ALMAFUERTE""",Cuarto grado,No corresponde
+Femenino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Primer año,Lic. en Comercio Exterior
+Femenino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Cuarto año,Lic. en Nutrición
+Femenino,Primario,"ESCUELA NRO 1189 ""CARLOS JAVIER BENIELLI""",Séptimo grado,No corresponde
+Masculino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Segundo año,Derecho
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Primer año,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Cuarto año,No corresponde
+Femenino,,,,No corresponde
+Femenino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Segundo año,Lic. en Psicología
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",,Tec. Sup. en Enfermería
+Femenino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Segundo año,Derecho
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 402 ""MANUEL BELGRANO""",Primer año,No corresponde
+Femenino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Cuarto grado,No corresponde
+Femenino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Cuarto año,Lic. en Recursos Humanos
+Masculino,Primario,"ESCUELA NRO 540 ""DOMINGO FAUSTINO SARMIENTO""",Séptimo grado,No corresponde
+Femenino,Terciario,"IES NRO 7 (Inst. Superior Nro. 7 ""Brigadier E. López"")",Tercer año,Prof. de Educación Sup. en Ciencias de la Educación
+Femenino,Primario,"ESCUELA NRO 1189 ""CARLOS JAVIER BENIELLI""",Séptimo grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Segundo año,No corresponde
+Masculino,Primario,"ESCUELA NRO 1325 ""JOSE VICENTE CIBELLI""",Sexto año,No corresponde
+Masculino,Primario,"ESCUELA NRO 540 ""DOMINGO FAUSTINO SARMIENTO""",Séptimo grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Primer año,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 447 ""VICENTE MANZANO""",Segundo año,No corresponde
+Femenino,Terciario,UTN (Universidad Tecnológica Nacional),Segundo año,Tec. Univ. en Radiología
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Segundo año,No corresponde
+Masculino,Terciario,"IES NRO 7 (Inst. Superior Nro. 7 ""Brigadier E. López"")",Cuarto año,Prof. en Geografía
+Femenino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Cuarto grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Sexto grado,No corresponde
+Femenino,Universitario,SIGLO XXI (Universidad Siglo XXI),Primer año,Lic. en Criminología y Seguridad
+Femenino,Secundario p/ adultos,"E.E.M.P.A. Nro. 1013 ""Jose Pedroni""",Tercer año,No corresponde
+Femenino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Quinto año,Lic. en Nutrición
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 447 ""VICENTE MANZANO""",Primer año,No corresponde
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",,Tec. Sup. En Enfermeria
+Femenino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Segundo año,Lic. en Nutrición
+Femenino,Universitario,UNR (Universidad Nacional de Rosario),Primer año,Contador Público
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 447 ""VICENTE MANZANO""",Primer año,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 447 ""VICENTE MANZANO""",Cuarto año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Primer año,No corresponde
+Masculino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Quinto grado,No corresponde
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Segundo año,Coordinador y Técnico en Turismo
+Femenino,Universitario,UGR (Universidad del Gran Rosario),Quinto año,Lic. en Kinesiología y Fisiatría
+Masculino,Primario,"ESCUELA NRO 497 ""CAYETANO ALBERTO SILVA""",Séptimo grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 497 ""CAYETANO ALBERTO SILVA""",Tercer grado,No corresponde
+Femenino,Terciario,SIGLO XXI (Universidad Siglo XXI),Cuarto año,Tec. en Investigación de la Escena del Crimen
+Femenino,Terciario,"Inst. Superior Part. Nro. 4058 ""Dante Alighieri""",Tercer año,Tec. Sup. en Gestion de las Organizaciones
+Femenino,Universitario,UGR (Universidad del Gran Rosario),Primer año,Lic. en Kinesiología y Fisiatría
+Masculino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 402 ""MANUEL BELGRANO""",Quinto año,No corresponde
+Femenino,Primario,"ESCUELA NRO 1248 ""ROSA TURNER DE ESTRUGAMOU""",Sexto grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 6404 ""GENERAL MARTIN M. DE GUEMES""",Quinto grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 1325 ""JOSE VICENTE CIBELLI""",Séptimo grado,No corresponde
+Masculino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 483 ""EL INDUSTRIAL""",Segundo año,No corresponde
+Femenino,Primario,"ESCUELA NRO 540 ""DOMINGO FAUSTINO SARMIENTO""",Tercer grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 6391 ""ANTARTIDA ARGENTINA""",Tercer grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 6391 ""ANTARTIDA ARGENTINA""",Sexto grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 6404 ""GENERAL MARTIN M. DE GUEMES""",Séptimo grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 1325 ""JOSE VICENTE CIBELLI""",Cuarto grado,No corresponde
+Femenino,Primario,"ESCUELA NRO 497 ""CAYETANO ALBERTO SILVA""",Séptimo grado,No corresponde
+Femenino,Primario,"ESCUELA NRO 497 ""CAYETANO ALBERTO SILVA""",Quinto grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 1201 ""F. ANTONIO RIZZUTO""",Séptimo grado,No corresponde
+Femenino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Segundo año,Lic. en Psicología
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Cuarto año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Primer año,No corresponde
+Masculino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Primer año,Prof. de Educ. Sec. en Historia
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 602 ""GENERAL SAN MARTÍN""",Sexto año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Quinto año,No corresponde
+Masculino,Primario,"ESCUELA NRO 540 ""DOMINGO FAUSTINO SARMIENTO""",Tercer grado,No corresponde
+Femenino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Séptimo grado,No corresponde
+Femenino,Terciario,"IES NRO 7 (Inst. Superior Nro. 7 ""Brigadier E. López"")",Tercer año,Prof. en Educación Primaria
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Quinto año,No corresponde
+Femenino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Segundo año,Lic. en Nutrición
+Masculino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Cuarto año,Lic. en Psicología
+Femenino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Segundo año,Lic. en Nutrición
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Tercer año,Prof. de Educ. Sec. en Historia
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 402 ""MANUEL BELGRANO""",Cuarto año,No corresponde
+Femenino,Primario,"ESCUELA NRO 968 ""EDUARDO CASEY""",Tercer grado,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Cuarto año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Cuarto año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Segundo año,No corresponde
+Femenino,Secundario p/ adultos,,,No corresponde
+Femenino,Primario,"ESCUELA NRO 1189 ""CARLOS JAVIER BENIELLI""",Cuarto grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 1189 ""CARLOS JAVIER BENIELLI""",Séptimo grado,No corresponde
+Femenino,Universitario,UNR (Universidad Nacional de Rosario),Segundo año,Contador Público
+Femenino,Terciario,"Inst. Superior Part. Nro. 4058 ""Dante Alighieri""",Primer grado,Tec. Sup. en Gestion de las Organizaciones
+Masculino,Primario,"ESCUELA NRO 1364 ""NATALIO DEL CARMEN PERILLO""",Tercer grado,No corresponde
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 602 ""GENERAL SAN MARTÍN""",Tercer año,No corresponde
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 402 ""MANUEL BELGRANO""",Segundo año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Quinto año,No corresponde
+Femenino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Quinto año,Lic. en Psicología
+Masculino,Universitario,UGR (Universidad del Gran Rosario),Quinto año,Lic. en Kinesiología y Fisiatría
+Masculino,Universitario,UGR (Universidad del Gran Rosario),Quinto año,Lic. en Kinesiología y Fisiatría
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Tercer año,No corresponde
+Masculino,Primario,"ESCUELA NRO 1189 ""CARLOS JAVIER BENIELLI""",Sexto grado,No corresponde
+Masculino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Segundo grado,Tec. Sup. En desarrollo de software
+Femenino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Sexto grado,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 447 ""VICENTE MANZANO""",Primer año,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Cuarto año,No corresponde
+Femenino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Tercer año,Lic. en Recursos Humanos
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Segundo año,Tec.Sup. en Comercialización
+Femenino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Segundo año,Lic. en Psicología
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Tercer año,No corresponde
+Femenino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Cuarto grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Sexto grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 1201 ""F. ANTONIO RIZZUTO""",Tercer grado,No corresponde
+Femenino,Primario,"ESCUELA NRO 969 ""JOAQUIN VICTOR GONZALEZ""",Quinto grado,No corresponde
+Femenino,Secundario,ESCUELA PROVINCIAL DE ARTE NRO 3,Quinto año,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA PART. INC. NRO 2065 ""TALLER DE NAZARETH""",Quinto año,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Segundo año,No corresponde
+Masculino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Cuarto grado,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 447 ""VICENTE MANZANO""",Segundo año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Tercer año,No corresponde
+Femenino,Primario,"Escuela Part. Nro. 1023 ""Santa Rosa""",Cuarto grado,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Quinto año,No corresponde
+Femenino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Cuarto grado,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Segundo año,No corresponde
+Femenino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Cuarto grado,No corresponde
+Femenino,Terciario,"IES NRO 7 (Inst. Superior Nro. 7 ""Brigadier E. López"")",Primer año,Prof. de Educación Sup. en Ciencias de la Educación
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Tercer año,Tec. Sup. en Diseño Gráfico
+Femenino,Primario,"ESCUELA NRO 1364 ""NATALIO DEL CARMEN PERILLO""",Quinto grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Segundo año,No corresponde
+Masculino,Primario,"ESCUELA NRO 1201 ""F. ANTONIO RIZZUTO""",Segundo grado,No corresponde
+Masculino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 483 ""EL INDUSTRIAL""",Primer año,No corresponde
+Masculino,Primario,"ESCUELA NRO 1248 ""ROSA TURNER DE ESTRUGAMOU""",Sexto grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 497 ""CAYETANO ALBERTO SILVA""",Cuarto grado,No corresponde
+Femenino,Primario,"ESCUELA NRO 1364 ""NATALIO DEL CARMEN PERILLO""",Cuarto grado,No corresponde
+Femenino,Primario,"ESCUELA NRO 540 ""DOMINGO FAUSTINO SARMIENTO""",Séptimo grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Séptimo grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Quinto grado,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Primer año,No corresponde
+Femenino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Quinto grado,No corresponde
+Masculino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Tercer año,Lic. en Psicología
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Tercer año,No corresponde
+Femenino,Terciario,"IES NRO 7 (Inst. Superior Nro. 7 ""Brigadier E. López"")",Segundo año,Prof. de Nivel Inicial
+Femenino,Secundario,"ESC. ORIENT. PART. INC. NRO. 2065 ""TALLER DE NAZARETH""",Tercer año,No corresponde
+Femenino,,,,No corresponde
+Masculino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Sexto grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Cuarto año,No corresponde
+Masculino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 483 ""EL INDUSTRIAL""",Quinto año,No corresponde
+Masculino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Cuarto año,Lic. en Psicología
+Femenino,Terciario,"Inst. Superior Part. Nro. 4058 ""Dante Alighieri""",Segundo año,"Tec. Sup. en Seguridad, Higiene y Medio Ambiente en el Trabajo"
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 402 ""MANUEL BELGRANO""",Segundo año,No corresponde
+Femenino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Segundo año,Derecho
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Cuarto año,Prof. en Educación Primaria
+Femenino,Universitario,UGR (Universidad del Gran Rosario),Quinto año,Lic. en Kinesiología y Fisiatría
+Femenino,Primario,"ESCUELA NRO 1189 ""CARLOS JAVIER BENIELLI""",Cuarto grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Segundo año,No corresponde
+Masculino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Segundo año,Lic. en Comercio Exterior
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Segundo año,No corresponde
+Femenino,Terciario,"Inst. Superior Part. Nro. 4058 ""Dante Alighieri""",Segundo año,Tec. Sup. en Gestion de las Organizaciones
+Femenino,Primario,"ESCUELA NRO 1248 ""ROSA TURNER DE ESTRUGAMOU""",Cuarto grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Tercer año,No corresponde
+Masculino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 483 ""EL INDUSTRIAL""",Sexto año,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Primer año,No corresponde
+Masculino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Segundo año,Lic. en Psicología
+Masculino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Sexto grado,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO. 238 ""DR. RICARDO TORRES BLANCO""",Cuarto año,No corresponde
+Femenino,Primario,"ESCUELA NRO 540 ""DOMINGO FAUSTINO SARMIENTO""",Quinto grado,No corresponde
+Femenino,Primario,"ESCUELA NRO 540 ""DOMINGO FAUSTINO SARMIENTO""",Séptimo grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 582 ""9 DE JULIO""",Tercer grado,No corresponde
+Femenino,Primario,"ESCUELA NRO 1248 ""ROSA TURNER DE ESTRUGAMOU""",Quinto grado,No corresponde
+Femenino,Primario,"ESCUELA NRO 1248 ""ROSA TURNER DE ESTRUGAMOU""",Quinto grado,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Segundo año,No corresponde
+Masculino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 483 ""EL INDUSTRIAL""",Tercer año,No corresponde
+Masculino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 483 ""EL INDUSTRIAL""",Primer año,No corresponde
+Masculino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 402 ""MANUEL BELGRANO""",Tercer año,No corresponde
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 402 ""MANUEL BELGRANO""",Primer año,No corresponde
+Masculino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Cuarto año,Lic. en Recursos Humanos
+Masculino,Terciario,"IES NRO 7 (Inst. Superior Nro. 7 ""Brigadier E. López"")",Tercer año,Tec. Sup. en Desarrollo de Software
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Segundo año,Coordinador y Técnico en turismo
+Femenino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Tercer grado,No corresponde
+Femenino,Primario,"ESCUELA NRO 1189 ""CARLOS JAVIER BENIELLI""",Cuarto grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 1189 ""CARLOS JAVIER BENIELLI""",Tercer grado,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 447 ""VICENTE MANZANO""",Primer año,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Cuarto año,No corresponde
+Femenino,Primario,"ESCUELA NRO 1325 ""JOSE VICENTE CIBELLI""",Cuarto grado,No corresponde
+Femenino,Primario,"ESCUELA PART. INC. NRO 1280 ""DANTE ALIGHIERI""",Sexto grado,No corresponde
+Femenino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Quinto año,Lic. en Recursos Humanos
+Masculino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Segundo grado,No corresponde
+Femenino,Universitario,UGR (Universidad del Gran Rosario),Segundo año,Lic. en Kinesiología y Fisiatría
+Femenino,Primario,"ESCUELA NRO 968 ""EDUARDO CASEY""",Segundo grado,No corresponde
+Femenino,Terciario,ESCUELA SUPERIOR DE ENFERMERÍA,Segundo año,Tec. Sup. En Enfermeria
+Femenino,Primario,"Esc. Primaria Part. Nro. 1329 ""Cultura Inglesa""",Cuarto grado,No corresponde
+Femenino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Segundo año,Lic. en Psicología
+Femenino,Universitario,UTN (Universidad Tecnológica Nacional),Segundo año,Ing. en Sistemas de Información
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Tercer año,"Prof. de Nivel Inicial, E.G.B. y polimodal en Educación Física"
+Femenino,Primario,"ESCUELA NRO 789 """"ALMAFUERTE""",Cuarto grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Primer año,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Segundo año,No corresponde
+Femenino,Primario,"ESCUELA NRO 789 """"ALMAFUERTE""",Quinto año,No corresponde
+Femenino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Segundo año,Lic. en Nutrición
+Femenino,Secundario p/ adultos,C.E.P.A. NRO 41,,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Cuarto año,No corresponde
+Masculino,Primario,"ESCUELA NRO 1325 ""JOSE VICENTE CIBELLI""",Segundo grado,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Cuarto año,No corresponde
+Femenino,Universitario,UNR (Universidad Nacional de Rosario),Segundo año,Contador Público
+Masculino,Primario,"ESCUELA NRO 1201 ""F. ANTONIO RIZZUTO""",Sexto año,No corresponde
+Femenino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Quinto año,Lic. en Psicología
+Masculino,Terciario,"Inst. Superior Part. Nro. 4058 ""Dante Alighieri""",Segundo año,Tec. Sup. en Periodismo
+Femenino,Universitario,UGR (Universidad del Gran Rosario),Cuarto año,Lic. en Kinesiología y Fisiatría
+Femenino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Segundo año,Lic. en Comercio Exterior
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Primer año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Primer año,No corresponde
+Masculino,Primario,"ESCUELA NRO 969 ""JOAQUIN VICTOR GONZALEZ""",Primer grado,No corresponde
+Masculino,Universitario,UTN (Universidad Tecnológica Nacional),Cuarto año,Ingenieria Civil
+Femenino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Cuarto año,Lic. en Administación de Empresas
+Masculino,Primario,"ESCUELA NRO 1248 ""ROSA TURNER DE ESTRUGAMOU""",Segundo grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 1189 ""CARLOS JAVIER BENIELLI""",Sexto grado,No corresponde
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Segundo grado,Tec. Sup. en Enfermería
+Femenino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Cuarto año,Lic. en Psicología
+Femenino,Secundario,"ESC. ORIENT. PART. INC. NRO. 2065 ""TALLER DE NAZARETH""",Tercer año,No corresponde
+Femenino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Segundo año,Derecho
+Masculino,Secundario,"E.E.S.O. Part. Inc. Nro. 8032 ""Santa Rosa""",Tercer año,No corresponde
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 602 ""GENERAL SAN MARTÍN""",Cuarto año,No corresponde
+Femenino,Primario,"ESCUELA NRO 1364 ""NATALIO DEL CARMEN PERILLO""",Segundo grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 447 ""VICENTE MANZANO""",Cuarto año,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Tercer año,No corresponde
+Femenino,Primario,"ESCUELA NRO 6404 ""GENERAL MARTIN M. DE GUEMES""",Segundo grado,No corresponde
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Segundo año,Tec. Sup. en Diseño Gráfico
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Primer año,No corresponde
+Femenino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Sexto grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Sexto grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 497 ""CAYETANO ALBERTO SILVA""",Quinto grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Tercer año,No corresponde
+Femenino,Primario,"ESCUELA NRO 1295 ""DE LOS CIEN AÑOS""",Séptimo grado,No corresponde
+Masculino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 602 ""GENERAL SAN MARTÍN""",Tercer año,No corresponde
+Femenino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Cuarto año,Lic. en Recursos Humanos
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Primer año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Segundo año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Tercer año,No corresponde
+Femenino,Terciario,"IES NRO 7 (Inst. Superior Nro. 7 ""Brigadier E. López"")",Segundo año,Prof. en Geografía
+Masculino,Secundario,"ESC. ORIENT. PART. INC. NRO. 2065 ""TALLER DE NAZARETH""",Quinto año,No corresponde
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Cuarto año,Trabajo Social
+Masculino,Primario,"ESCUELA NRO 1189 ""CARLOS JAVIER BENIELLI""",Tercer grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 497 ""CAYETANO ALBERTO SILVA""",Séptimo grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 1201 ""F. ANTONIO RIZZUTO""",Quinto grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Cuarto año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Segundo año,No corresponde
+Femenino,Primario,"ESCUELA NRO 1189 ""CARLOS JAVIER BENIELLI""",Séptimo grado,No corresponde
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 602 ""GENERAL SAN MARTÍN""",Sexto año,No corresponde
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Segundo año,Tec. Sup. en Enfermería
+Masculino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 602 ""GENERAL SAN MARTÍN""",Tercer año,No corresponde
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Cuarto año,"Prof. de Nivel Inicial, E.G.B. y polimodal en Educación Física"
+Femenino,Terciario,"Inst. Superior Part. Nro. 4058 ""Dante Alighieri""",,Tec. Sup. en Gestion de las Organizaciones
+Masculino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Segundo año,Derecho
+Femenino,Universitario,IUNIR (Inst. Universitario Italiano de Rosario),Primer año,Lic. en Psicología
+Masculino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Sexto grado,No corresponde
+Femenino,Primario,"ESCUELA NRO 582 ""9 DE JULIO""",Cuarto grado,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Primer año,No corresponde
+Femenino,Terciario,"IES NRO 7 (Inst. Superior Nro. 7 ""Brigadier E. López"")",Segundo año,Prof. en Educación Primaria
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Cuarto año,No corresponde
+Femenino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Segundo año,Lic. en Comercio Exterior
+Femenino,Universitario,UGR (Universidad del Gran Rosario),Tercer año,Lic. en Kinesiología y Fisiatría
+Masculino,Primario,"ESCUELA NRO 1189 ""CARLOS JAVIER BENIELLI""",Cuarto grado,No corresponde
+Masculino,Especial,ESCUELA ESPECIAL DE FORMACION INTEGRAL NRO 2112,,No corresponde
+Femenino,Terciario,"IES NRO 7 (Inst. Superior Nro. 7 ""Brigadier E. López"")",Segundo año,"Prof. de Educ. Esp. con Orientación en Discap. Intelectual"""
+Femenino,Terciario,"IES NRO 7 (Inst. Superior Nro. 7 ""Brigadier E. López"")",Tercer año,Prof. en Educación Primaria
+Masculino,Terciario,"Inst. Superior Part. Nro. 4058 ""Dante Alighieri""",Primer año,Tec. Sup. en Administración Rural
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Primer año,No corresponde
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 602 ""GENERAL SAN MARTÍN""",Segundo año,No corresponde
+Femenino,Universitario,SIGLO XXI (Universidad Siglo XXI),Cuarto año,Contador Público
+Masculino,Primario,"ESCUELA NRO 6404 ""GENERAL MARTIN M. DE GUEMES""",Cuarto grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 6404 ""GENERAL MARTIN M. DE GUEMES""",Quinto grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Cuarto año,No corresponde
+Masculino,Primario,"ESCUELA NRO 1189 ""CARLOS JAVIER BENIELLI""",Séptimo grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 447 ""VICENTE MANZANO""",Tercer año,No corresponde
+Femenino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Cuarto año,Lic. en Nutrición
+Femenino,Primario,"ESCUELA NRO 1262 ""MALVINAS ARGENTINAS""",Cuarto grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Segundo año,No corresponde
+Masculino,Terciario,"IES NRO 7 (Inst. Superior Nro. 7 ""Brigadier E. López"")",Cuarto año,Prof. de Educ. Sec. en Geografia
+Femenino,Primario,"ESCUELA NRO 540 ""DOMINGO FAUSTINO SARMIENTO""",Sexto grado,No corresponde
+Masculino,Primario,"Escuela Part. Nro. 1023 ""Santa Rosa""",Séptimo grado,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Tercer año,No corresponde
+Masculino,Primario,"ESCUELA NRO 969 ""JOAQUIN VICTOR GONZALEZ""",Cuarto grado,No corresponde
+Femenino,Terciario,"IES NRO 7 (Inst. Superior Nro. 7 ""Brigadier E. López"")",Segundo año,Prof. de Educ. Sec. en Biologia
+Femenino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Segundo año,Lic. en Nutrición
+Femenino,Primario,"ESCUELA NRO 496 ""MARIANO MORENO""",Quinto grado,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Quinto año,No corresponde
+Femenino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Segundo año,Derecho
+Femenino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Tercer año,Derecho
+Femenino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Tercer año,Derecho
+Femenino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Primer año,Derecho
+Masculino,Primario,"ESCUELA NRO 1325 ""JOSE VICENTE CIBELLI""",Tercer grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 969 ""JOAQUIN VICTOR GONZALEZ""",Quinto grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Quinto año,No corresponde
+Femenino,Terciario,"IES NRO 7 (Inst. Superior Nro. 7 ""Brigadier E. López"")",Segundo año,Prof. de Inglés
+Femenino,Primario,"ESCUELA NRO 1295 ""DE LOS CIEN AÑOS""",Tercer grado,No corresponde
+Femenino,Terciario,UTN (Universidad Tecnológica Nacional),Segundo año,Tec. Univ. en Radiología
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 447 ""VICENTE MANZANO""",Tercer año,No corresponde
+Femenino,Primario,"ESCUELA NRO 1248 ""ROSA TURNER DE ESTRUGAMOU""",Sexto grado,No corresponde
+Femenino,Secundario p/ adultos,"E.E.M.P.A. Nro. 1013 ""Jose Pedroni""",Tercer año,No corresponde
+Masculino,Universitario,UGR (Universidad del Gran Rosario),Primer año,Lic. en Kinesiología y Fisiatría
+Femenino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Segundo año,Lic. en Recursos Humanos
+Masculino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 483 ""EL INDUSTRIAL""",Cuarto año,No corresponde
+Femenino,Primario,"ESCUELA NRO 540 ""DOMINGO FAUSTINO SARMIENTO""",Sexto grado,No corresponde
+Femenino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Primer año,Derecho
+Masculino,Primario,"ESCUELA NRO 969 ""JOAQUIN VICTOR GONZALEZ""",Séptimo grado,No corresponde
+Femenino,Primario,"ESCUELA NRO 1191 ""BOMBEROS VOLUNTARIOS""",Cuarto grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 1191 ""BOMBEROS VOLUNTARIOS""",Sexto grado,No corresponde
+Femenino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Segundo año,Lic. en Comercio Exterior
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 402 ""MANUEL BELGRANO""",Primer año,No corresponde
+Masculino,Primario,"ESCUELA NRO 1248 ""ROSA TURNER DE ESTRUGAMOU""",Cuarto grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Primer año,No corresponde
+Masculino,Primario,"ESCUELA NRO 496 ""MARIANO MORENO""",Sexto grado,No corresponde
+Masculino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 602 ""GENERAL SAN MARTÍN""",Primer año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 447 ""VICENTE MANZANO""",Primer año,No corresponde
+Masculino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Segundo año,Lic. en Administación de Empresas
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Cuarto año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Segundo año,No corresponde
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Tercer año,Tec. Sup. en Enfermería
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 402 ""MANUEL BELGRANO""",Cuarto año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 447 ""VICENTE MANZANO""",Tercer año,No corresponde
+Masculino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 483 ""EL INDUSTRIAL""",Tercer año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Tercer año,No corresponde
+Femenino,Primario,"ESCUELA NRO 1295 ""DE LOS CIEN AÑOS""",Sexto grado,No corresponde
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Tercer año,Coordinador y Técnico en turismo
+Femenino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Segundo año,Lic. en Recursos Humanos
+Femenino,Terciario,"Inst. Superior Part. Nro. 4058 ""Dante Alighieri""",Cuarto año,"Tec. Sup. en Seguridad, Higiene y Medio Ambiente en el Trabajo"
+Masculino,Primario,"ESCUELA NRO 1248 ""ROSA TURNER DE ESTRUGAMOU""",Tercer grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Cuarto año,No corresponde
+Femenino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Séptimo grado,No corresponde
+Femenino,Primario,"ESCUELA NRO 1198 ""GENERAL JOSE DE SAN MARTIN""",Quinto grado,No corresponde
+Femenino,Terciario,"ICES (Inst.Sup. Part. Nro. 9145 ""Católico de Enseñanza Superior""",Segundo año,Tec. Sup. en Enfermería
+Masculino,Primario,"ESCUELA NRO 1198 ""GENERAL JOSE DE SAN MARTIN""",Séptimo grado,No corresponde
+Masculino,Terciario,"Inst. Superior Part. Nro. 4058 ""Dante Alighieri""",Primer año,Tec. Sup. en Administración Rural
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Tercer año,No corresponde
+Masculino,Primario,"ESCUELA NRO 1189 ""CARLOS JAVIER BENIELLI""",Cuarto grado,No corresponde
+Masculino,Primario,"ESCUELA NRO 6404 ""GENERAL MARTIN M. DE GUEMES""",Tercer grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 206 ""ROSA TURNER DE ESTRUGAMOU""",Segundo año,No corresponde
+Masculino,Primario,"ESCUELA NRO 496 ""MARIANO MORENO""",Cuarto grado,No corresponde
+Femenino,Secundario,EPA - ESCUELA PROVINCIAL DE ARTE NRO 3,Tercer año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 446 ""JUAN BAUTISTA ALBERDI""",Cuarto año,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 447 ""VICENTE MANZANO""",,No corresponde
+Femenino,Universitario,UCES (Universidad de Ciencias Empresariales y Sociales),Segundo año,Lic. en Recursos Humanos
+Masculino,Primario,"ESCUELA NRO 1325 ""JOSE VICENTE CIBELLI""",Quinto grado,No corresponde
+Femenino,Secundario,"E.E.S. ORIENTADA NRO 584 ""DR. RAUL RICARDO ALFONSIN""",Primer año,No corresponde
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 402 ""MANUEL BELGRANO""",Quinto año,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 447 ""VICENTE MANZANO""",Quinto año,No corresponde
+Femenino,Universitario,UCEL (Universidad del Centro Educativo Latinoamericano),Segundo año,Lic. en Nutrición
+Femenino,Secundario,"E.E. TÉCNICO PROFESIONAL NRO 602 ""GENERAL SAN MARTÍN""",Segundo año,No corresponde
+Masculino,Secundario,"E.E.S. ORIENTADA NRO 447 ""VICENTE MANZANO""",Segundo año,No corresponde
+Femenino,Secundario,ESCUELA PROVINCIAL DE ARTE NRO 3,Quinto año,No corresponde
+Masculino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Séptimo grado,No corresponde
+Femenino,Primario,"ESCUELA NRO 498 ""BERNARDINO RIVADAVIA""",Cuarto grado,No corresponde

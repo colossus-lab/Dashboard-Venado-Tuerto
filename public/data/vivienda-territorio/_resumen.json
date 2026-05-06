@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "id": "vivienda-territorio",
+    "title": "Vivienda y Territorio · Resumen ejecutivo",
+    "category": "vivienda-territorio",
+    "description": "Programa Nuestro Terreno: política habitacional municipal de adjudicación de lotes por sorteo público.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/",
+    "license": "CC-BY / ODC-BY",
+    "last_updated": "2026-03-27T15:00:15.813988",
+    "organization": "Intendencia y Gabinete"
+  },
+  "kpis": [
+    {
+      "id": "beneficiarios-total",
+      "label": "Beneficiarios acumulados",
+      "value": 1175,
+      "formatted": "1.175",
+      "status": "good",
+      "hint": "Programa Nuestro Terreno · 2021-2025"
+    },
+    {
+      "id": "titulares",
+      "label": "Titulares de sorteo",
+      "value": 506,
+      "formatted": "506",
+      "hint": "43,1% del total · 669 suplentes"
+    },
+    {
+      "id": "mujeres",
+      "label": "Titulares mujeres",
+      "value": 47.1,
+      "formatted": "47,1%",
+      "hint": "553 mujeres · 620 varones"
+    },
+    {
+      "id": "edad-prom",
+      "label": "Edad promedio del titular",
+      "value": 34.5,
+      "formatted": "34,5",
+      "unit": "años",
+      "hint": "2,1 integrantes promedio por grupo familiar"
+    }
+  ],
+  "charts": [
+    {
+      "id": "beneficiarios-yoy",
+      "type": "stackedBar",
+      "title": "Beneficiarios Nuestro Terreno por año",
+      "subtitle": "Titulares y suplentes adjudicados por sorteo.",
+      "data": [
+        {
+          "anio": "2021",
+          "titulares": 111,
+          "suplentes": 227
+        },
+        {
+          "anio": "2022",
+          "titulares": 111,
+          "suplentes": 121
+        },
+        {
+          "anio": "2023",
+          "titulares": 108,
+          "suplentes": 126
+        },
+        {
+          "anio": "2024",
+          "titulares": 100,
+          "suplentes": 112
+        },
+        {
+          "anio": "2025",
+          "titulares": 76,
+          "suplentes": 83
+        }
+      ],
+      "config": {
+        "indexBy": "anio",
+        "keys": [
+          "titulares",
+          "suplentes"
+        ]
+      }
+    },
+    {
+      "id": "tipo-sorteo",
+      "type": "pie",
+      "title": "Composición por tipo de sorteo",
+      "subtitle": "Sorteos generales, individuales, cupos por discapacidad y otros.",
+      "data": [
+        {
+          "id": "FAMILIAR - GENERAL",
+          "label": "FAMILIAR - GENERAL",
+          "value": 877
+        },
+        {
+          "id": "INDIVIDUAL - GENERAL",
+          "label": "INDIVIDUAL - GENERAL",
+          "value": 171
+        },
+        {
+          "id": "FAMILIAR - CUPO PERSONA CON DISCAPACIDAD",
+          "label": "FAMILIAR - CUPO PERSONA CON …",
+          "value": 92
+        },
+        {
+          "id": "INDIVIDUAL - CUPO PERSONA CON DISCAPACIDAD",
+          "label": "INDIVIDUAL - CUPO PERSONA CO…",
+          "value": 35
+        }
+      ]
+    },
+    {
+      "id": "situacion-hab",
+      "type": "horizontalBar",
+      "title": "Situación habitacional al inscribirse",
+      "subtitle": "Condición de tenencia de la vivienda al momento del sorteo.",
+      "data": [
+        {
+          "sit": "PROPIEDAD ALQUILADA",
+          "beneficiarios": 673
+        },
+        {
+          "sit": "PROPIEDAD COMPARTIDA CON FAM…",
+          "beneficiarios": 271
+        },
+        {
+          "sit": "PROPIEDAD PRESTADA O CEDIDA",
+          "beneficiarios": 207
+        },
+        {
+          "sit": "PROPIEDAD OCUPADA DE HECHO",
+          "beneficiarios": 15
+        },
+        {
+          "sit": "VIVE EN SU LUGAR DE TRABAJO",
+          "beneficiarios": 9
+        }
+      ],
+      "config": {
+        "indexBy": "sit",
+        "keys": [
+          "beneficiarios"
+        ]
+      }
+    },
+    {
+      "id": "genero",
+      "type": "pie",
+      "title": "Titulares por género",
+      "subtitle": "Composición demográfica del programa.",
+      "data": [
+        {
+          "id": "Femenino",
+          "label": "Femenino",
+          "value": 553
+        },
+        {
+          "id": "Masculino",
+          "label": "Masculino",
+          "value": 620
+        }
+      ]
+    }
+  ]
+}
