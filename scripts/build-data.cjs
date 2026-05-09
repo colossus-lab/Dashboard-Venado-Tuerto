@@ -54,6 +54,8 @@ const PIPELINE = [
   // Ambiente
   'process-actividades-reciclar.cjs',
   'process-visitas-planta-tratamiento.cjs',
+  // Vivienda y Territorio
+  'process-nuestro-terreno.cjs',
   // ── Datos externos filtrados a Venado Tuerto ──
   'process-padron-educativo-vt.cjs',
   'process-censo-2022-vt.cjs',

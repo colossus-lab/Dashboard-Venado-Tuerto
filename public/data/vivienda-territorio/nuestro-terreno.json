@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "id": "vivienda-territorio/nuestro-terreno",
+    "title": "Programa Nuestro Terreno",
+    "category": "vivienda-territorio",
+    "description": "Beneficiarios del programa Nuestro Terreno, mediante el cual el municipio adjudica lotes urbanos a familias de Venado Tuerto. Datos agregados de los sorteos realizados desde 2021.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/dataset/beneficiarios-programa-nuestro-terreno",
+    "license": "Creative Commons Attribution",
+    "last_updated": "2026-03-27T15:00:15.813988",
+    "organization": "Intendencia y gabinete"
+  },
+  "kpis": [
+    {
+      "id": "total-beneficiarios",
+      "label": "Beneficiarios",
+      "value": 1175,
+      "formatted": "1.175",
+      "hint": "Acumulado titular + suplente desde 2021."
+    },
+    {
+      "id": "pct-titulares",
+      "label": "Titulares de adjudicación",
+      "value": 43.06382978723404,
+      "formatted": "43,1%",
+      "hint": "506 de 1.175 beneficiarios."
+    },
+    {
+      "id": "pct-femenino",
+      "label": "Titulares mujeres",
+      "value": 47.14407502131287,
+      "formatted": "47,1%",
+      "hint": "553 de 1.173 con género declarado."
+    },
+    {
+      "id": "edad-promedio",
+      "label": "Edad promedio del titular",
+      "value": 34.5,
+      "formatted": "34,5",
+      "unit": "años"
+    }
+  ],
+  "charts": [
+    {
+      "id": "beneficiarios-anio",
+      "type": "area",
+      "title": "Beneficiarios incorporados por año",
+      "subtitle": "Sorteos del programa Nuestro Terreno desde 2021.",
+      "data": [
+        {
+          "anio": "2021",
+          "beneficiarios": 338
+        },
+        {
+          "anio": "2022",
+          "beneficiarios": 232
+        },
+        {
+          "anio": "2023",
+          "beneficiarios": 234
+        },
+        {
+          "anio": "2024",
+          "beneficiarios": 212
+        },
+        {
+          "anio": "2025",
+          "beneficiarios": 159
+        }
+      ],
+      "config": {
+        "indexBy": "anio",
+        "keys": [
+          "beneficiarios"
+        ]
+      }
+    },
+    {
+      "id": "tipo-sorteo",
+      "type": "pie",
+      "title": "Tipo de sorteo",
+      "subtitle": "Familiar general, joven, otras categorías.",
+      "data": [
+        {
+          "id": "FAMILIAR - GENERAL",
+          "label": "FAMILIAR - GENERAL",
+          "value": 877
+        },
+        {
+          "id": "INDIVIDUAL - GENERAL",
+          "label": "INDIVIDUAL - GENERAL",
+          "value": 171
+        },
+        {
+          "id": "FAMILIAR - CUPO PERSONA CON DISCAPACIDAD",
+          "label": "FAMILIAR - CUPO PERSONA CON DISCAPACIDAD",
+          "value": 92
+        },
+        {
+          "id": "INDIVIDUAL - CUPO PERSONA CON DISCAPACIDAD",
+          "label": "INDIVIDUAL - CUPO PERSONA CON DISCAPACIDAD",
+          "value": 35
+        }
+      ],
+      "config": {}
+    },
+    {
+      "id": "situacion",
+      "type": "pie",
+      "title": "Situación habitacional al inscribirse",
+      "subtitle": "Condición de vivienda al momento de la inscripción.",
+      "data": [
+        {
+          "id": "PROPIEDAD ALQUILADA",
+          "label": "PROPIEDAD ALQUILADA",
+          "value": 673
+        },
+        {
+          "id": "PROPIEDAD COMPARTIDA CON FAMILIA U OTROS",
+          "label": "PROPIEDAD COMPARTIDA CON FAMILIA U OTROS",
+          "value": 271
+        },
+        {
+          "id": "PROPIEDAD PRESTADA O CEDIDA",
+          "label": "PROPIEDAD PRESTADA O CEDIDA",
+          "value": 207
+        },
+        {
+          "id": "PROPIEDAD OCUPADA DE HECHO",
+          "label": "PROPIEDAD OCUPADA DE HECHO",
+          "value": 15
+        },
+        {
+          "id": "VIVE EN SU LUGAR DE TRABAJO",
+          "label": "VIVE EN SU LUGAR DE TRABAJO",
+          "value": 9
+        }
+      ],
+      "config": {}
+    },
+    {
+      "id": "genero",
+      "type": "pie",
+      "title": "Género del titular inscripto",
+      "subtitle": "Distribución entre titulares mujeres y varones.",
+      "data": [
+        {
+          "id": "Femenino",
+          "label": "Femenino",
+          "value": 553
+        },
+        {
+          "id": "Masculino",
+          "label": "Masculino",
+          "value": 620
+        }
+      ],
+      "config": {}
+    }
+  ],
+  "tables": []
+}
