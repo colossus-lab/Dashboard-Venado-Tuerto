@@ -1,0 +1,715 @@
+{
+  "meta": {
+    "id": "obras-servicios/fabrica-tubos-ladrillos",
+    "title": "Fábrica Municipal de Tubos y Ladrillos",
+    "category": "obras-servicios",
+    "description": "Producción de la fábrica municipal de tubos de hormigón y bloques: caños para desagües (medidas 600/800/1000/1200) y bloques para construcciones, utilizados en obras propias y vendidos a vecinos.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/dataset/fabricacion-municipal-de-tubos-y-ladrillos-2020",
+    "license": "Open Data Commons Attribution License",
+    "last_updated": "2026-04-01T10:46:24.860001",
+    "organization": "Servicios y obras públicas"
+  },
+  "kpis": [
+    {
+      "id": "total-canios",
+      "label": "Caños fabricados",
+      "value": 7218,
+      "formatted": "7.218",
+      "hint": "Producción total acumulada (medidas 600/800/1000/1200)."
+    },
+    {
+      "id": "total-bloques",
+      "label": "Bloques fabricados",
+      "value": 95213,
+      "formatted": "95.213",
+      "hint": "Bloques de hormigón producidos en la fábrica municipal."
+    },
+    {
+      "id": "mes-pico",
+      "label": "Mes pico (caños)",
+      "value": 354,
+      "formatted": "Oct 2025",
+      "hint": "354 caños producidos"
+    },
+    {
+      "id": "anio-pico",
+      "label": "Año pico (producción total)",
+      "value": 44576,
+      "formatted": "2022",
+      "hint": "400 caños · 44.176 bloques"
+    }
+  ],
+  "charts": [
+    {
+      "id": "canios-mensual",
+      "type": "line",
+      "title": "Producción mensual de caños",
+      "subtitle": "Caños fabricados mes a mes (todas las medidas combinadas).",
+      "data": [
+        {
+          "periodo": "Jun 20",
+          "caños": 66
+        },
+        {
+          "periodo": "Jul 20",
+          "caños": 50
+        },
+        {
+          "periodo": "Ago 20",
+          "caños": 68
+        },
+        {
+          "periodo": "Sep 20",
+          "caños": 103
+        },
+        {
+          "periodo": "Oct 20",
+          "caños": 116
+        },
+        {
+          "periodo": "Nov 20",
+          "caños": 130
+        },
+        {
+          "periodo": "Dic 20",
+          "caños": 63
+        },
+        {
+          "periodo": "Ene 21",
+          "caños": 0
+        },
+        {
+          "periodo": "Feb 21",
+          "caños": 79
+        },
+        {
+          "periodo": "Mar 21",
+          "caños": 145
+        },
+        {
+          "periodo": "Abr 21",
+          "caños": 165
+        },
+        {
+          "periodo": "May 21",
+          "caños": 180
+        },
+        {
+          "periodo": "Jun 21",
+          "caños": 122
+        },
+        {
+          "periodo": "Jul 21",
+          "caños": 115
+        },
+        {
+          "periodo": "Ago 21",
+          "caños": 86
+        },
+        {
+          "periodo": "Sep 21",
+          "caños": 8
+        },
+        {
+          "periodo": "Oct 21",
+          "caños": 16
+        },
+        {
+          "periodo": "Nov 21",
+          "caños": 146
+        },
+        {
+          "periodo": "Dic 21",
+          "caños": 81
+        },
+        {
+          "periodo": "Ene 22",
+          "caños": 14
+        },
+        {
+          "periodo": "Feb 22",
+          "caños": 79
+        },
+        {
+          "periodo": "Mar 22",
+          "caños": 49
+        },
+        {
+          "periodo": "Abr 22",
+          "caños": 48
+        },
+        {
+          "periodo": "May 22",
+          "caños": 6
+        },
+        {
+          "periodo": "Jun 22",
+          "caños": 33
+        },
+        {
+          "periodo": "Jul 22",
+          "caños": 61
+        },
+        {
+          "periodo": "Ago 22",
+          "caños": 14
+        },
+        {
+          "periodo": "Sep 22",
+          "caños": 20
+        },
+        {
+          "periodo": "Oct 22",
+          "caños": 0
+        },
+        {
+          "periodo": "Nov 22",
+          "caños": 24
+        },
+        {
+          "periodo": "Dic 22",
+          "caños": 52
+        },
+        {
+          "periodo": "Ene 23",
+          "caños": 117
+        },
+        {
+          "periodo": "Feb 23",
+          "caños": 81
+        },
+        {
+          "periodo": "Mar 23",
+          "caños": 77
+        },
+        {
+          "periodo": "Abr 23",
+          "caños": 39
+        },
+        {
+          "periodo": "May 23",
+          "caños": 16
+        },
+        {
+          "periodo": "Jun 23",
+          "caños": 66
+        },
+        {
+          "periodo": "Jul 23",
+          "caños": 92
+        },
+        {
+          "periodo": "Ago 23",
+          "caños": 104
+        },
+        {
+          "periodo": "Sep 23",
+          "caños": 49
+        },
+        {
+          "periodo": "Oct 23",
+          "caños": 0
+        },
+        {
+          "periodo": "Nov 23",
+          "caños": 143
+        },
+        {
+          "periodo": "Dic 23",
+          "caños": 96
+        },
+        {
+          "periodo": "Ene 24",
+          "caños": 83
+        },
+        {
+          "periodo": "Feb 24",
+          "caños": 200
+        },
+        {
+          "periodo": "Mar 24",
+          "caños": 111
+        },
+        {
+          "periodo": "Abr 24",
+          "caños": 119
+        },
+        {
+          "periodo": "May 24",
+          "caños": 168
+        },
+        {
+          "periodo": "Jun 24",
+          "caños": 291
+        },
+        {
+          "periodo": "Jul 24",
+          "caños": 348
+        },
+        {
+          "periodo": "Ago 24",
+          "caños": 177
+        },
+        {
+          "periodo": "Sep 24",
+          "caños": 218
+        },
+        {
+          "periodo": "Oct 24",
+          "caños": 59
+        },
+        {
+          "periodo": "Nov 24",
+          "caños": 106
+        },
+        {
+          "periodo": "Dic 24",
+          "caños": 272
+        },
+        {
+          "periodo": "Ene 25",
+          "caños": 272
+        },
+        {
+          "periodo": "Feb 25",
+          "caños": 69
+        },
+        {
+          "periodo": "Mar 25",
+          "caños": 85
+        },
+        {
+          "periodo": "Abr 25",
+          "caños": 108
+        },
+        {
+          "periodo": "May 25",
+          "caños": 81
+        },
+        {
+          "periodo": "Jun 25",
+          "caños": 169
+        },
+        {
+          "periodo": "Jul 25",
+          "caños": 196
+        },
+        {
+          "periodo": "Ago 25",
+          "caños": 215
+        },
+        {
+          "periodo": "Sep 25",
+          "caños": 232
+        },
+        {
+          "periodo": "Oct 25",
+          "caños": 354
+        },
+        {
+          "periodo": "Nov 25",
+          "caños": 128
+        },
+        {
+          "periodo": "Dic 25",
+          "caños": 138
+        }
+      ],
+      "config": {
+        "indexBy": "periodo",
+        "keys": [
+          "caños"
+        ]
+      }
+    },
+    {
+      "id": "bloques-anio",
+      "type": "bar",
+      "title": "Producción anual de bloques",
+      "subtitle": "Bloques de hormigón fabricados año por año.",
+      "data": [
+        {
+          "anio": "2020",
+          "bloques": 2396
+        },
+        {
+          "anio": "2021",
+          "bloques": 10936
+        },
+        {
+          "anio": "2022",
+          "bloques": 44176
+        },
+        {
+          "anio": "2023",
+          "bloques": 14680
+        },
+        {
+          "anio": "2024",
+          "bloques": 7026
+        },
+        {
+          "anio": "2025",
+          "bloques": 15999
+        }
+      ],
+      "config": {
+        "indexBy": "anio",
+        "keys": [
+          "bloques"
+        ]
+      }
+    },
+    {
+      "id": "total-mensual",
+      "type": "area",
+      "title": "Producción total mensual",
+      "subtitle": "Caños y bloques producidos mes a mes.",
+      "data": [
+        {
+          "periodo": "Jun 20",
+          "Caños": 66,
+          "Bloques": 196
+        },
+        {
+          "periodo": "Jul 20",
+          "Caños": 50,
+          "Bloques": 776
+        },
+        {
+          "periodo": "Ago 20",
+          "Caños": 68,
+          "Bloques": 147
+        },
+        {
+          "periodo": "Sep 20",
+          "Caños": 103,
+          "Bloques": 564
+        },
+        {
+          "periodo": "Oct 20",
+          "Caños": 116,
+          "Bloques": 0
+        },
+        {
+          "periodo": "Nov 20",
+          "Caños": 130,
+          "Bloques": 398
+        },
+        {
+          "periodo": "Dic 20",
+          "Caños": 63,
+          "Bloques": 315
+        },
+        {
+          "periodo": "Ene 21",
+          "Caños": 0,
+          "Bloques": 0
+        },
+        {
+          "periodo": "Feb 21",
+          "Caños": 79,
+          "Bloques": 663
+        },
+        {
+          "periodo": "Mar 21",
+          "Caños": 145,
+          "Bloques": 0
+        },
+        {
+          "periodo": "Abr 21",
+          "Caños": 165,
+          "Bloques": 461
+        },
+        {
+          "periodo": "May 21",
+          "Caños": 180,
+          "Bloques": 0
+        },
+        {
+          "periodo": "Jun 21",
+          "Caños": 122,
+          "Bloques": 270
+        },
+        {
+          "periodo": "Jul 21",
+          "Caños": 115,
+          "Bloques": 0
+        },
+        {
+          "periodo": "Ago 21",
+          "Caños": 86,
+          "Bloques": 0
+        },
+        {
+          "periodo": "Sep 21",
+          "Caños": 8,
+          "Bloques": 0
+        },
+        {
+          "periodo": "Oct 21",
+          "Caños": 16,
+          "Bloques": 4382
+        },
+        {
+          "periodo": "Nov 21",
+          "Caños": 146,
+          "Bloques": 2640
+        },
+        {
+          "periodo": "Dic 21",
+          "Caños": 81,
+          "Bloques": 2520
+        },
+        {
+          "periodo": "Ene 22",
+          "Caños": 14,
+          "Bloques": 3400
+        },
+        {
+          "periodo": "Feb 22",
+          "Caños": 79,
+          "Bloques": 2980
+        },
+        {
+          "periodo": "Mar 22",
+          "Caños": 49,
+          "Bloques": 4160
+        },
+        {
+          "periodo": "Abr 22",
+          "Caños": 48,
+          "Bloques": 2730
+        },
+        {
+          "periodo": "May 22",
+          "Caños": 6,
+          "Bloques": 6695
+        },
+        {
+          "periodo": "Jun 22",
+          "Caños": 33,
+          "Bloques": 5995
+        },
+        {
+          "periodo": "Jul 22",
+          "Caños": 61,
+          "Bloques": 5115
+        },
+        {
+          "periodo": "Ago 22",
+          "Caños": 14,
+          "Bloques": 4750
+        },
+        {
+          "periodo": "Sep 22",
+          "Caños": 20,
+          "Bloques": 4075
+        },
+        {
+          "periodo": "Oct 22",
+          "Caños": 0,
+          "Bloques": 3026
+        },
+        {
+          "periodo": "Nov 22",
+          "Caños": 24,
+          "Bloques": 500
+        },
+        {
+          "periodo": "Dic 22",
+          "Caños": 52,
+          "Bloques": 750
+        },
+        {
+          "periodo": "Ene 23",
+          "Caños": 117,
+          "Bloques": 1404
+        },
+        {
+          "periodo": "Feb 23",
+          "Caños": 81,
+          "Bloques": 400
+        },
+        {
+          "periodo": "Mar 23",
+          "Caños": 77,
+          "Bloques": 1200
+        },
+        {
+          "periodo": "Abr 23",
+          "Caños": 39,
+          "Bloques": 1500
+        },
+        {
+          "periodo": "May 23",
+          "Caños": 16,
+          "Bloques": 775
+        },
+        {
+          "periodo": "Jun 23",
+          "Caños": 66,
+          "Bloques": 778
+        },
+        {
+          "periodo": "Jul 23",
+          "Caños": 92,
+          "Bloques": 1275
+        },
+        {
+          "periodo": "Ago 23",
+          "Caños": 104,
+          "Bloques": 940
+        },
+        {
+          "periodo": "Sep 23",
+          "Caños": 49,
+          "Bloques": 2368
+        },
+        {
+          "periodo": "Oct 23",
+          "Caños": 0,
+          "Bloques": 1050
+        },
+        {
+          "periodo": "Nov 23",
+          "Caños": 143,
+          "Bloques": 1140
+        },
+        {
+          "periodo": "Dic 23",
+          "Caños": 96,
+          "Bloques": 1850
+        },
+        {
+          "periodo": "Ene 24",
+          "Caños": 83,
+          "Bloques": 0
+        },
+        {
+          "periodo": "Feb 24",
+          "Caños": 200,
+          "Bloques": 135
+        },
+        {
+          "periodo": "Mar 24",
+          "Caños": 111,
+          "Bloques": 1802
+        },
+        {
+          "periodo": "Abr 24",
+          "Caños": 119,
+          "Bloques": 0
+        },
+        {
+          "periodo": "May 24",
+          "Caños": 168,
+          "Bloques": 0
+        },
+        {
+          "periodo": "Jun 24",
+          "Caños": 291,
+          "Bloques": 0
+        },
+        {
+          "periodo": "Jul 24",
+          "Caños": 348,
+          "Bloques": 996
+        },
+        {
+          "periodo": "Ago 24",
+          "Caños": 177,
+          "Bloques": 516
+        },
+        {
+          "periodo": "Sep 24",
+          "Caños": 218,
+          "Bloques": 527
+        },
+        {
+          "periodo": "Oct 24",
+          "Caños": 59,
+          "Bloques": 1050
+        },
+        {
+          "periodo": "Nov 24",
+          "Caños": 106,
+          "Bloques": 1000
+        },
+        {
+          "periodo": "Dic 24",
+          "Caños": 272,
+          "Bloques": 1000
+        },
+        {
+          "periodo": "Ene 25",
+          "Caños": 272,
+          "Bloques": 1000
+        },
+        {
+          "periodo": "Feb 25",
+          "Caños": 69,
+          "Bloques": 1880
+        },
+        {
+          "periodo": "Mar 25",
+          "Caños": 85,
+          "Bloques": 1050
+        },
+        {
+          "periodo": "Abr 25",
+          "Caños": 108,
+          "Bloques": 730
+        },
+        {
+          "periodo": "May 25",
+          "Caños": 81,
+          "Bloques": 650
+        },
+        {
+          "periodo": "Jun 25",
+          "Caños": 169,
+          "Bloques": 0
+        },
+        {
+          "periodo": "Jul 25",
+          "Caños": 196,
+          "Bloques": 1817
+        },
+        {
+          "periodo": "Ago 25",
+          "Caños": 215,
+          "Bloques": 1243
+        },
+        {
+          "periodo": "Sep 25",
+          "Caños": 232,
+          "Bloques": 1663
+        },
+        {
+          "periodo": "Oct 25",
+          "Caños": 354,
+          "Bloques": 2110
+        },
+        {
+          "periodo": "Nov 25",
+          "Caños": 128,
+          "Bloques": 692
+        },
+        {
+          "periodo": "Dic 25",
+          "Caños": 138,
+          "Bloques": 3164
+        }
+      ],
+      "config": {
+        "indexBy": "periodo",
+        "keys": [
+          "Caños",
+          "Bloques"
+        ]
+      }
+    }
+  ],
+  "tables": []
+}

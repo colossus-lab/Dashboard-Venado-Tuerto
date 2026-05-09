@@ -1,0 +1,176 @@
+{
+  "meta": {
+    "id": "obras-servicios/ingreso-planos",
+    "title": "Ingreso de Planos",
+    "category": "obras-servicios",
+    "description": "Planos de construcción presentados ante la municipalidad: nuevas viviendas, ampliaciones, locales comerciales y registros conforme a obra. Indicador de la actividad de la construcción privada.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/dataset/ingreso-de-planos-2020",
+    "license": "Creative Commons Attribution",
+    "last_updated": "2026-04-02T14:56:25.841661",
+    "organization": "Gobierno"
+  },
+  "kpis": [
+    {
+      "id": "total",
+      "label": "Planos presentados",
+      "value": 5534,
+      "formatted": "5.534",
+      "unit": "planos",
+      "hint": "Acumulado 2020–2025"
+    },
+    {
+      "id": "m2",
+      "label": "Superficie total declarada",
+      "value": 2470851,
+      "formatted": "2.470.851 m²",
+      "hint": "Suma de la superficie de todos los planos presentados."
+    },
+    {
+      "id": "usos",
+      "label": "Usos distintos",
+      "value": 266,
+      "formatted": "266",
+      "hint": "Vivienda, comercio, industrial, conforme a obra, etc."
+    },
+    {
+      "id": "anio-pico",
+      "label": "Año pico",
+      "value": 1208,
+      "formatted": "2021",
+      "hint": "1.208 planos presentados"
+    }
+  ],
+  "charts": [
+    {
+      "id": "por-anio",
+      "type": "area",
+      "title": "Planos presentados por año",
+      "subtitle": "Volumen anual de presentaciones.",
+      "data": [
+        {
+          "anio": "2020",
+          "planos": 656
+        },
+        {
+          "anio": "2021",
+          "planos": 1208
+        },
+        {
+          "anio": "2022",
+          "planos": 1040
+        },
+        {
+          "anio": "2023",
+          "planos": 924
+        },
+        {
+          "anio": "2024",
+          "planos": 904
+        },
+        {
+          "anio": "2025",
+          "planos": 802
+        }
+      ],
+      "config": {
+        "indexBy": "anio",
+        "keys": [
+          "planos"
+        ]
+      }
+    },
+    {
+      "id": "por-uso",
+      "type": "horizontalBar",
+      "title": "Planos por uso declarado (top 10)",
+      "subtitle": "Vivienda, comercio, industria, conforme a obra y otros.",
+      "data": [
+        {
+          "uso": "VIVIENDA",
+          "planos": 1424
+        },
+        {
+          "uso": "REG VIVIENDA",
+          "planos": 713
+        },
+        {
+          "uso": "CONS VIVIENDA",
+          "planos": 545
+        },
+        {
+          "uso": "REG AMP VIVIENDA",
+          "planos": 215
+        },
+        {
+          "uso": "CONS. AMP VIVIENDA",
+          "planos": 208
+        },
+        {
+          "uso": "DEMOLICION PARCIAL",
+          "planos": 142
+        },
+        {
+          "uso": "AMP VIVIENDA",
+          "planos": 136
+        },
+        {
+          "uso": "REGULARIZACION",
+          "planos": 120
+        },
+        {
+          "uso": "DEMOLICION TOTAL",
+          "planos": 109
+        },
+        {
+          "uso": "10M2  POR UNICA VEZ",
+          "planos": 106
+        }
+      ],
+      "config": {
+        "indexBy": "uso",
+        "keys": [
+          "planos"
+        ]
+      }
+    },
+    {
+      "id": "m2-promedio",
+      "type": "bar",
+      "title": "Superficie promedio por plano (por año)",
+      "subtitle": "Tamaño promedio de las construcciones presentadas (m²).",
+      "data": [
+        {
+          "anio": "2020",
+          "m2": 448
+        },
+        {
+          "anio": "2021",
+          "m2": 443
+        },
+        {
+          "anio": "2022",
+          "m2": 485
+        },
+        {
+          "anio": "2023",
+          "m2": 490
+        },
+        {
+          "anio": "2024",
+          "m2": 466
+        },
+        {
+          "anio": "2025",
+          "m2": 328
+        }
+      ],
+      "config": {
+        "indexBy": "anio",
+        "keys": [
+          "m2"
+        ]
+      }
+    }
+  ],
+  "tables": []
+}

@@ -45,6 +45,12 @@ const PIPELINE = [
   'process-vehiculos-abandonados.cjs',
   'process-licencias-conducir.cjs',
   'process-decomisos-seguridad-alimentaria.cjs',
+  // Obras y Servicios
+  'process-obras-pavimento.cjs',
+  'process-fabrica-tubos-ladrillos.cjs',
+  'process-mensuras.cjs',
+  'process-ingreso-planos.cjs',
+  'process-viajes-tup.cjs',
   // ── Datos externos filtrados a Venado Tuerto ──
   'process-padron-educativo-vt.cjs',
   'process-censo-2022-vt.cjs',

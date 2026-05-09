@@ -1,0 +1,694 @@
+{
+  "meta": {
+    "id": "obras-servicios/viajes-tup",
+    "title": "Transporte Urbano de Pasajeros (TUP)",
+    "category": "obras-servicios",
+    "description": "Sistema de Transporte Urbano de Pasajeros: cantidad de viajes realizados y kilómetros recorridos por las unidades del servicio mes a mes desde 2020.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/dataset/viajes-y-kilometros-recorridos-tup",
+    "license": "Creative Commons Attribution",
+    "last_updated": "2026-03-21T22:15:10.502106",
+    "organization": "Servicios y obras públicas"
+  },
+  "kpis": [
+    {
+      "id": "total-viajes",
+      "label": "Viajes realizados",
+      "value": 1864465,
+      "formatted": "1.864.465",
+      "hint": "Acumulado 2020–2025"
+    },
+    {
+      "id": "total-km",
+      "label": "Kilómetros recorridos",
+      "value": 2896496,
+      "formatted": "2.896.496 km",
+      "hint": "Suma de kilómetros de todas las unidades del sistema."
+    },
+    {
+      "id": "promedio-mensual",
+      "label": "Promedio mensual",
+      "value": 25895,
+      "formatted": "25.895",
+      "unit": "viajes/mes"
+    },
+    {
+      "id": "anio-pico",
+      "label": "Año pico (viajes)",
+      "value": 499648,
+      "formatted": "2024",
+      "hint": "499.648 viajes"
+    }
+  ],
+  "charts": [
+    {
+      "id": "km-mensual",
+      "type": "line",
+      "title": "Kilómetros recorridos por mes",
+      "subtitle": "Distancia total mensual de las unidades del sistema TUP.",
+      "data": [
+        {
+          "periodo": "Ene 20",
+          "km": 60000
+        },
+        {
+          "periodo": "Feb 20",
+          "km": 60000
+        },
+        {
+          "periodo": "Mar 20",
+          "km": 60000
+        },
+        {
+          "periodo": "Abr 20",
+          "km": 0
+        },
+        {
+          "periodo": "May 20",
+          "km": 0
+        },
+        {
+          "periodo": "Jun 20",
+          "km": 0
+        },
+        {
+          "periodo": "Jul 20",
+          "km": 0
+        },
+        {
+          "periodo": "Ago 20",
+          "km": 0
+        },
+        {
+          "periodo": "Sep 20",
+          "km": 0
+        },
+        {
+          "periodo": "Oct 20",
+          "km": 0
+        },
+        {
+          "periodo": "Nov 20",
+          "km": 0
+        },
+        {
+          "periodo": "Dic 20",
+          "km": 30000
+        },
+        {
+          "periodo": "Ene 21",
+          "km": 30756
+        },
+        {
+          "periodo": "Feb 21",
+          "km": 29916
+        },
+        {
+          "periodo": "Mar 21",
+          "km": 30875
+        },
+        {
+          "periodo": "Abr 21",
+          "km": 31915
+        },
+        {
+          "periodo": "May 21",
+          "km": 33073
+        },
+        {
+          "periodo": "Jun 21",
+          "km": 27030
+        },
+        {
+          "periodo": "Jul 21",
+          "km": 31401
+        },
+        {
+          "periodo": "Ago 21",
+          "km": 29739
+        },
+        {
+          "periodo": "Sep 21",
+          "km": 33085
+        },
+        {
+          "periodo": "Oct 21",
+          "km": 32250
+        },
+        {
+          "periodo": "Nov 21",
+          "km": 35097
+        },
+        {
+          "periodo": "Dic 21",
+          "km": 31076
+        },
+        {
+          "periodo": "Ene 22",
+          "km": 32548
+        },
+        {
+          "periodo": "Feb 22",
+          "km": 28721
+        },
+        {
+          "periodo": "Mar 22",
+          "km": 43699
+        },
+        {
+          "periodo": "Abr 22",
+          "km": 44848
+        },
+        {
+          "periodo": "May 22",
+          "km": 49993
+        },
+        {
+          "periodo": "Jun 22",
+          "km": 54780
+        },
+        {
+          "periodo": "Jul 22",
+          "km": 45917
+        },
+        {
+          "periodo": "Ago 22",
+          "km": 56272
+        },
+        {
+          "periodo": "Sep 22",
+          "km": 62627
+        },
+        {
+          "periodo": "Oct 22",
+          "km": 55806
+        },
+        {
+          "periodo": "Nov 22",
+          "km": 57090
+        },
+        {
+          "periodo": "Dic 22",
+          "km": 48283
+        },
+        {
+          "periodo": "Ene 23",
+          "km": 34501
+        },
+        {
+          "periodo": "Feb 23",
+          "km": 30433
+        },
+        {
+          "periodo": "Mar 23",
+          "km": 52518
+        },
+        {
+          "periodo": "Abr 23",
+          "km": 44071
+        },
+        {
+          "periodo": "May 23",
+          "km": 49176
+        },
+        {
+          "periodo": "Jun 23",
+          "km": 56533
+        },
+        {
+          "periodo": "Jul 23",
+          "km": 44927
+        },
+        {
+          "periodo": "Ago 23",
+          "km": 58350
+        },
+        {
+          "periodo": "Sep 23",
+          "km": 57970
+        },
+        {
+          "periodo": "Oct 23",
+          "km": 38450
+        },
+        {
+          "periodo": "Nov 23",
+          "km": 51560
+        },
+        {
+          "periodo": "Dic 23",
+          "km": 52869
+        },
+        {
+          "periodo": "Ene 24",
+          "km": 29645
+        },
+        {
+          "periodo": "Feb 24",
+          "km": 26640
+        },
+        {
+          "periodo": "Mar 24",
+          "km": 50080
+        },
+        {
+          "periodo": "Abr 24",
+          "km": 56428
+        },
+        {
+          "periodo": "May 24",
+          "km": 46423
+        },
+        {
+          "periodo": "Jun 24",
+          "km": 49891
+        },
+        {
+          "periodo": "Jul 24",
+          "km": 43490
+        },
+        {
+          "periodo": "Ago 24",
+          "km": 56533
+        },
+        {
+          "periodo": "Sep 24",
+          "km": 55151
+        },
+        {
+          "periodo": "Oct 24",
+          "km": 58196
+        },
+        {
+          "periodo": "Nov 24",
+          "km": 51140
+        },
+        {
+          "periodo": "Dic 24",
+          "km": 47758
+        },
+        {
+          "periodo": "Ene 25",
+          "km": 30658
+        },
+        {
+          "periodo": "Feb 25",
+          "km": 35274
+        },
+        {
+          "periodo": "Mar 25",
+          "km": 43073
+        },
+        {
+          "periodo": "Abr 25",
+          "km": 41776
+        },
+        {
+          "periodo": "May 25",
+          "km": 65543
+        },
+        {
+          "periodo": "Jun 25",
+          "km": 52969
+        },
+        {
+          "periodo": "Jul 25",
+          "km": 41753
+        },
+        {
+          "periodo": "Ago 25",
+          "km": 57995
+        },
+        {
+          "periodo": "Sep 25",
+          "km": 59231
+        },
+        {
+          "periodo": "Oct 25",
+          "km": 59432
+        },
+        {
+          "periodo": "Nov 25",
+          "km": 48977
+        },
+        {
+          "periodo": "Dic 25",
+          "km": 50285
+        }
+      ],
+      "config": {
+        "indexBy": "periodo",
+        "keys": [
+          "km"
+        ]
+      }
+    },
+    {
+      "id": "viajes-mensual",
+      "type": "line",
+      "title": "Viajes realizados por mes",
+      "subtitle": "Cantidad de viajes-pasajero registrados mensualmente.",
+      "data": [
+        {
+          "periodo": "Ene 20",
+          "viajes": 20038
+        },
+        {
+          "periodo": "Feb 20",
+          "viajes": 21151
+        },
+        {
+          "periodo": "Mar 20",
+          "viajes": 15693
+        },
+        {
+          "periodo": "Abr 20",
+          "viajes": 0
+        },
+        {
+          "periodo": "May 20",
+          "viajes": 0
+        },
+        {
+          "periodo": "Jun 20",
+          "viajes": 0
+        },
+        {
+          "periodo": "Jul 20",
+          "viajes": 0
+        },
+        {
+          "periodo": "Ago 20",
+          "viajes": 0
+        },
+        {
+          "periodo": "Sep 20",
+          "viajes": 0
+        },
+        {
+          "periodo": "Oct 20",
+          "viajes": 0
+        },
+        {
+          "periodo": "Nov 20",
+          "viajes": 8
+        },
+        {
+          "periodo": "Dic 20",
+          "viajes": 3446
+        },
+        {
+          "periodo": "Ene 21",
+          "viajes": 7527
+        },
+        {
+          "periodo": "Feb 21",
+          "viajes": 9911
+        },
+        {
+          "periodo": "Mar 21",
+          "viajes": 12124
+        },
+        {
+          "periodo": "Abr 21",
+          "viajes": 13295
+        },
+        {
+          "periodo": "May 21",
+          "viajes": 12408
+        },
+        {
+          "periodo": "Jun 21",
+          "viajes": 11491
+        },
+        {
+          "periodo": "Jul 21",
+          "viajes": 13674
+        },
+        {
+          "periodo": "Ago 21",
+          "viajes": 15661
+        },
+        {
+          "periodo": "Sep 21",
+          "viajes": 16807
+        },
+        {
+          "periodo": "Oct 21",
+          "viajes": 14739
+        },
+        {
+          "periodo": "Nov 21",
+          "viajes": 7655
+        },
+        {
+          "periodo": "Dic 21",
+          "viajes": 17024
+        },
+        {
+          "periodo": "Ene 22",
+          "viajes": 12957
+        },
+        {
+          "periodo": "Feb 22",
+          "viajes": 14733
+        },
+        {
+          "periodo": "Mar 22",
+          "viajes": 21624
+        },
+        {
+          "periodo": "Abr 22",
+          "viajes": 22378
+        },
+        {
+          "periodo": "May 22",
+          "viajes": 26336
+        },
+        {
+          "periodo": "Jun 22",
+          "viajes": 26266
+        },
+        {
+          "periodo": "Jul 22",
+          "viajes": 19934
+        },
+        {
+          "periodo": "Ago 22",
+          "viajes": 27408
+        },
+        {
+          "periodo": "Sep 22",
+          "viajes": 30202
+        },
+        {
+          "periodo": "Oct 22",
+          "viajes": 30097
+        },
+        {
+          "periodo": "Nov 22",
+          "viajes": 29906
+        },
+        {
+          "periodo": "Dic 22",
+          "viajes": 26893
+        },
+        {
+          "periodo": "Ene 23",
+          "viajes": 20901
+        },
+        {
+          "periodo": "Feb 23",
+          "viajes": 21065
+        },
+        {
+          "periodo": "Mar 23",
+          "viajes": 30729
+        },
+        {
+          "periodo": "Abr 23",
+          "viajes": 28989
+        },
+        {
+          "periodo": "May 23",
+          "viajes": 29749
+        },
+        {
+          "periodo": "Jun 23",
+          "viajes": 34903
+        },
+        {
+          "periodo": "Jul 23",
+          "viajes": 28264
+        },
+        {
+          "periodo": "Ago 23",
+          "viajes": 39269
+        },
+        {
+          "periodo": "Sep 23",
+          "viajes": 38631
+        },
+        {
+          "periodo": "Oct 23",
+          "viajes": 29808
+        },
+        {
+          "periodo": "Nov 23",
+          "viajes": 36488
+        },
+        {
+          "periodo": "Dic 23",
+          "viajes": 35729
+        },
+        {
+          "periodo": "Ene 24",
+          "viajes": 25459
+        },
+        {
+          "periodo": "Feb 24",
+          "viajes": 26415
+        },
+        {
+          "periodo": "Mar 24",
+          "viajes": 40065
+        },
+        {
+          "periodo": "Abr 24",
+          "viajes": 45561
+        },
+        {
+          "periodo": "May 24",
+          "viajes": 40243
+        },
+        {
+          "periodo": "Jun 24",
+          "viajes": 41882
+        },
+        {
+          "periodo": "Jul 24",
+          "viajes": 41027
+        },
+        {
+          "periodo": "Ago 24",
+          "viajes": 48954
+        },
+        {
+          "periodo": "Sep 24",
+          "viajes": 50687
+        },
+        {
+          "periodo": "Oct 24",
+          "viajes": 51524
+        },
+        {
+          "periodo": "Nov 24",
+          "viajes": 45328
+        },
+        {
+          "periodo": "Dic 24",
+          "viajes": 42503
+        },
+        {
+          "periodo": "Ene 25",
+          "viajes": 27443
+        },
+        {
+          "periodo": "Feb 25",
+          "viajes": 28926
+        },
+        {
+          "periodo": "Mar 25",
+          "viajes": 40833
+        },
+        {
+          "periodo": "Abr 25",
+          "viajes": 43814
+        },
+        {
+          "periodo": "May 25",
+          "viajes": 42944
+        },
+        {
+          "periodo": "Jun 25",
+          "viajes": 43940
+        },
+        {
+          "periodo": "Jul 25",
+          "viajes": 39245
+        },
+        {
+          "periodo": "Ago 25",
+          "viajes": 45558
+        },
+        {
+          "periodo": "Sep 25",
+          "viajes": 49644
+        },
+        {
+          "periodo": "Oct 25",
+          "viajes": 49538
+        },
+        {
+          "periodo": "Nov 25",
+          "viajes": 39566
+        },
+        {
+          "periodo": "Dic 25",
+          "viajes": 37455
+        }
+      ],
+      "config": {
+        "indexBy": "periodo",
+        "keys": [
+          "viajes"
+        ]
+      }
+    },
+    {
+      "id": "anual",
+      "type": "area",
+      "title": "Resumen anual",
+      "subtitle": "Comparación de viajes y kilómetros por año.",
+      "data": [
+        {
+          "anio": "2020",
+          "Viajes": 60336,
+          "Kilómetros": 210000
+        },
+        {
+          "anio": "2021",
+          "Viajes": 152316,
+          "Kilómetros": 376213
+        },
+        {
+          "anio": "2022",
+          "Viajes": 288734,
+          "Kilómetros": 580584
+        },
+        {
+          "anio": "2023",
+          "Viajes": 374525,
+          "Kilómetros": 571358
+        },
+        {
+          "anio": "2024",
+          "Viajes": 499648,
+          "Kilómetros": 571375
+        },
+        {
+          "anio": "2025",
+          "Viajes": 488906,
+          "Kilómetros": 586966
+        }
+      ],
+      "config": {
+        "indexBy": "anio",
+        "keys": [
+          "Viajes",
+          "Kilómetros"
+        ]
+      }
+    }
+  ],
+  "tables": []
+}
