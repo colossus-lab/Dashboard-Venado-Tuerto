@@ -8,6 +8,7 @@ import {
   HardHat,
   Leaf,
   Home as HomeIcon,
+  Users,
   ArrowRight,
 } from 'lucide-react';
 import type { ComponentType } from 'react';
@@ -24,6 +25,7 @@ const ICONS: Record<CategorySlug, ComponentType<{ size?: number }>> = {
   'obras-servicios': HardHat,
   ambiente: Leaf,
   'vivienda-territorio': HomeIcon,
+  demografia: Users,
 };
 
 export function Landing() {

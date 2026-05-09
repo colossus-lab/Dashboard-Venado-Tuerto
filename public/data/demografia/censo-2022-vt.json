@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "id": "censo-2022-vt",
+    "title": "Censo Nacional 2022 · Venado Tuerto",
+    "category": "demografia",
+    "description": "Resultados definitivos del Censo Nacional de Población, Hogares y Viviendas 2022 del INDEC, filtrados estrictamente para la localidad Venado Tuerto (código de localidad 82042290).",
+    "source": "https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-41-165",
+    "license": "Datos abiertos · INDEC",
+    "last_updated": "2025-07-08T00:00:00.000Z",
+    "organization": "INDEC · Censo Nacional de Población, Hogares y Viviendas 2022"
+  },
+  "kpis": [
+    {
+      "id": "poblacion",
+      "label": "Población total",
+      "value": 75437,
+      "formatted": "75.437",
+      "hint": "Censo 2022 · localidad Venado Tuerto"
+    },
+    {
+      "id": "hogares",
+      "label": "Hogares",
+      "value": 24920,
+      "formatted": "24.920",
+      "hint": "3,03 personas por hogar"
+    },
+    {
+      "id": "pct-mujeres",
+      "label": "Mujeres",
+      "value": 51.8,
+      "formatted": "51,8%",
+      "hint": "39.055 mujeres · 36.382 varones"
+    },
+    {
+      "id": "viviendas",
+      "label": "Viviendas particulares",
+      "value": 28333,
+      "formatted": "28.333",
+      "hint": "15,9% desocupadas o de uso temporario"
+    }
+  ],
+  "charts": [
+    {
+      "id": "sexo",
+      "type": "pie",
+      "title": "Población por sexo",
+      "subtitle": "Censo 2022 · Venado Tuerto",
+      "data": [
+        {
+          "id": "Mujeres",
+          "label": "Mujeres",
+          "value": 39055
+        },
+        {
+          "id": "Varones",
+          "label": "Varones",
+          "value": 36382
+        }
+      ],
+      "config": {
+        "valueFormat": "number"
+      }
+    },
+    {
+      "id": "viviendas-ocupacion",
+      "type": "pie",
+      "title": "Viviendas particulares por ocupación",
+      "subtitle": "Habitadas vs. desocupadas / uso temporario",
+      "data": [
+        {
+          "id": "Habitadas",
+          "label": "Habitadas",
+          "value": 23819
+        },
+        {
+          "id": "Desocupadas o temporarias",
+          "label": "Desoc./temp.",
+          "value": 4514
+        }
+      ],
+      "config": {
+        "valueFormat": "number"
+      }
+    },
+    {
+      "id": "estructura",
+      "type": "bar",
+      "title": "Indicadores estructurales",
+      "subtitle": "Hogares, viviendas y población",
+      "data": [
+        {
+          "categoria": "Población",
+          "valor": 75437
+        },
+        {
+          "categoria": "Hogares",
+          "valor": 24920
+        },
+        {
+          "categoria": "Viv. habitadas",
+          "valor": 23819
+        },
+        {
+          "categoria": "Viv. particulares",
+          "valor": 28333
+        }
+      ],
+      "config": {
+        "keys": [
+          "valor"
+        ],
+        "indexBy": "categoria",
+        "valueFormat": "number"
+      }
+    }
+  ],
+  "tables": [
+    {
+      "id": "detalle",
+      "title": "Detalle Censo 2022 · Venado Tuerto",
+      "columns": [
+        "Indicador",
+        "Valor"
+      ],
+      "rows": [
+        [
+          "Población total",
+          "75.437"
+        ],
+        [
+          "Varones",
+          "36.382"
+        ],
+        [
+          "Mujeres",
+          "39.055"
+        ],
+        [
+          "Índice de masculinidad",
+          "93,2"
+        ],
+        [
+          "Hogares",
+          "24.920"
+        ],
+        [
+          "Personas por hogar",
+          "3,03"
+        ],
+        [
+          "Viviendas particulares habitadas",
+          "23.819"
+        ],
+        [
+          "Viviendas particulares totales",
+          "28.333"
+        ],
+        [
+          "Viviendas desocupadas / temporarias",
+          "4.514"
+        ],
+        [
+          "% viviendas desocupadas",
+          "15,9%"
+        ]
+      ]
+    }
+  ]
+}

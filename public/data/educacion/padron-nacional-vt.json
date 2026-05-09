@@ -1,0 +1,301 @@
+{
+  "meta": {
+    "id": "padron-nacional-vt",
+    "title": "Padrón Nacional Educativo · Venado Tuerto",
+    "category": "educacion",
+    "description": "Establecimientos educativos de la localidad de Venado Tuerto registrados en el Padrón Oficial del Ministerio de Educación de la Nación (DiNIECE). Datos filtrados estrictamente para la localidad (cód. 82042).",
+    "source": "https://www.argentina.gob.ar/educacion/evaluacion-e-informacion-educativa/padron-establecimientos",
+    "license": "Datos abiertos · Ministerio de Educación",
+    "last_updated": "2026-01-12T00:00:00.000Z",
+    "organization": "Ministerio de Educación de la Nación · DiNIECE"
+  },
+  "kpis": [
+    {
+      "id": "total-establecimientos",
+      "label": "Establecimientos educativos",
+      "value": 100,
+      "formatted": "100",
+      "hint": "Padrón Nacional · localidad Venado Tuerto"
+    },
+    {
+      "id": "pct-estatal",
+      "label": "Gestión estatal",
+      "value": 74,
+      "formatted": "74,0%",
+      "hint": "74 estatales · 26 privados"
+    },
+    {
+      "id": "total-ofertas",
+      "label": "Ofertas educativas activas",
+      "value": 129,
+      "formatted": "129",
+      "hint": "Suma de niveles/modalidades por establecimiento"
+    },
+    {
+      "id": "urbano",
+      "label": "Establecimientos urbanos",
+      "value": 98,
+      "formatted": "98",
+      "hint": "2 rurales"
+    }
+  ],
+  "charts": [
+    {
+      "id": "sector",
+      "type": "pie",
+      "title": "Establecimientos por sector de gestión",
+      "subtitle": "Estatal vs. privado en localidad Venado Tuerto",
+      "data": [
+        {
+          "id": "Estatal",
+          "label": "Estatal",
+          "value": 74
+        },
+        {
+          "id": "Privado",
+          "label": "Privado",
+          "value": 26
+        }
+      ],
+      "config": {
+        "valueFormat": "number"
+      }
+    },
+    {
+      "id": "niveles",
+      "type": "horizontalBar",
+      "title": "Establecimientos que ofrecen cada nivel",
+      "subtitle": "Un establecimiento puede ofrecer varios niveles",
+      "data": [
+        {
+          "nivel": "Inicial",
+          "valor": 34
+        },
+        {
+          "nivel": "Primario",
+          "valor": 45
+        },
+        {
+          "nivel": "Secundario",
+          "valor": 25
+        },
+        {
+          "nivel": "Superior",
+          "valor": 5
+        },
+        {
+          "nivel": "Form. Prof.",
+          "valor": 5
+        },
+        {
+          "nivel": "Talleres",
+          "valor": 0
+        }
+      ],
+      "config": {
+        "keys": [
+          "valor"
+        ],
+        "indexBy": "nivel",
+        "valueFormat": "number"
+      }
+    },
+    {
+      "id": "sector-nivel",
+      "type": "stackedBar",
+      "title": "Niveles por sector de gestión",
+      "subtitle": "Cantidad de establecimientos por nivel × sector",
+      "data": [
+        {
+          "nivel": "Inicial",
+          "Estatal": 24,
+          "Privado": 10
+        },
+        {
+          "nivel": "Primario",
+          "Estatal": 35,
+          "Privado": 10
+        },
+        {
+          "nivel": "Secundario",
+          "Estatal": 16,
+          "Privado": 9
+        },
+        {
+          "nivel": "Superior",
+          "Estatal": 3,
+          "Privado": 2
+        },
+        {
+          "nivel": "Form. Profesional",
+          "Estatal": 3,
+          "Privado": 2
+        }
+      ],
+      "config": {
+        "keys": [
+          "Estatal",
+          "Privado"
+        ],
+        "indexBy": "nivel",
+        "valueFormat": "number"
+      }
+    },
+    {
+      "id": "modalidades",
+      "type": "bar",
+      "title": "Modalidades educativas",
+      "subtitle": "Establecimientos que ofrecen cada modalidad",
+      "data": [
+        {
+          "modalidad": "Común",
+          "valor": 74
+        },
+        {
+          "modalidad": "Especial",
+          "valor": 5
+        },
+        {
+          "modalidad": "Adultos",
+          "valor": 21
+        },
+        {
+          "modalidad": "Hospitalaria",
+          "valor": 0
+        },
+        {
+          "modalidad": "Tall./Artíst.",
+          "valor": 0
+        }
+      ],
+      "config": {
+        "keys": [
+          "valor"
+        ],
+        "indexBy": "modalidad",
+        "valueFormat": "number"
+      }
+    }
+  ],
+  "tables": [
+    {
+      "id": "ranking",
+      "title": "Establecimientos con más ofertas educativas activas",
+      "columns": [
+        "Establecimiento",
+        "CUE-Anexo",
+        "Sector",
+        "Ámbito",
+        "Ofertas"
+      ],
+      "rows": [
+        [
+          "ESCUELA ESPECIAL PARA SORDOS E HIPOACUSICOS NRO 2110",
+          "820126900",
+          "Estatal",
+          "Urbano",
+          4
+        ],
+        [
+          "ESCUELA ESPECIAL NRO 2045 DR OSCAR AÑATIVA",
+          "820092600",
+          "Estatal",
+          "Urbano",
+          3
+        ],
+        [
+          "ESCUELA ESPECIAL PART. INC. NRO 1206 C. A. N. E. A.",
+          "820136300",
+          "Privado",
+          "Urbano",
+          3
+        ],
+        [
+          "ESCUELA PART. INC. NRO 1398 ESCUELA DE LOS PADRES",
+          "820298900",
+          "Privado",
+          "Urbano",
+          3
+        ],
+        [
+          "ESCUELA PART. AUT. NRO 1506 COLEGIO BILINGÜE MONTESSORI",
+          "820467200",
+          "Privado",
+          "Urbano",
+          3
+        ],
+        [
+          "E.E.S. ORIENTADA PART. INC. NRO 2065 TALLER DE NAZARETH",
+          "820024200",
+          "Privado",
+          "Urbano",
+          2
+        ],
+        [
+          "ESCUELA NRO 789 ALMAFUERTE",
+          "820088100",
+          "Estatal",
+          "Urbano",
+          2
+        ],
+        [
+          "ESCUELA NRO 1191 BOMBEROS VOLUNTARIOS",
+          "820092500",
+          "Estatal",
+          "Urbano",
+          2
+        ],
+        [
+          "ESCUELA NRO 968 EDUARDO CASEY",
+          "820092700",
+          "Estatal",
+          "Urbano",
+          2
+        ],
+        [
+          "ESCUELA NRO 969 JOAQUIN VICTOR GONZALEZ",
+          "820092800",
+          "Estatal",
+          "Urbano",
+          2
+        ],
+        [
+          "E.E. TÉCNICO PROFESIONAL NRO 602 GENERAL SAN MARTÍN",
+          "820092900",
+          "Estatal",
+          "Urbano",
+          2
+        ],
+        [
+          "ESCUELA PART. INC. NRO 1325 TALLER DE NAZARETH",
+          "820191600",
+          "Privado",
+          "Urbano",
+          2
+        ],
+        [
+          "JARDIN DE INFANTES PART. INC. NRO 1275 SAGRADO CORAZON",
+          "820250900",
+          "Privado",
+          "Urbano",
+          2
+        ],
+        [
+          "ESCUELA ESPECIAL DE FORMACION LABORAL NRO 2112",
+          "820251100",
+          "Estatal",
+          "Urbano",
+          2
+        ],
+        [
+          "E.E.S. ORIENTADA Y FORM. PROFESIONAL PART. INC. NRO 2055 ALEJANDRO F. ESTRUGAMOU",
+          "820252000",
+          "Privado",
+          "Urbano",
+          2
+        ]
+      ],
+      "maxRows": 15
+    }
+  ]
+}

@@ -22,6 +22,9 @@ const PIPELINE = [
   'process-cat-vivienda-territorio.cjs',
   // ── Informes individuales por dataset ──
   'process-personal-municipal.cjs',
+  // ── Datos externos filtrados a Venado Tuerto ──
+  'process-padron-educativo-vt.cjs',
+  'process-censo-2022-vt.cjs',
 ];
 
 console.log('╔══════════════════════════════════════════════════════════╗');

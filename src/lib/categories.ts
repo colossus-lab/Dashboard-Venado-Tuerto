@@ -49,6 +49,12 @@ export const CATEGORIES: Record<CategorySlug, CategoryDef> = {
     color: '#3b82f6',
     description: 'Programa Nuestro Terreno y beneficiarios.',
   },
+  demografia: {
+    slug: 'demografia',
+    label: 'Demografía',
+    color: '#06b6d4',
+    description: 'Censo Nacional 2022 INDEC · datos de la localidad de Venado Tuerto.',
+  },
 };
 
 export const CATEGORY_ORDER: CategorySlug[] = [
@@ -60,4 +66,5 @@ export const CATEGORY_ORDER: CategorySlug[] = [
   'obras-servicios',
   'ambiente',
   'vivienda-territorio',
+  'demografia',
 ];
