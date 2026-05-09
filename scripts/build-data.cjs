@@ -34,6 +34,10 @@ const PIPELINE = [
   'process-establecimientos-comerciales.cjs',
   'process-conecta-empleo.cjs',
   'process-hogares-convivencia.cjs',
+  // Educación
+  'process-oferta-educativa.cjs',
+  'process-becados.cjs',
+  'process-jardines-maternoinfantiles.cjs',
   // ── Datos externos filtrados a Venado Tuerto ──
   'process-padron-educativo-vt.cjs',
   'process-censo-2022-vt.cjs',

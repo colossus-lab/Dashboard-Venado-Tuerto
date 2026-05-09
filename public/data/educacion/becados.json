@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "id": "educacion/becados",
+    "title": "Becados Municipales",
+    "category": "educacion",
+    "description": "Programa municipal de becas estudiantiles: beneficiarios por nivel, institución educativa, carrera y género. Una herramienta de inclusión para sostener la trayectoria escolar y formativa.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/dataset/becados-2025",
+    "license": "Open Data Commons Attribution License",
+    "last_updated": "2026-04-03T13:49:55.191845",
+    "organization": "Territorialidad y desarrollo cultural"
+  },
+  "kpis": [
+    {
+      "id": "total-becados",
+      "label": "Becados",
+      "value": 676,
+      "formatted": "676",
+      "unit": "beneficiarios"
+    },
+    {
+      "id": "niveles",
+      "label": "Niveles educativos",
+      "value": 7,
+      "formatted": "7",
+      "hint": "Niveles cubiertos por el programa de becas."
+    },
+    {
+      "id": "instituciones",
+      "label": "Instituciones alcanzadas",
+      "value": 64,
+      "formatted": "64",
+      "hint": "Escuelas y centros donde estudian los becados."
+    },
+    {
+      "id": "pct-femenino",
+      "label": "Becadas mujeres",
+      "value": 62.57396449704142,
+      "formatted": "62,6%",
+      "hint": "423 de 676 con género declarado."
+    }
+  ],
+  "charts": [
+    {
+      "id": "por-nivel",
+      "type": "bar",
+      "title": "Becados por nivel educativo",
+      "subtitle": "Distribución de las becas según el nivel del estudiante.",
+      "data": [
+        {
+          "nivel": "Secundario",
+          "becados": 216
+        },
+        {
+          "nivel": "Primario",
+          "becados": 216
+        },
+        {
+          "nivel": "Universitario",
+          "becados": 133
+        },
+        {
+          "nivel": "Terciario",
+          "becados": 101
+        },
+        {
+          "nivel": "Secundario p/ adultos",
+          "becados": 8
+        },
+        {
+          "nivel": "Primario p/adultos",
+          "becados": 1
+        },
+        {
+          "nivel": "Especial",
+          "becados": 1
+        }
+      ],
+      "config": {
+        "indexBy": "nivel",
+        "keys": [
+          "becados"
+        ]
+      }
+    },
+    {
+      "id": "genero",
+      "type": "pie",
+      "title": "Becados por género",
+      "subtitle": "Participación femenina y masculina en el programa.",
+      "data": [
+        {
+          "id": "Femenino",
+          "label": "Femenino",
+          "value": 423
+        },
+        {
+          "id": "Masculino",
+          "label": "Masculino",
+          "value": 253
+        }
+      ],
+      "config": {}
+    },
+    {
+      "id": "top-instituciones",
+      "type": "horizontalBar",
+      "title": "Instituciones con más becados (top 12)",
+      "subtitle": "Escuelas y centros donde estudian los beneficiarios del programa.",
+      "data": [
+        {
+          "institucion": "E.E.S. ORIENTADA NRO 446 \"JUAN BAUTI…",
+          "becados": 46
+        },
+        {
+          "institucion": "ICES (Inst.Sup. Part. Nro. 9145 \"Cat…",
+          "becados": 42
+        },
+        {
+          "institucion": "E.E.S. ORIENTADA NRO 584 \"DR. RAUL R…",
+          "becados": 36
+        },
+        {
+          "institucion": "ESCUELA NRO 498 \"BERNARDINO RIVADAVIA\"",
+          "becados": 35
+        },
+        {
+          "institucion": "UCES (Universidad de Ciencias Empres…",
+          "becados": 33
+        },
+        {
+          "institucion": "IUNIR (Inst. Universitario Italiano …",
+          "becados": 33
+        },
+        {
+          "institucion": "E.E.S. ORIENTADA NRO 206 \"ROSA TURNE…",
+          "becados": 32
+        },
+        {
+          "institucion": "UCEL (Universidad del Centro Educati…",
+          "becados": 29
+        },
+        {
+          "institucion": "IES NRO 7 (Inst. Superior Nro. 7 \"Br…",
+          "becados": 24
+        },
+        {
+          "institucion": "Inst. Superior Part. Nro. 4058 \"Dant…",
+          "becados": 22
+        },
+        {
+          "institucion": "E.E. TÉCNICO PROFESIONAL NRO 602 \"GE…",
+          "becados": 21
+        },
+        {
+          "institucion": "UGR (Universidad del Gran Rosario)",
+          "becados": 20
+        }
+      ],
+      "config": {
+        "indexBy": "institucion",
+        "keys": [
+          "becados"
+        ]
+      }
+    }
+  ],
+  "tables": []
+}
