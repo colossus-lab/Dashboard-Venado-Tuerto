@@ -21,7 +21,13 @@ const PIPELINE = [
   'process-cat-ambiente.cjs',
   'process-cat-vivienda-territorio.cjs',
   // ── Informes individuales por dataset ──
+  // Gobierno
   'process-personal-municipal.cjs',
+  'process-organigrama.cjs',
+  'process-capacitaciones-rrhh.cjs',
+  'process-documentacion-cdr.cjs',
+  'process-comisiones-vecinales.cjs',
+  'process-elecciones-vecinales.cjs',
   // ── Datos externos filtrados a Venado Tuerto ──
   'process-padron-educativo-vt.cjs',
   'process-censo-2022-vt.cjs',

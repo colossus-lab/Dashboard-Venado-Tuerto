@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "id": "gobierno/documentacion-cdr",
+    "title": "Centro de Documentación Rápida (CDR)",
+    "category": "gobierno",
+    "description": "Trámites emitidos en el Centro de Documentación Rápida del municipio: actualizaciones de DNI, nuevos ejemplares, pasaportes y trámites sin cargo, desagregados por mes y año.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/dataset/documentacion-emitida-por-el-centro-de-documentacion-rapida-2024",
+    "license": "Open Data Commons Attribution License",
+    "last_updated": "2026-04-02T12:04:30.646807",
+    "organization": "Gobierno"
+  },
+  "kpis": [
+    {
+      "id": "total-tramites",
+      "label": "Trámites emitidos",
+      "value": 11731,
+      "formatted": "11.731",
+      "hint": "DNI (todos los tipos) + pasaportes"
+    },
+    {
+      "id": "pct-dni",
+      "label": "Trámites de DNI",
+      "value": 70.6163157446083,
+      "formatted": "70,6%",
+      "hint": "8.284 de 11.731"
+    },
+    {
+      "id": "mes-pico",
+      "label": "Mes pico",
+      "value": 711,
+      "formatted": "Ene 2025",
+      "hint": "711 trámites"
+    },
+    {
+      "id": "promedio",
+      "label": "Promedio mensual",
+      "value": 489,
+      "formatted": "489",
+      "unit": "trámites/mes"
+    }
+  ],
+  "charts": [
+    {
+      "id": "tramites-por-mes",
+      "type": "line",
+      "title": "Trámites emitidos por mes",
+      "subtitle": "Total mensual de trámites (DNI + pasaporte) por año.",
+      "data": [
+        {
+          "2024": 459,
+          "2025": 711,
+          "mes": "Ene"
+        },
+        {
+          "2024": 382,
+          "2025": 571,
+          "mes": "Feb"
+        },
+        {
+          "2024": 384,
+          "2025": 525,
+          "mes": "Mar"
+        },
+        {
+          "2024": 349,
+          "2025": 407,
+          "mes": "Abr"
+        },
+        {
+          "2024": 403,
+          "2025": 510,
+          "mes": "May"
+        },
+        {
+          "2024": 391,
+          "2025": 576,
+          "mes": "Jun"
+        },
+        {
+          "2024": 468,
+          "2025": 595,
+          "mes": "Jul"
+        },
+        {
+          "2024": 424,
+          "2025": 537,
+          "mes": "Ago"
+        },
+        {
+          "2024": 483,
+          "2025": 627,
+          "mes": "Sep"
+        },
+        {
+          "2024": 512,
+          "2025": 513,
+          "mes": "Oct"
+        },
+        {
+          "2024": 416,
+          "2025": 509,
+          "mes": "Nov"
+        },
+        {
+          "2024": 492,
+          "2025": 487,
+          "mes": "Dic"
+        }
+      ],
+      "config": {
+        "indexBy": "mes",
+        "keys": [
+          "2024",
+          "2025"
+        ]
+      }
+    },
+    {
+      "id": "tipo-tramite",
+      "type": "bar",
+      "title": "Trámites por tipo (todos los meses)",
+      "subtitle": "Distribución entre DNI y pasaporte, agregado por mes.",
+      "data": [
+        {
+          "mes": "Ene",
+          "DNI": 776,
+          "Pasaporte": 394
+        },
+        {
+          "mes": "Feb",
+          "DNI": 686,
+          "Pasaporte": 267
+        },
+        {
+          "mes": "Mar",
+          "DNI": 633,
+          "Pasaporte": 276
+        },
+        {
+          "mes": "Abr",
+          "DNI": 489,
+          "Pasaporte": 267
+        },
+        {
+          "mes": "May",
+          "DNI": 625,
+          "Pasaporte": 288
+        },
+        {
+          "mes": "Jun",
+          "DNI": 643,
+          "Pasaporte": 324
+        },
+        {
+          "mes": "Jul",
+          "DNI": 732,
+          "Pasaporte": 331
+        },
+        {
+          "mes": "Ago",
+          "DNI": 716,
+          "Pasaporte": 245
+        },
+        {
+          "mes": "Sep",
+          "DNI": 777,
+          "Pasaporte": 333
+        },
+        {
+          "mes": "Oct",
+          "DNI": 772,
+          "Pasaporte": 253
+        },
+        {
+          "mes": "Nov",
+          "DNI": 697,
+          "Pasaporte": 228
+        },
+        {
+          "mes": "Dic",
+          "DNI": 738,
+          "Pasaporte": 241
+        }
+      ],
+      "config": {
+        "indexBy": "mes",
+        "keys": [
+          "DNI",
+          "Pasaporte"
+        ]
+      }
+    }
+  ],
+  "tables": []
+}

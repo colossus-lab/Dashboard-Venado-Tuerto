@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "id": "gobierno/capacitaciones-rrhh",
+    "title": "Capacitaciones al Personal",
+    "category": "gobierno",
+    "description": "Capacitaciones organizadas o auspiciadas por la Dirección de Recursos Humanos para los agentes municipales: nombre, área temática, agentes participantes, modalidad y organizador.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/dataset/capacitaciones-al-personal-2021",
+    "license": "Open Data Commons Attribution License",
+    "last_updated": "2026-04-02T11:56:48.794521",
+    "organization": "Gobierno"
+  },
+  "kpis": [
+    {
+      "id": "total-capacitaciones",
+      "label": "Capacitaciones (2021–2025)",
+      "value": 137,
+      "formatted": "137",
+      "unit": "eventos"
+    },
+    {
+      "id": "total-agentes",
+      "label": "Agentes capacitados",
+      "value": 3280,
+      "formatted": "3.280",
+      "hint": "Suma de participantes en todas las capacitaciones (puede contar repetidos)."
+    },
+    {
+      "id": "areas",
+      "label": "Áreas temáticas",
+      "value": 11,
+      "formatted": "11",
+      "hint": "Diversidad temática del programa de capacitación."
+    },
+    {
+      "id": "pct-presencial",
+      "label": "Modalidad presencial",
+      "value": 90.51094890510949,
+      "formatted": "90,5%",
+      "hint": "124 de 137 eventos con modalidad declarada."
+    }
+  ],
+  "charts": [
+    {
+      "id": "cap-por-anio",
+      "type": "area",
+      "title": "Capacitaciones realizadas por año",
+      "subtitle": "Cantidad de eventos formativos organizados o auspiciados por el municipio.",
+      "data": [
+        {
+          "anio": "2021",
+          "capacitaciones": 25
+        },
+        {
+          "anio": "2022",
+          "capacitaciones": 26
+        },
+        {
+          "anio": "2023",
+          "capacitaciones": 16
+        },
+        {
+          "anio": "2024",
+          "capacitaciones": 36
+        },
+        {
+          "anio": "2025",
+          "capacitaciones": 34
+        }
+      ],
+      "config": {
+        "indexBy": "anio",
+        "keys": [
+          "capacitaciones"
+        ]
+      }
+    },
+    {
+      "id": "top-areas",
+      "type": "horizontalBar",
+      "title": "Capacitaciones por área temática (top 10)",
+      "subtitle": "Las temáticas más frecuentes del programa de capacitación.",
+      "data": [
+        {
+          "area": "Competencias técnicas",
+          "eventos": 39
+        },
+        {
+          "area": "Seguridad e higiene",
+          "eventos": 22
+        },
+        {
+          "area": "Salud",
+          "eventos": 18
+        },
+        {
+          "area": "SEGURIDAD E HIGIENE",
+          "eventos": 14
+        },
+        {
+          "area": "Informática",
+          "eventos": 11
+        },
+        {
+          "area": "COMPETENCIAS TÉCNICAS",
+          "eventos": 11
+        },
+        {
+          "area": "Buenas prácticas ambientales",
+          "eventos": 7
+        },
+        {
+          "area": "Inclusión y DDHH",
+          "eventos": 6
+        },
+        {
+          "area": "INFORMÁTICA",
+          "eventos": 6
+        },
+        {
+          "area": "MEJORA CONTÍNUA",
+          "eventos": 2
+        }
+      ],
+      "config": {
+        "indexBy": "area",
+        "keys": [
+          "eventos"
+        ]
+      }
+    },
+    {
+      "id": "modalidad",
+      "type": "pie",
+      "title": "Modalidad de las capacitaciones",
+      "subtitle": "Distribución entre presencial, virtual y mixta.",
+      "data": [
+        {
+          "id": "Presencial",
+          "label": "Presencial",
+          "value": 124
+        },
+        {
+          "id": "Virtual",
+          "label": "Virtual",
+          "value": 7
+        },
+        {
+          "id": "In Company",
+          "label": "In Company",
+          "value": 1
+        },
+        {
+          "id": "Mixta",
+          "label": "Mixta",
+          "value": 3
+        },
+        {
+          "id": "Sincrónicas y asincrónicas",
+          "label": "Sincrónicas y asincrónicas",
+          "value": 1
+        },
+        {
+          "id": "Híbrida",
+          "label": "Híbrida",
+          "value": 1
+        }
+      ],
+      "config": {}
+    }
+  ],
+  "tables": []
+}

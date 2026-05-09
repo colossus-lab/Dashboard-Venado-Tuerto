@@ -1,0 +1,361 @@
+{
+  "meta": {
+    "id": "gobierno/comisiones-vecinales",
+    "title": "Comisiones Vecinales",
+    "category": "gobierno",
+    "description": "Listado de comisiones vecinales de Venado Tuerto: presidente, vicepresidente, vocales, contacto y sede de cada barrio.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/dataset/presidentes-vecinales-direccion-y-contacto",
+    "license": "Open Data Commons Attribution License",
+    "last_updated": "2026-03-31T13:31:49.291754",
+    "organization": "Gobierno"
+  },
+  "kpis": [
+    {
+      "id": "total-comisiones",
+      "label": "Vecinales activas",
+      "value": 27,
+      "formatted": "27",
+      "unit": "comisiones"
+    },
+    {
+      "id": "total-miembros",
+      "label": "Miembros de comisiones",
+      "value": 212,
+      "formatted": "212",
+      "hint": "Presidentes, vicepresidentes y vocales en total."
+    },
+    {
+      "id": "con-sede",
+      "label": "Comisiones con sede física",
+      "value": 20,
+      "formatted": "20",
+      "hint": "74% del total"
+    },
+    {
+      "id": "presidentas",
+      "label": "Presidentas mujeres",
+      "value": 22.22222222222222,
+      "formatted": "22,2%",
+      "hint": "6 de 27 (estimado por nombre)."
+    }
+  ],
+  "charts": [
+    {
+      "id": "miembros-por-vecinal",
+      "type": "horizontalBar",
+      "title": "Miembros de comisión por vecinal",
+      "subtitle": "Cantidad total de integrantes (presidente + vicepresidente + vocales).",
+      "data": [
+        {
+          "vecinal": "Belgrano",
+          "miembros": 8
+        },
+        {
+          "vecinal": "Centro I",
+          "miembros": 8
+        },
+        {
+          "vecinal": "Centro II",
+          "miembros": 8
+        },
+        {
+          "vecinal": "Centro III",
+          "miembros": 8
+        },
+        {
+          "vecinal": "Cuidad Nueva",
+          "miembros": 8
+        },
+        {
+          "vecinal": "El Cruce",
+          "miembros": 8
+        },
+        {
+          "vecinal": "Favaloro",
+          "miembros": 8
+        },
+        {
+          "vecinal": "Guemes",
+          "miembros": 8
+        },
+        {
+          "vecinal": "Gutierrez",
+          "miembros": 8
+        },
+        {
+          "vecinal": "Iturbide",
+          "miembros": 8
+        },
+        {
+          "vecinal": "Juan XXIII",
+          "miembros": 8
+        },
+        {
+          "vecinal": "Los Pinos/Los Robles",
+          "miembros": 8
+        },
+        {
+          "vecinal": "Malvinas Argentinas",
+          "miembros": 8
+        },
+        {
+          "vecinal": "Norte",
+          "miembros": 8
+        },
+        {
+          "vecinal": "Polo Viejo",
+          "miembros": 8
+        },
+        {
+          "vecinal": "Provincias Unidas",
+          "miembros": 8
+        },
+        {
+          "vecinal": "Rivadavia",
+          "miembros": 8
+        },
+        {
+          "vecinal": "San Martin",
+          "miembros": 8
+        },
+        {
+          "vecinal": "Santa Fe",
+          "miembros": 8
+        },
+        {
+          "vecinal": "Santa Rosa",
+          "miembros": 8
+        },
+        {
+          "vecinal": "San Vicente",
+          "miembros": 8
+        },
+        {
+          "vecinal": "Silva",
+          "miembros": 8
+        },
+        {
+          "vecinal": "Villa Casey",
+          "miembros": 8
+        },
+        {
+          "vecinal": "San Cayetano",
+          "miembros": 7
+        },
+        {
+          "vecinal": "San Jose Obrero",
+          "miembros": 7
+        },
+        {
+          "vecinal": "Tiro Federal",
+          "miembros": 7
+        },
+        {
+          "vecinal": "Victoria",
+          "miembros": 7
+        }
+      ],
+      "config": {
+        "indexBy": "vecinal",
+        "keys": [
+          "miembros"
+        ]
+      }
+    },
+    {
+      "id": "sede",
+      "type": "pie",
+      "title": "Comisiones con sede física",
+      "subtitle": "Vecinales que cuentan con un local declarado para reuniones y atención.",
+      "data": [
+        {
+          "id": "Con sede física",
+          "label": "Con sede física",
+          "value": 20
+        },
+        {
+          "id": "Sin sede",
+          "label": "Sin sede",
+          "value": 7
+        }
+      ],
+      "config": {}
+    }
+  ],
+  "tables": [
+    {
+      "id": "directorio",
+      "title": "Directorio de vecinales",
+      "columns": [
+        "Barrio",
+        "Presidente/a",
+        "Teléfono",
+        "Sede"
+      ],
+      "rows": [
+        [
+          "Belgrano",
+          "Miguel Angel Jarque",
+          "3462553176",
+          "—"
+        ],
+        [
+          "Centro I",
+          "Ines Catalina Soljan",
+          "3462516780",
+          "Mitre 485 (local 3)"
+        ],
+        [
+          "Centro II",
+          "Tomas Alejo Ricci",
+          "3462556319",
+          "Junin 698"
+        ],
+        [
+          "Centro III",
+          "Leonardo Martin Cuaranta",
+          "3462617409",
+          "Sarmiento y Runciman"
+        ],
+        [
+          "Ciudad Nueva",
+          "Luis Ubaldo Pedotta",
+          "3462535621",
+          "Amincton 585"
+        ],
+        [
+          "El Cruce",
+          "Jose Alberto Gonzalez",
+          "3462501677",
+          "Cobeñas 2105"
+        ],
+        [
+          "Favaloro",
+          "Evangelina Rodriguez B.",
+          "3462412246",
+          "—"
+        ],
+        [
+          "Guemes",
+          "Emanuel Hernan Covichi",
+          "3462321736",
+          "Giacaglia 135"
+        ],
+        [
+          "Gutierrez",
+          "Alicia Herminda Barraza",
+          "3462435120",
+          "Savadores 180"
+        ],
+        [
+          "Iturbide",
+          "Guillermo Ariel Fraysse",
+          "3462631424",
+          "Caparros 351"
+        ],
+        [
+          "Juan XXIII",
+          "Diego Armando Rosales",
+          "3462506771",
+          "Garbarino 1750"
+        ],
+        [
+          "Los Pinos/Los Robles",
+          "Sandra Patricia Bolognini",
+          "3462672742",
+          "—"
+        ],
+        [
+          "Malvinas Argentinas",
+          "Luis Alberto Tonso",
+          "3462598437",
+          "Pasaje Torres s/n"
+        ],
+        [
+          "Norte",
+          "Juan Carlos Cellino",
+          "3462617895",
+          "España 1715"
+        ],
+        [
+          "Polo Viejo",
+          "Pablo Fernando Hugonett",
+          "3462544343",
+          "—"
+        ],
+        [
+          "Provincias Unidas",
+          "Monica Emilia Longhi",
+          "3416712364",
+          "Alsina 432"
+        ],
+        [
+          "Rivadavia",
+          "Rosa Amelia Benitez",
+          "3462644223",
+          "26 de Abril 835"
+        ],
+        [
+          "San Cayetano",
+          "Santiago Nicolas Balague",
+          "3462607057",
+          "—"
+        ],
+        [
+          "San Jose Obrero",
+          "Juan Patricio Ferraris",
+          "3462607371",
+          "Lisandro de la Torre y Quintana"
+        ],
+        [
+          "San Martin",
+          "Juan Manuel Medica",
+          "3462410502",
+          "Falucho 512"
+        ],
+        [
+          "San Vicente",
+          "Marcela Liliana Pederzoli",
+          "3462633896",
+          "Manzano y Azcuénaga"
+        ],
+        [
+          "Santa Fe",
+          "Gladys Mariela Ludueña",
+          "3462329433",
+          "Derqui y Pujato (en construcción)"
+        ],
+        [
+          "Santa Rosa",
+          "Olga Elena Diaz",
+          "3462614052",
+          "Balcarce 4135"
+        ],
+        [
+          "Silva",
+          "Marina del Valle Howes",
+          "3462368892",
+          "—"
+        ],
+        [
+          "Tiro Federal",
+          "Karina Leonor Mansilla",
+          "3462340059",
+          "—"
+        ],
+        [
+          "Victoria",
+          "Oscar Correa",
+          "3462621106",
+          "3 de febrero y Pte. Peron"
+        ],
+        [
+          "Villa Casey",
+          "Diego Jesus Correa",
+          "3462627025",
+          "Mariano Lopez 1360"
+        ]
+      ]
+    }
+  ]
+}

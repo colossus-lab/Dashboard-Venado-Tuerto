@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "id": "gobierno/organigrama",
+    "title": "Organigrama Municipal",
+    "category": "gobierno",
+    "description": "Estructura organizacional política del Municipio de Venado Tuerto: secretarías, subsecretarías, direcciones y coordinaciones, con sus titulares actuales y normativa de creación.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/dataset/organigrama",
+    "license": "CC-BY",
+    "last_updated": "2026-04-02T11:23:58.293084",
+    "organization": "Intendencia y gabinete"
+  },
+  "kpis": [
+    {
+      "id": "total-cargos",
+      "label": "Cargos en el organigrama",
+      "value": 59,
+      "formatted": "59",
+      "unit": "cargos"
+    },
+    {
+      "id": "secretarias",
+      "label": "Secretarías",
+      "value": 9,
+      "formatted": "9",
+      "hint": "Áreas de primera línea bajo el Intendente"
+    },
+    {
+      "id": "pct-femenino",
+      "label": "Funcionarias mujeres",
+      "value": 52.27272727272727,
+      "formatted": "52,3%",
+      "hint": "23 de 44 cargos ocupados"
+    },
+    {
+      "id": "vacantes",
+      "label": "Cargos vacantes",
+      "value": 15,
+      "formatted": "15",
+      "status": "warning",
+      "hint": "Sin funcionario designado en el momento del relevamiento"
+    }
+  ],
+  "charts": [
+    {
+      "id": "cargos-por-secretaria",
+      "type": "horizontalBar",
+      "title": "Cargos por secretaría",
+      "subtitle": "Cantidad de funciones jerárquicas que dependen de cada secretaría.",
+      "data": [
+        {
+          "secretaria": "Servicios y Obras Públicas",
+          "cargos": 11
+        },
+        {
+          "secretaria": "Gobierno",
+          "cargos": 10
+        },
+        {
+          "secretaria": "Desarrollo Económico",
+          "cargos": 8
+        },
+        {
+          "secretaria": "Territorialidad y Desarrollo C…",
+          "cargos": 7
+        },
+        {
+          "secretaria": "Desarrollo Humano",
+          "cargos": 6
+        },
+        {
+          "secretaria": "Desarrollo Productivo",
+          "cargos": 6
+        },
+        {
+          "secretaria": "Control Urbano y Convivencia",
+          "cargos": 5
+        },
+        {
+          "secretaria": "Coordinación de Gabinete",
+          "cargos": 4
+        },
+        {
+          "secretaria": "Coordinación de Gestión",
+          "cargos": 2
+        }
+      ],
+      "config": {
+        "indexBy": "secretaria",
+        "keys": [
+          "cargos"
+        ]
+      }
+    },
+    {
+      "id": "distribucion-funcion",
+      "type": "pie",
+      "title": "Distribución por nivel jerárquico",
+      "subtitle": "Tipos de cargo en la estructura municipal.",
+      "data": [
+        {
+          "id": "Director/a",
+          "label": "Director/a",
+          "value": 36
+        },
+        {
+          "id": "Secretario/a",
+          "label": "Secretario/a",
+          "value": 8
+        },
+        {
+          "id": "Coordinador/a",
+          "label": "Coordinador/a",
+          "value": 8
+        },
+        {
+          "id": "Subsecretario/a",
+          "label": "Subsecretario/a",
+          "value": 7
+        }
+      ],
+      "config": {}
+    },
+    {
+      "id": "genero",
+      "type": "pie",
+      "title": "Funcionarios por género",
+      "subtitle": "Participación femenina y masculina en cargos ocupados.",
+      "data": [
+        {
+          "id": "Femenino",
+          "label": "Femenino",
+          "value": 23
+        },
+        {
+          "id": "Masculino",
+          "label": "Masculino",
+          "value": 21
+        }
+      ],
+      "config": {}
+    }
+  ],
+  "tables": [
+    {
+      "id": "secretarias",
+      "title": "Cantidad de cargos por secretaría",
+      "columns": [
+        "Secretaría",
+        "Cargos"
+      ],
+      "rows": [
+        [
+          "Servicios y Obras Públicas",
+          "11"
+        ],
+        [
+          "Gobierno",
+          "10"
+        ],
+        [
+          "Desarrollo Económico",
+          "8"
+        ],
+        [
+          "Territorialidad y Desarrollo Cultural",
+          "7"
+        ],
+        [
+          "Desarrollo Humano",
+          "6"
+        ],
+        [
+          "Desarrollo Productivo",
+          "6"
+        ],
+        [
+          "Control Urbano y Convivencia",
+          "5"
+        ],
+        [
+          "Coordinación de Gabinete",
+          "4"
+        ],
+        [
+          "Coordinación de Gestión",
+          "2"
+        ]
+      ]
+    }
+  ]
+}
