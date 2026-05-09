@@ -10,7 +10,8 @@ export type CategorySlug =
   | 'seguridad-convivencia'
   | 'obras-servicios'
   | 'ambiente'
-  | 'vivienda-territorio';
+  | 'vivienda-territorio'
+  | 'demografia';
 
 export interface CategoryDef {
   slug: CategorySlug;

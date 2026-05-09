@@ -48,6 +48,7 @@ export const CATEGORY_SUMMARIES: ReportEntry[] = [
   summary('obras-servicios', 'Obras y Servicios Públicos · Resumen ejecutivo'),
   summary('ambiente', 'Ambiente · Resumen ejecutivo'),
   summary('vivienda-territorio', 'Vivienda y Territorio · Resumen ejecutivo'),
+  summary('demografia', 'Demografía · Resumen ejecutivo'),
 ];
 
 // Los 27 informes individuales — orden secuencial global
@@ -71,6 +72,7 @@ export const REPORTS: ReportEntry[] = [
   entry({ category: 'educacion', id: 'oferta-educativa', title: 'Oferta Educativa', shortTitle: 'Oferta Educativa', order: 12 }),
   entry({ category: 'educacion', id: 'becados', title: 'Becados Municipales', shortTitle: 'Becados', order: 13 }),
   entry({ category: 'educacion', id: 'jardines-maternoinfantiles', title: 'Jardines Materno-Infantiles', shortTitle: 'Jardines Materno-Infantiles', order: 14 }),
+  entry({ category: 'educacion', id: 'padron-nacional-vt', title: 'Padrón Nacional Educativo', shortTitle: 'Padrón Nacional', order: 15 }),
 
   // ── Salud y Desarrollo Humano (2) ──
   entry({ category: 'salud-desarrollo-humano', id: 'dependencias-desarrollo-humano', title: 'Dependencias de Desarrollo Humano', shortTitle: 'Centros de Salud', order: 15 }),
@@ -94,6 +96,9 @@ export const REPORTS: ReportEntry[] = [
 
   // ── Vivienda y Territorio (1) ──
   entry({ category: 'vivienda-territorio', id: 'nuestro-terreno', title: 'Programa Nuestro Terreno', shortTitle: 'Nuestro Terreno', order: 27 }),
+
+  // ── Demografía (1) — INDEC Censo 2022 filtrado a localidad VT ──
+  entry({ category: 'demografia', id: 'censo-2022-vt', title: 'Censo Nacional 2022', shortTitle: 'Censo 2022', order: 28 }),
 ];
 
 // Lookup: primero busca en resúmenes (slug = categoría), luego en informes detallados.
