@@ -1,0 +1,226 @@
+{
+  "meta": {
+    "id": "educacion/oferta-educativa",
+    "title": "Oferta Educativa",
+    "category": "educacion",
+    "description": "Oferta educativa de Venado Tuerto: jardines de infantes, escuelas primarias y secundarias, e instituciones terciarias y universitarias con sus carreras, áreas de interés y modalidad.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/dataset/oferta-educativa-terciaria-y-universitaria-en-venado-tuerto",
+    "license": "Open Data Commons Attribution License",
+    "last_updated": "2026-04-08T15:47:19.579972",
+    "organization": "Territorialidad y desarrollo cultural"
+  },
+  "kpis": [
+    {
+      "id": "total-instituciones",
+      "label": "Instituciones educativas",
+      "value": 97,
+      "formatted": "97",
+      "hint": "Suma de nivel inicial, primario, secundario y terciario/universitario."
+    },
+    {
+      "id": "pct-publicas",
+      "label": "Gestión pública",
+      "value": 52.57731958762887,
+      "formatted": "52,6%",
+      "hint": "51 de 97 instituciones"
+    },
+    {
+      "id": "niveles",
+      "label": "Niveles educativos",
+      "value": 5,
+      "formatted": "5",
+      "hint": "Inicial, primario, secundario, terciario y universitario."
+    },
+    {
+      "id": "carreras-terciarias",
+      "label": "Carreras terciarias y universitarias",
+      "value": 220,
+      "formatted": "220",
+      "hint": "Tecnicaturas, profesorados, licenciaturas y carreras universitarias."
+    }
+  ],
+  "charts": [
+    {
+      "id": "instituciones-por-nivel",
+      "type": "bar",
+      "title": "Instituciones por nivel educativo",
+      "subtitle": "Cantidad de establecimientos en cada nivel.",
+      "data": [
+        {
+          "nivel": "Primario",
+          "instituciones": 32
+        },
+        {
+          "nivel": "Inicial",
+          "instituciones": 31
+        },
+        {
+          "nivel": "Secundario",
+          "instituciones": 17
+        },
+        {
+          "nivel": "Universitario",
+          "instituciones": 10
+        },
+        {
+          "nivel": "Terciario",
+          "instituciones": 7
+        }
+      ],
+      "config": {
+        "indexBy": "nivel",
+        "keys": [
+          "instituciones"
+        ]
+      }
+    },
+    {
+      "id": "gestion",
+      "type": "pie",
+      "title": "Distribución por tipo de gestión",
+      "subtitle": "Pública vs. privada (todas las instituciones).",
+      "data": [
+        {
+          "id": "Pública",
+          "label": "Pública",
+          "value": 51
+        },
+        {
+          "id": "Privada",
+          "label": "Privada",
+          "value": 37
+        },
+        {
+          "id": "Municipal",
+          "label": "Municipal",
+          "value": 8
+        }
+      ],
+      "config": {}
+    },
+    {
+      "id": "areas-interes",
+      "type": "horizontalBar",
+      "title": "Carreras terciarias por área de interés",
+      "subtitle": "Diversidad temática de la oferta de educación superior.",
+      "data": [
+        {
+          "area": "Ciencias sociales y humanas",
+          "carreras": 148
+        },
+        {
+          "area": "Ciencias exactas, tecnológicas y dis…",
+          "carreras": 47
+        },
+        {
+          "area": "Ciencias biológicas y de la salud",
+          "carreras": 21
+        }
+      ],
+      "config": {
+        "indexBy": "area",
+        "keys": [
+          "carreras"
+        ]
+      }
+    }
+  ],
+  "tables": [
+    {
+      "id": "terciarias-univ",
+      "title": "Instituciones terciarias y universitarias",
+      "columns": [
+        "Institución",
+        "Gestión",
+        "Carreras ofrecidas"
+      ],
+      "rows": [
+        [
+          "EPA N° 3 (Escuela Provincial de Arte)",
+          "Pública",
+          "2"
+        ],
+        [
+          "Escuela Superior de Enfermería V.T.",
+          "Pública",
+          "1"
+        ],
+        [
+          "ICES (Inst. Sup. Part. Nro. 9145 \"Católico de Enseñanza Superior\")",
+          "Privada",
+          "12"
+        ],
+        [
+          "IES Nro. 7 (Inst. de Ed. Sup. Nro. 7 \"Brigadier E. López\")",
+          "Pública",
+          "12"
+        ],
+        [
+          "Inst. Superior incorporado Nro. 4058 \"Dante Alighieri\"",
+          "Privada",
+          "1"
+        ],
+        [
+          "Inst. Superior Incorporado Nro. 4058 \"Dante Alighieri\"",
+          "Privada",
+          "3"
+        ],
+        [
+          "IUNIR (Instituto Universitario Italiano de Rosario)",
+          "Privada",
+          "1"
+        ],
+        [
+          "PUNTO KENEDDY VENADO TUERTO - (Universidad Kennedy)",
+          "Privada",
+          "29"
+        ],
+        [
+          "SIGLO 21 (Universidad Siglo 21)",
+          "Privada",
+          "56"
+        ],
+        [
+          "TECLAB (Instituto Técnico Superior)",
+          "Privada",
+          "16"
+        ],
+        [
+          "UBP (Universidad Blas Pascal)",
+          "Privada",
+          "27"
+        ],
+        [
+          "UCASAL (Universidad Católica de Salta)",
+          "Privada",
+          "27"
+        ],
+        [
+          "UCEL (Universidad del Centro Educativo Latinoamericano)",
+          "Privada",
+          "2"
+        ],
+        [
+          "UCES (Universidad de Ciencias Empresariales y Sociales)",
+          "Privada",
+          "5"
+        ],
+        [
+          "UGR (Universidad del Gran Rosario)",
+          "Privada",
+          "18"
+        ],
+        [
+          "UNR (Universidad Nacional de Rosario)",
+          "—",
+          "1"
+        ],
+        [
+          "UTN (Universidad Tecnológica Nacional)",
+          "Pública",
+          "7"
+        ]
+      ]
+    }
+  ]
+}

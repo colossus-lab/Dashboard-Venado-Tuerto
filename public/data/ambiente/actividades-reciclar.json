@@ -1,0 +1,237 @@
+{
+  "meta": {
+    "id": "ambiente/actividades-reciclar",
+    "title": "Actividades Reciclar Venado",
+    "category": "ambiente",
+    "description": "Programa Reciclar Venado: capacitaciones, charlas, talleres y eventos de sensibilización ambiental llevados a escuelas, empresas, comisiones vecinales y otros espacios.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/dataset/actividades-reciclar-venado-2025",
+    "license": "Open Data Commons Attribution License",
+    "last_updated": "2026-04-02T12:12:20.061324",
+    "organization": "Intendencia y gabinete"
+  },
+  "kpis": [
+    {
+      "id": "total-actividades",
+      "label": "Actividades realizadas",
+      "value": 158,
+      "formatted": "158",
+      "unit": "eventos"
+    },
+    {
+      "id": "asistentes",
+      "label": "Asistentes totales",
+      "value": 6426,
+      "formatted": "6.426",
+      "hint": "Personas alcanzadas por capacitaciones, charlas y eventos."
+    },
+    {
+      "id": "barrios",
+      "label": "Barrios alcanzados",
+      "value": 35,
+      "formatted": "35",
+      "hint": "Cobertura territorial del programa."
+    },
+    {
+      "id": "top-receptor",
+      "label": "Receptor más frecuente",
+      "value": 41,
+      "formatted": "Escuela",
+      "hint": "41 actividades"
+    }
+  ],
+  "charts": [
+    {
+      "id": "tipo-receptor",
+      "type": "pie",
+      "title": "Actividades por tipo de receptor",
+      "subtitle": "Escuelas, empresas, vecinales, colonias, organismos públicos.",
+      "data": [
+        {
+          "id": "Escuela",
+          "label": "Escuela",
+          "value": 41
+        },
+        {
+          "id": "Colonia",
+          "label": "Colonia",
+          "value": 27
+        },
+        {
+          "id": "Público general",
+          "label": "Público general",
+          "value": 23
+        },
+        {
+          "id": "Empresa",
+          "label": "Empresa",
+          "value": 18
+        },
+        {
+          "id": "Municipalidad de Venado Tuerto",
+          "label": "Municipalidad de Venado Tuerto",
+          "value": 13
+        },
+        {
+          "id": "Institución social",
+          "label": "Institución social",
+          "value": 10
+        },
+        {
+          "id": "Voluntarios",
+          "label": "Voluntarios",
+          "value": 10
+        },
+        {
+          "id": "Vecinos",
+          "label": "Vecinos",
+          "value": 8
+        },
+        {
+          "id": "Planta de Tratamiento",
+          "label": "Planta de Tratamiento",
+          "value": 5
+        },
+        {
+          "id": "Concejo Municipal",
+          "label": "Concejo Municipal",
+          "value": 2
+        },
+        {
+          "id": "Club",
+          "label": "Club",
+          "value": 1
+        }
+      ],
+      "config": {}
+    },
+    {
+      "id": "rango-etario",
+      "type": "pie",
+      "title": "Actividades por rango etario",
+      "subtitle": "Público alcanzado: niños, adolescentes, adultos.",
+      "data": [
+        {
+          "id": "Niños 0-9",
+          "label": "Niños 0-9",
+          "value": 40
+        },
+        {
+          "id": "Público General",
+          "label": "Público General",
+          "value": 32
+        },
+        {
+          "id": "Adultos",
+          "label": "Adultos",
+          "value": 31
+        },
+        {
+          "id": "Niños 10-14",
+          "label": "Niños 10-14",
+          "value": 28
+        },
+        {
+          "id": "Personal de Gobierno",
+          "label": "Personal de Gobierno",
+          "value": 9
+        },
+        {
+          "id": "Jóvenes 19-29",
+          "label": "Jóvenes 19-29",
+          "value": 5
+        },
+        {
+          "id": "Voluntarios",
+          "label": "Voluntarios",
+          "value": 5
+        },
+        {
+          "id": "Adultos mayores",
+          "label": "Adultos mayores",
+          "value": 4
+        },
+        {
+          "id": "Jóvenes 15-18",
+          "label": "Jóvenes 15-18",
+          "value": 3
+        }
+      ],
+      "config": {}
+    },
+    {
+      "id": "barrios",
+      "type": "horizontalBar",
+      "title": "Actividades por barrio (top 15)",
+      "subtitle": "Distribución territorial del programa.",
+      "data": [
+        {
+          "barrio": "Centro 1",
+          "actividades": 36
+        },
+        {
+          "barrio": "Centro 2",
+          "actividades": 24
+        },
+        {
+          "barrio": "Rivadavia",
+          "actividades": 7
+        },
+        {
+          "barrio": "Planta de Tratamient…",
+          "actividades": 6
+        },
+        {
+          "barrio": "Villa Casey",
+          "actividades": 5
+        },
+        {
+          "barrio": "Centro 3",
+          "actividades": 5
+        },
+        {
+          "barrio": "San Cayetano",
+          "actividades": 4
+        },
+        {
+          "barrio": "Tiro Federal",
+          "actividades": 3
+        },
+        {
+          "barrio": "NO EXISTE",
+          "actividades": 3
+        },
+        {
+          "barrio": "Victoria",
+          "actividades": 2
+        },
+        {
+          "barrio": "El Cruce",
+          "actividades": 2
+        },
+        {
+          "barrio": "Norte",
+          "actividades": 2
+        },
+        {
+          "barrio": "Polo viejo",
+          "actividades": 2
+        },
+        {
+          "barrio": "Rural",
+          "actividades": 2
+        },
+        {
+          "barrio": "Tiro federal",
+          "actividades": 2
+        }
+      ],
+      "config": {
+        "indexBy": "barrio",
+        "keys": [
+          "actividades"
+        ]
+      }
+    }
+  ],
+  "tables": []
+}

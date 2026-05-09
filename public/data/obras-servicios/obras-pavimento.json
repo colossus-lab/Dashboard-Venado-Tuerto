@@ -1,0 +1,211 @@
+{
+  "meta": {
+    "id": "obras-servicios/obras-pavimento",
+    "title": "Obras de Pavimento y Cordón Cuneta",
+    "category": "obras-servicios",
+    "description": "Obras viales ejecutadas por el municipio: pavimento nuevo, cordón cuneta, repavimentación y otras intervenciones, con detalle de tipo, ubicación y año de ejecución.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/dataset/obras-de-pavimento-cordon-cuneta-y-otros-2020",
+    "license": "Open Data Commons Attribution License",
+    "last_updated": "2026-04-01T10:53:24.855578",
+    "organization": "Servicios y obras públicas"
+  },
+  "kpis": [
+    {
+      "id": "total-obras",
+      "label": "Obras ejecutadas",
+      "value": 509,
+      "formatted": "509",
+      "hint": "Acumulado 2020–2025"
+    },
+    {
+      "id": "tipos",
+      "label": "Tipos de obra",
+      "value": 9,
+      "formatted": "9",
+      "hint": "Pavimento, cordón cuneta, repavimentación, etc."
+    },
+    {
+      "id": "barrios",
+      "label": "Barrios beneficiados",
+      "value": 19,
+      "formatted": "19",
+      "hint": "Distribución territorial de las obras viales."
+    },
+    {
+      "id": "anio-pico",
+      "label": "Año pico",
+      "value": 147,
+      "formatted": "2023",
+      "hint": "147 obras ejecutadas"
+    }
+  ],
+  "charts": [
+    {
+      "id": "por-anio",
+      "type": "area",
+      "title": "Obras de pavimento y cordón cuneta por año",
+      "subtitle": "Cantidad de intervenciones viales ejecutadas anualmente.",
+      "data": [
+        {
+          "anio": "2020",
+          "obras": 8
+        },
+        {
+          "anio": "2021",
+          "obras": 75
+        },
+        {
+          "anio": "2022",
+          "obras": 140
+        },
+        {
+          "anio": "2023",
+          "obras": 147
+        },
+        {
+          "anio": "2024",
+          "obras": 70
+        },
+        {
+          "anio": "2025",
+          "obras": 69
+        }
+      ],
+      "config": {
+        "indexBy": "anio",
+        "keys": [
+          "obras"
+        ]
+      }
+    },
+    {
+      "id": "por-tipo",
+      "type": "pie",
+      "title": "Distribución por tipo de obra",
+      "subtitle": "Pavimento nuevo, cordón cuneta, repavimentación y otros.",
+      "data": [
+        {
+          "id": "Pavimento",
+          "label": "Pavimento",
+          "value": 300
+        },
+        {
+          "id": "Cordón cuneta",
+          "label": "Cordón cuneta",
+          "value": 69
+        },
+        {
+          "id": "Bocacalle",
+          "label": "Bocacalle",
+          "value": 66
+        },
+        {
+          "id": "Aleta",
+          "label": "Aleta",
+          "value": 56
+        },
+        {
+          "id": "Centro bocacalle",
+          "label": "Centro bocacalle",
+          "value": 10
+        },
+        {
+          "id": "Aleta bocacalle",
+          "label": "Aleta bocacalle",
+          "value": 4
+        },
+        {
+          "id": "Reconstrucción aleta",
+          "label": "Reconstrucción aleta",
+          "value": 2
+        },
+        {
+          "id": "Curvas aleta",
+          "label": "Curvas aleta",
+          "value": 1
+        },
+        {
+          "id": "Reconstrucción cordón cuneta",
+          "label": "Reconstrucción cordón cuneta",
+          "value": 1
+        }
+      ],
+      "config": {}
+    },
+    {
+      "id": "top-barrios",
+      "type": "horizontalBar",
+      "title": "Barrios con más obras (top 15)",
+      "subtitle": "Distribución territorial: barrios con mayor cantidad de intervenciones.",
+      "data": [
+        {
+          "barrio": "Norte",
+          "obras": 70
+        },
+        {
+          "barrio": "Rivadavia",
+          "obras": 56
+        },
+        {
+          "barrio": "Ciudad Nueva",
+          "obras": 48
+        },
+        {
+          "barrio": "Iturbide",
+          "obras": 48
+        },
+        {
+          "barrio": "San José Obrero",
+          "obras": 43
+        },
+        {
+          "barrio": "Malvinas Argentinas",
+          "obras": 41
+        },
+        {
+          "barrio": "Victoria",
+          "obras": 33
+        },
+        {
+          "barrio": "San Vicente",
+          "obras": 32
+        },
+        {
+          "barrio": "Güemes",
+          "obras": 26
+        },
+        {
+          "barrio": "Cayetano Silva",
+          "obras": 25
+        },
+        {
+          "barrio": "Villa Casey",
+          "obras": 12
+        },
+        {
+          "barrio": "Juan XXIII",
+          "obras": 9
+        },
+        {
+          "barrio": "San Cayetano",
+          "obras": 7
+        },
+        {
+          "barrio": "Tiro Federal",
+          "obras": 7
+        },
+        {
+          "barrio": "Gutiérrez",
+          "obras": 6
+        }
+      ],
+      "config": {
+        "indexBy": "barrio",
+        "keys": [
+          "obras"
+        ]
+      }
+    }
+  ],
+  "tables": []
+}

@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "id": "hacienda-economia/hogares-convivencia",
+    "title": "Hogares de Convivencia",
+    "category": "hacienda-economia",
+    "description": "Padrón municipal de hogares de convivencia (residencias geriátricas) habilitados en Venado Tuerto: titular, nombre del establecimiento y dirección.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/dataset/hogares-de-convivencia",
+    "license": "Open Data Commons Attribution License",
+    "last_updated": "2026-04-20T16:18:46.172602",
+    "organization": "Desarrollo productivo"
+  },
+  "kpis": [
+    {
+      "id": "total-hogares",
+      "label": "Hogares de convivencia",
+      "value": 19,
+      "formatted": "19",
+      "unit": "hogares"
+    },
+    {
+      "id": "propietarios",
+      "label": "Titulares distintos",
+      "value": 16,
+      "formatted": "16",
+      "hint": "Personas o sociedades responsables."
+    },
+    {
+      "id": "titulares-multiples",
+      "label": "Titulares con varios hogares",
+      "value": 2,
+      "formatted": "2",
+      "hint": "Quienes operan más de un hogar registrado."
+    }
+  ],
+  "charts": [
+    {
+      "id": "titulares-multi",
+      "type": "horizontalBar",
+      "title": "Titulares con más de un hogar",
+      "subtitle": "Personas o sociedades que operan múltiples hogares de convivencia.",
+      "data": [
+        {
+          "titular": "Barale Carlos Alberto",
+          "hogares": 3
+        },
+        {
+          "titular": "Longoni Maria Camila",
+          "hogares": 2
+        }
+      ],
+      "config": {
+        "indexBy": "titular",
+        "keys": [
+          "hogares"
+        ]
+      }
+    }
+  ],
+  "tables": [
+    {
+      "id": "directorio",
+      "title": "Directorio de hogares de convivencia",
+      "columns": [
+        "Hogar",
+        "Titular",
+        "Dirección"
+      ],
+      "rows": [
+        [
+          "Allegra S.A.S.",
+          "Gallo, Maria Lorena",
+          "Dorrego 575"
+        ],
+        [
+          "Caminemos Juntos",
+          "Chocori, Graciela",
+          "Pellegrini 138"
+        ],
+        [
+          "Casa De La Tercera Edad",
+          "Alessandri Andrea - Alessandri  Pablo",
+          "Mitre 101"
+        ],
+        [
+          "El Hogar Iii",
+          "De Buono, Maximiliano Isaias",
+          "Lavalle 1083"
+        ],
+        [
+          "Hogar Belgrano",
+          "Balmaceda, German",
+          "Belgrano 1270"
+        ],
+        [
+          "Hogar La Trinidad",
+          "Coria, Jesica Marilin",
+          "Roca 1240"
+        ],
+        [
+          "Hogar Marconi",
+          "Balmaceda, Matías Paul",
+          "Av. Marconi 250"
+        ],
+        [
+          "Hogar Nieves",
+          "Longoni Maria Camila",
+          "Caseros 86"
+        ],
+        [
+          "Hogar Nieves Ii",
+          "Longoni Maria Camila",
+          "Laprida 61"
+        ],
+        [
+          "Hogar Renacer",
+          "Barale Carlos Alberto",
+          "Junin 581"
+        ],
+        [
+          "Hogar Renacer 2",
+          "Barale Carlos Alberto",
+          "Casey 128"
+        ],
+        [
+          "Hogar Renacer 3",
+          "Barale Carlos Alberto",
+          "Sarmiento 1139"
+        ],
+        [
+          "Hogar Shalom",
+          "Bratanich Liliana Antonia",
+          "Los Aromos 483"
+        ],
+        [
+          "Jenouir",
+          "Fernandez, Mónica Noemí",
+          "Italia 430"
+        ],
+        [
+          "La Casa De Los Nonos",
+          "Benitez Marcela Noemi",
+          "Av. Marconi 390"
+        ],
+        [
+          "Pampa Ii",
+          "Dominguez, Luciana Carolina",
+          "Alvear 1125"
+        ],
+        [
+          "Ta Aromby",
+          "Ferreyra, Ana Lorena Lujan",
+          "Av. Brown 684"
+        ],
+        [
+          "Ta Aromby",
+          "Sanz Ferreira, Lucas Martin",
+          "Maipu 1188"
+        ],
+        [
+          "Yawehe",
+          "Varela Maria Elizabeth",
+          "9 De Julio 1626"
+        ]
+      ]
+    }
+  ]
+}

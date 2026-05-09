@@ -1,0 +1,204 @@
+{
+  "meta": {
+    "id": "hacienda-economia/balances-tesoreria",
+    "title": "Balances de Tesorería",
+    "category": "hacienda-economia",
+    "description": "Balances mensuales de tesorería del Municipio de Venado Tuerto: ingresos por concepto, egresos por destino, saldos disponibles y variaciones, año por año desde 2020.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/dataset/balances-de-tesoreria",
+    "license": "Creative Commons Attribution",
+    "last_updated": "2026-04-02T11:01:39.079333",
+    "organization": "Desarrollo económico"
+  },
+  "kpis": [
+    {
+      "id": "ingresos-anio",
+      "label": "Ingresos 2024",
+      "value": 35961221667,
+      "formatted": "$ 35.961.221.667",
+      "hint": "Recaudación tributaria, coparticipación e ingresos no tributarios."
+    },
+    {
+      "id": "egresos-anio",
+      "label": "Egresos 2024",
+      "value": 30908846853,
+      "formatted": "$ 30.908.846.853",
+      "hint": "Sueldos, bienes, servicios y obras."
+    },
+    {
+      "id": "saldo-final",
+      "label": "Disponibilidades al cierre 2024",
+      "value": 8104225710,
+      "formatted": "$ 8.104.225.710",
+      "hint": "Caja + bancos + plazos fijos + inversiones al final del ejercicio."
+    },
+    {
+      "id": "var-ingresos",
+      "label": "Variación interanual ingresos",
+      "value": 186.4,
+      "formatted": "186,4%",
+      "status": "good",
+      "hint": "Comparado con 2023."
+    }
+  ],
+  "charts": [
+    {
+      "id": "ingresos-vs-egresos-anio",
+      "type": "line",
+      "title": "Ingresos y egresos anuales",
+      "subtitle": "Evolución del flujo de caja anual (2020–2024).",
+      "data": [
+        {
+          "anio": "2020",
+          "Ingresos": 1928580085,
+          "Egresos": 1835260758
+        },
+        {
+          "anio": "2021",
+          "Ingresos": 3176262626,
+          "Egresos": 2926728519
+        },
+        {
+          "anio": "2022",
+          "Ingresos": 5943267142,
+          "Egresos": 5085020225
+        },
+        {
+          "anio": "2023",
+          "Ingresos": 12554998428,
+          "Egresos": 10719392939
+        },
+        {
+          "anio": "2024",
+          "Ingresos": 35961221667,
+          "Egresos": 30908846853
+        },
+        {
+          "anio": "2025",
+          "Ingresos": 0,
+          "Egresos": 0
+        }
+      ],
+      "config": {
+        "indexBy": "anio",
+        "keys": [
+          "Ingresos",
+          "Egresos"
+        ]
+      }
+    },
+    {
+      "id": "saldo-anio",
+      "type": "bar",
+      "title": "Disponibilidades al cierre por año",
+      "subtitle": "Saldo total de caja, bancos, plazos fijos e inversiones al 31 de diciembre.",
+      "data": [
+        {
+          "anio": "2020",
+          "saldo": 181646322
+        },
+        {
+          "anio": "2021",
+          "saldo": 399963307
+        },
+        {
+          "anio": "2022",
+          "saldo": 1278124463
+        },
+        {
+          "anio": "2023",
+          "saldo": 3121293032
+        },
+        {
+          "anio": "2024",
+          "saldo": 8104225710
+        },
+        {
+          "anio": "2025",
+          "saldo": 0
+        }
+      ],
+      "config": {
+        "indexBy": "anio",
+        "keys": [
+          "saldo"
+        ]
+      }
+    },
+    {
+      "id": "mensual-ultimo-anio",
+      "type": "area",
+      "title": "Flujo mensual 2024",
+      "subtitle": "Ingresos y egresos mes a mes durante el último año.",
+      "data": [
+        {
+          "mes": "Ene",
+          "Ingresos": 2167193681,
+          "Egresos": 1526833615
+        },
+        {
+          "mes": "Feb",
+          "Ingresos": 2701119314,
+          "Egresos": 1574807073
+        },
+        {
+          "mes": "Mar",
+          "Ingresos": 2067064507,
+          "Egresos": 1903566098
+        },
+        {
+          "mes": "Abr",
+          "Ingresos": 3296803739,
+          "Egresos": 2483208549
+        },
+        {
+          "mes": "May",
+          "Ingresos": 2563193628,
+          "Egresos": 2281788020
+        },
+        {
+          "mes": "Jun",
+          "Ingresos": 3014127452,
+          "Egresos": 2976138373
+        },
+        {
+          "mes": "Jul",
+          "Ingresos": 3450225108,
+          "Egresos": 2926866065
+        },
+        {
+          "mes": "Ago",
+          "Ingresos": 2886554611,
+          "Egresos": 3036015011
+        },
+        {
+          "mes": "Sep",
+          "Ingresos": 3235471333,
+          "Egresos": 2890922934
+        },
+        {
+          "mes": "Oct",
+          "Ingresos": 3756607017,
+          "Egresos": 2800848021
+        },
+        {
+          "mes": "Nov",
+          "Ingresos": 3148926994,
+          "Egresos": 3015665858
+        },
+        {
+          "mes": "Dic",
+          "Ingresos": 3673934283,
+          "Egresos": 3492187237
+        }
+      ],
+      "config": {
+        "indexBy": "mes",
+        "keys": [
+          "Ingresos",
+          "Egresos"
+        ]
+      }
+    }
+  ],
+  "tables": []
+}

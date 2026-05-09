@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "id": "obras-servicios/mensuras",
+    "title": "Expedientes de Mensura",
+    "category": "obras-servicios",
+    "description": "Mensuras presentadas y registradas en el municipio: trámites técnico-jurídicos sobre inmuebles que definen, modifican o regularizan los límites parcelarios. Incluye divisiones, subdivisiones, unificaciones y regularizaciones.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/dataset/mensuras",
+    "license": "Creative Commons Attribution",
+    "last_updated": "2026-03-25T16:13:08.437811",
+    "organization": "Gobierno"
+  },
+  "kpis": [
+    {
+      "id": "total",
+      "label": "Expedientes totales",
+      "value": 1041,
+      "formatted": "1.041",
+      "hint": "Acumulado 2020–2025."
+    },
+    {
+      "id": "tipos",
+      "label": "Tipos de mensura",
+      "value": 17,
+      "formatted": "17",
+      "hint": "Mensura simple, división, subdivisión, unificación, regularización, etc."
+    },
+    {
+      "id": "anio-pico",
+      "label": "Año con más expedientes",
+      "value": 241,
+      "formatted": "2022",
+      "hint": "241 expedientes ingresados"
+    },
+    {
+      "id": "ultimo-anio",
+      "label": "Expedientes 2025",
+      "value": 182,
+      "formatted": "182",
+      "hint": "Volumen del último año disponible."
+    }
+  ],
+  "charts": [
+    {
+      "id": "por-anio",
+      "type": "area",
+      "title": "Expedientes de mensura por año",
+      "subtitle": "Cantidad de mensuras presentadas en el municipio anualmente.",
+      "data": [
+        {
+          "anio": "2020",
+          "expedientes": 61
+        },
+        {
+          "anio": "2021",
+          "expedientes": 124
+        },
+        {
+          "anio": "2022",
+          "expedientes": 241
+        },
+        {
+          "anio": "2023",
+          "expedientes": 204
+        },
+        {
+          "anio": "2024",
+          "expedientes": 229
+        },
+        {
+          "anio": "2025",
+          "expedientes": 182
+        }
+      ],
+      "config": {
+        "indexBy": "anio",
+        "keys": [
+          "expedientes"
+        ]
+      }
+    },
+    {
+      "id": "por-tipo",
+      "type": "horizontalBar",
+      "title": "Expedientes por tipo de mensura (top 12)",
+      "subtitle": "Tipos más frecuentes: división, subdivisión, conformación parcelaria, etc.",
+      "data": [
+        {
+          "tipo": "Mensura",
+          "expedientes": 298
+        },
+        {
+          "tipo": "Mensura y división  (Reg. prop…",
+          "expedientes": 143
+        },
+        {
+          "tipo": "Constitucion de Estado Parcela…",
+          "expedientes": 127
+        },
+        {
+          "tipo": "Estado Preparatorio Usucapion …",
+          "expedientes": 107
+        },
+        {
+          "tipo": "Modificacion de Estado Parcela…",
+          "expedientes": 101
+        },
+        {
+          "tipo": "Mensura y división",
+          "expedientes": 81
+        },
+        {
+          "tipo": "Mensura y subdivisión",
+          "expedientes": 56
+        },
+        {
+          "tipo": "Unificacion",
+          "expedientes": 38
+        },
+        {
+          "tipo": "Estado Preparatorio Usucapion …",
+          "expedientes": 20
+        },
+        {
+          "tipo": "Restitucion Estado Parcelario …",
+          "expedientes": 18
+        },
+        {
+          "tipo": "Adquisicion de dominio",
+          "expedientes": 14
+        },
+        {
+          "tipo": "Sub. Regimen propiedad horizon…",
+          "expedientes": 7
+        }
+      ],
+      "config": {
+        "indexBy": "tipo",
+        "keys": [
+          "expedientes"
+        ]
+      }
+    }
+  ],
+  "tables": []
+}

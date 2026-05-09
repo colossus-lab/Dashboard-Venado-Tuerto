@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "id": "gobierno/elecciones-vecinales",
+    "title": "Elecciones Vecinales",
+    "category": "gobierno",
+    "description": "Resultados de participación en las elecciones vecinales de Venado Tuerto: cantidad de votantes por mesa y por barrio, distribución territorial de la concurrencia electoral.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/dataset/elecciones-vecinales",
+    "license": "Open Data Commons Attribution License",
+    "last_updated": "2026-03-31T12:35:54.880629",
+    "organization": "Gobierno"
+  },
+  "kpis": [
+    {
+      "id": "total-votantes",
+      "label": "Votos emitidos",
+      "value": 2846,
+      "formatted": "2.846",
+      "unit": "votantes"
+    },
+    {
+      "id": "mesas",
+      "label": "Mesas habilitadas",
+      "value": 13,
+      "formatted": "13",
+      "hint": "Total de mesas distribuidas en la ciudad."
+    },
+    {
+      "id": "barrios",
+      "label": "Barrios con elecciones",
+      "value": 8,
+      "formatted": "8",
+      "hint": "Vecinales con comicios registrados."
+    },
+    {
+      "id": "promedio-mesa",
+      "label": "Promedio por mesa",
+      "value": 219,
+      "formatted": "219",
+      "unit": "votantes/mesa"
+    }
+  ],
+  "charts": [
+    {
+      "id": "votantes-por-barrio",
+      "type": "horizontalBar",
+      "title": "Votantes por barrio",
+      "subtitle": "Suma de votos emitidos en todas las mesas del barrio.",
+      "data": [
+        {
+          "barrio": "Malvinas Argentinas",
+          "votantes": 548
+        },
+        {
+          "barrio": "Ciudad Nueva",
+          "votantes": 427
+        },
+        {
+          "barrio": "Rivadavia",
+          "votantes": 409
+        },
+        {
+          "barrio": "San Vicente",
+          "votantes": 404
+        },
+        {
+          "barrio": "Villa Casey",
+          "votantes": 332
+        },
+        {
+          "barrio": "San Martín",
+          "votantes": 270
+        },
+        {
+          "barrio": "Santa Fe",
+          "votantes": 241
+        },
+        {
+          "barrio": "Iturbide",
+          "votantes": 215
+        }
+      ],
+      "config": {
+        "indexBy": "barrio",
+        "keys": [
+          "votantes"
+        ]
+      }
+    },
+    {
+      "id": "votantes-por-mesa",
+      "type": "horizontalBar",
+      "title": "Votantes por mesa",
+      "subtitle": "Cantidad de votos en cada mesa habilitada.",
+      "data": [
+        {
+          "mesa": "Villa Casey #1",
+          "votantes": 332
+        },
+        {
+          "mesa": "Malvinas Argentinas #1",
+          "votantes": 291
+        },
+        {
+          "mesa": "San Martín #1",
+          "votantes": 270
+        },
+        {
+          "mesa": "Malvinas Argentinas #2",
+          "votantes": 257
+        },
+        {
+          "mesa": "Santa Fe #1",
+          "votantes": 241
+        },
+        {
+          "mesa": "Ciudad Nueva #2",
+          "votantes": 236
+        },
+        {
+          "mesa": "Rivadavia #1",
+          "votantes": 214
+        },
+        {
+          "mesa": "San Vicente #1",
+          "votantes": 206
+        },
+        {
+          "mesa": "San Vicente #2",
+          "votantes": 198
+        },
+        {
+          "mesa": "Rivadavia #2",
+          "votantes": 195
+        },
+        {
+          "mesa": "Ciudad Nueva #1",
+          "votantes": 191
+        },
+        {
+          "mesa": "Iturbide #2",
+          "votantes": 112
+        },
+        {
+          "mesa": "Iturbide #1",
+          "votantes": 103
+        }
+      ],
+      "config": {
+        "indexBy": "mesa",
+        "keys": [
+          "votantes"
+        ]
+      }
+    }
+  ],
+  "tables": [
+    {
+      "id": "ranking-barrios",
+      "title": "Ranking de barrios por participación",
+      "columns": [
+        "#",
+        "Barrio",
+        "Votantes",
+        "Mesas"
+      ],
+      "rows": [
+        [
+          "1",
+          "Malvinas Argentinas",
+          "548",
+          "2"
+        ],
+        [
+          "2",
+          "Ciudad Nueva",
+          "427",
+          "2"
+        ],
+        [
+          "3",
+          "Rivadavia",
+          "409",
+          "2"
+        ],
+        [
+          "4",
+          "San Vicente",
+          "404",
+          "2"
+        ],
+        [
+          "5",
+          "Villa Casey",
+          "332",
+          "1"
+        ],
+        [
+          "6",
+          "San Martín",
+          "270",
+          "1"
+        ],
+        [
+          "7",
+          "Santa Fe",
+          "241",
+          "1"
+        ],
+        [
+          "8",
+          "Iturbide",
+          "215",
+          "2"
+        ]
+      ]
+    }
+  ]
+}

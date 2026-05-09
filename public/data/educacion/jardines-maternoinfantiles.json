@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "id": "educacion/jardines-maternoinfantiles",
+    "title": "Jardines Materno-Infantiles",
+    "category": "educacion",
+    "description": "Asistentes a los jardines materno-infantiles municipales de Venado Tuerto: distribución por jardín, turno, sala y género. Indicador de la cobertura de cuidados en la primera infancia.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/dataset/asistentes-jardines-materno-infantiles-municipales-2025",
+    "license": "Open Data Commons Attribution License",
+    "last_updated": "2026-03-31T13:30:29.159474",
+    "organization": "Territorialidad y desarrollo cultural"
+  },
+  "kpis": [
+    {
+      "id": "total-asistentes",
+      "label": "Asistentes totales",
+      "value": 378,
+      "formatted": "378",
+      "unit": "niños/as"
+    },
+    {
+      "id": "jardines",
+      "label": "Jardines municipales",
+      "value": 8,
+      "formatted": "8",
+      "hint": "Establecimientos materno-infantiles del municipio."
+    },
+    {
+      "id": "pct-manana",
+      "label": "Turno mañana",
+      "value": 48.924731182795696,
+      "formatted": "48,9%",
+      "hint": "182 de 372 asistentes con turno declarado."
+    },
+    {
+      "id": "pct-masculino",
+      "label": "Asistentes varones",
+      "value": 50,
+      "formatted": "50,0%",
+      "hint": "189 de 378 con género declarado."
+    }
+  ],
+  "charts": [
+    {
+      "id": "por-jardin",
+      "type": "horizontalBar",
+      "title": "Asistentes por jardín",
+      "subtitle": "Cantidad de niños y niñas en cada establecimiento.",
+      "data": [
+        {
+          "jardin": "Semillitas",
+          "asistentes": 83
+        },
+        {
+          "jardin": "Burbujitas",
+          "asistentes": 70
+        },
+        {
+          "jardin": "Huellitas",
+          "asistentes": 66
+        },
+        {
+          "jardin": "Rayito de Sol",
+          "asistentes": 61
+        },
+        {
+          "jardin": "Pinceladas",
+          "asistentes": 46
+        },
+        {
+          "jardin": "Rocío de Miel",
+          "asistentes": 28
+        },
+        {
+          "jardin": "Manasitos",
+          "asistentes": 14
+        },
+        {
+          "jardin": "Chispitas",
+          "asistentes": 10
+        }
+      ],
+      "config": {
+        "indexBy": "jardin",
+        "keys": [
+          "asistentes"
+        ]
+      }
+    },
+    {
+      "id": "turno",
+      "type": "pie",
+      "title": "Distribución por turno",
+      "subtitle": "Mañana vs. tarde.",
+      "data": [
+        {
+          "id": "Tarde",
+          "label": "Tarde",
+          "value": 190
+        },
+        {
+          "id": "Mañana",
+          "label": "Mañana",
+          "value": 182
+        },
+        {
+          "id": "Noche",
+          "label": "Noche",
+          "value": 6
+        }
+      ],
+      "config": {}
+    },
+    {
+      "id": "genero",
+      "type": "pie",
+      "title": "Distribución por género",
+      "subtitle": "Asistentes por género autoinformado.",
+      "data": [
+        {
+          "id": "Femenino",
+          "label": "Femenino",
+          "value": 189
+        },
+        {
+          "id": "Masculino",
+          "label": "Masculino",
+          "value": 189
+        }
+      ],
+      "config": {}
+    }
+  ],
+  "tables": [
+    {
+      "id": "jardines",
+      "title": "Directorio de jardines materno-infantiles",
+      "columns": [
+        "Jardín",
+        "Dirección",
+        "Asistentes"
+      ],
+      "rows": [
+        [
+          "Burbujitas",
+          "Leoncio de la Barrera 298",
+          "70"
+        ],
+        [
+          "Chispitas",
+          "Balcarce 4135",
+          "10"
+        ],
+        [
+          "Huellitas",
+          "Vuelta de Obligado 298",
+          "66"
+        ],
+        [
+          "Manasitos",
+          "Jorge Covacevich 98",
+          "14"
+        ],
+        [
+          "Pinceladas",
+          "Agüero 1460",
+          "46"
+        ],
+        [
+          "Rayito de Sol",
+          "Ayacucho 600",
+          "61"
+        ],
+        [
+          "Rocío de Miel",
+          "Agüero 1460",
+          "28"
+        ],
+        [
+          "Semillitas",
+          "Libertad 1400",
+          "83"
+        ]
+      ]
+    }
+  ]
+}

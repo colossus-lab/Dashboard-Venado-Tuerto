@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "id": "hacienda-economia/habilitaciones-comerciales",
+    "title": "Habilitaciones Comerciales",
+    "category": "hacienda-economia",
+    "description": "Cantidad de habilitaciones comerciales otorgadas por el municipio mes a mes desde 2020. Indicador de la dinámica empresarial y emprendedora local.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/dataset/habilitaciones-comerciales",
+    "license": "Open Data Commons Attribution License",
+    "last_updated": "2026-03-30T16:52:10.721571",
+    "organization": "Desarrollo productivo"
+  },
+  "kpis": [
+    {
+      "id": "total-historico",
+      "label": "Habilitaciones totales",
+      "value": 5755,
+      "formatted": "5.755",
+      "hint": "Acumulado 2020–2025."
+    },
+    {
+      "id": "promedio-anual",
+      "label": "Promedio anual",
+      "value": 959,
+      "formatted": "959",
+      "unit": "habilitaciones/año"
+    },
+    {
+      "id": "anio-pico",
+      "label": "Año pico",
+      "value": 2312,
+      "formatted": "2021",
+      "hint": "2.312 habilitaciones"
+    },
+    {
+      "id": "ultimo-mes",
+      "label": "Último mes registrado",
+      "value": 51,
+      "formatted": "Dic 2025",
+      "hint": "51 habilitaciones"
+    }
+  ],
+  "charts": [
+    {
+      "id": "total-por-anio",
+      "type": "line",
+      "title": "Habilitaciones comerciales por año",
+      "subtitle": "Total anual de habilitaciones otorgadas (2020–2025).",
+      "data": [
+        {
+          "anio": "2020",
+          "habilitaciones": 397
+        },
+        {
+          "anio": "2021",
+          "habilitaciones": 2312
+        },
+        {
+          "anio": "2022",
+          "habilitaciones": 787
+        },
+        {
+          "anio": "2023",
+          "habilitaciones": 823
+        },
+        {
+          "anio": "2024",
+          "habilitaciones": 749
+        },
+        {
+          "anio": "2025",
+          "habilitaciones": 687
+        }
+      ],
+      "config": {
+        "indexBy": "anio",
+        "keys": [
+          "habilitaciones"
+        ]
+      }
+    },
+    {
+      "id": "mensual-todos-anios",
+      "type": "line",
+      "title": "Habilitaciones mes a mes (todos los años)",
+      "subtitle": "Comparación interanual de actividad comercial mensual.",
+      "data": [
+        {
+          "2020": 11,
+          "2021": 43,
+          "2022": 71,
+          "2023": 92,
+          "2024": 79,
+          "2025": 67,
+          "mes": "Ene"
+        },
+        {
+          "2020": 24,
+          "2021": 41,
+          "2022": 55,
+          "2023": 78,
+          "2024": 50,
+          "2025": 39,
+          "mes": "Feb"
+        },
+        {
+          "2020": 5,
+          "2021": 64,
+          "2022": 66,
+          "2023": 64,
+          "2024": 61,
+          "2025": 56,
+          "mes": "Mar"
+        },
+        {
+          "2020": 6,
+          "2021": 85,
+          "2022": 44,
+          "2023": 61,
+          "2024": 62,
+          "2025": 58,
+          "mes": "Abr"
+        },
+        {
+          "2020": 34,
+          "2021": 85,
+          "2022": 66,
+          "2023": 71,
+          "2024": 72,
+          "2025": 59,
+          "mes": "May"
+        },
+        {
+          "2020": 48,
+          "2021": 78,
+          "2022": 92,
+          "2023": 62,
+          "2024": 58,
+          "2025": 65,
+          "mes": "Jun"
+        },
+        {
+          "2020": 63,
+          "2021": 1543,
+          "2022": 44,
+          "2023": 62,
+          "2024": 51,
+          "2025": 70,
+          "mes": "Jul"
+        },
+        {
+          "2020": 32,
+          "2021": 101,
+          "2022": 88,
+          "2023": 63,
+          "2024": 77,
+          "2025": 50,
+          "mes": "Ago"
+        },
+        {
+          "2020": 34,
+          "2021": 84,
+          "2022": 63,
+          "2023": 76,
+          "2024": 59,
+          "2025": 48,
+          "mes": "Sep"
+        },
+        {
+          "2020": 33,
+          "2021": 54,
+          "2022": 70,
+          "2023": 59,
+          "2024": 58,
+          "2025": 60,
+          "mes": "Oct"
+        },
+        {
+          "2020": 62,
+          "2021": 71,
+          "2022": 81,
+          "2023": 71,
+          "2024": 72,
+          "2025": 64,
+          "mes": "Nov"
+        },
+        {
+          "2020": 45,
+          "2021": 63,
+          "2022": 47,
+          "2023": 64,
+          "2024": 50,
+          "2025": 51,
+          "mes": "Dic"
+        }
+      ],
+      "config": {
+        "indexBy": "mes",
+        "keys": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ]
+      }
+    },
+    {
+      "id": "mensual-2025",
+      "type": "bar",
+      "title": "Habilitaciones mensuales 2025",
+      "subtitle": "Distribución mensual del último año disponible.",
+      "data": [
+        {
+          "mes": "Ene",
+          "habilitaciones": 67
+        },
+        {
+          "mes": "Feb",
+          "habilitaciones": 39
+        },
+        {
+          "mes": "Mar",
+          "habilitaciones": 56
+        },
+        {
+          "mes": "Abr",
+          "habilitaciones": 58
+        },
+        {
+          "mes": "May",
+          "habilitaciones": 59
+        },
+        {
+          "mes": "Jun",
+          "habilitaciones": 65
+        },
+        {
+          "mes": "Jul",
+          "habilitaciones": 70
+        },
+        {
+          "mes": "Ago",
+          "habilitaciones": 50
+        },
+        {
+          "mes": "Sep",
+          "habilitaciones": 48
+        },
+        {
+          "mes": "Oct",
+          "habilitaciones": 60
+        },
+        {
+          "mes": "Nov",
+          "habilitaciones": 64
+        },
+        {
+          "mes": "Dic",
+          "habilitaciones": 51
+        }
+      ],
+      "config": {
+        "indexBy": "mes",
+        "keys": [
+          "habilitaciones"
+        ]
+      }
+    }
+  ],
+  "tables": []
+}

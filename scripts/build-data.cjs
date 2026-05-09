@@ -21,7 +21,41 @@ const PIPELINE = [
   'process-cat-ambiente.cjs',
   'process-cat-vivienda-territorio.cjs',
   // ── Informes individuales por dataset ──
+  // Gobierno
   'process-personal-municipal.cjs',
+  'process-organigrama.cjs',
+  'process-capacitaciones-rrhh.cjs',
+  'process-documentacion-cdr.cjs',
+  'process-comisiones-vecinales.cjs',
+  'process-elecciones-vecinales.cjs',
+  // Hacienda y Economía
+  'process-balances-tesoreria.cjs',
+  'process-habilitaciones-comerciales.cjs',
+  'process-establecimientos-comerciales.cjs',
+  'process-conecta-empleo.cjs',
+  'process-hogares-convivencia.cjs',
+  // Educación
+  'process-oferta-educativa.cjs',
+  'process-becados.cjs',
+  'process-jardines-maternoinfantiles.cjs',
+  // Salud y Desarrollo Humano
+  'process-dependencias-desarrollo-humano.cjs',
+  'process-carnets-manipulacion-alimentos.cjs',
+  // Seguridad y Convivencia
+  'process-vehiculos-abandonados.cjs',
+  'process-licencias-conducir.cjs',
+  'process-decomisos-seguridad-alimentaria.cjs',
+  // Obras y Servicios
+  'process-obras-pavimento.cjs',
+  'process-fabrica-tubos-ladrillos.cjs',
+  'process-mensuras.cjs',
+  'process-ingreso-planos.cjs',
+  'process-viajes-tup.cjs',
+  // Ambiente
+  'process-actividades-reciclar.cjs',
+  'process-visitas-planta-tratamiento.cjs',
+  // Vivienda y Territorio
+  'process-nuestro-terreno.cjs',
   // ── Datos externos filtrados a Venado Tuerto ──
   'process-padron-educativo-vt.cjs',
   'process-censo-2022-vt.cjs',

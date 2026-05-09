@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "id": "ambiente/visitas-planta-tratamiento",
+    "title": "Visitas a la Planta de Tratamiento",
+    "category": "ambiente",
+    "description": "Visitas guiadas de escuelas e instituciones a la Planta de Tratamiento de Residuos Sólidos Urbanos: programa educativo-ambiental para acercar a la comunidad el destino final de la basura urbana.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/dataset/visitas-a-la-planta-de-tratamiento-de-residuos-solidos-urbanos-2025",
+    "license": "Open Data Commons Attribution License",
+    "last_updated": "2026-03-31T12:54:40.736447",
+    "organization": "Intendencia y gabinete"
+  },
+  "kpis": [
+    {
+      "id": "total-visitas",
+      "label": "Visitas guiadas",
+      "value": 128,
+      "formatted": "128",
+      "unit": "visitas"
+    },
+    {
+      "id": "alumnos",
+      "label": "Alumnos participantes",
+      "value": 2894,
+      "formatted": "2.894",
+      "hint": "Total de niños y jóvenes que conocieron la planta."
+    },
+    {
+      "id": "instituciones",
+      "label": "Instituciones visitantes",
+      "value": 80,
+      "formatted": "80",
+      "hint": "Escuelas y organizaciones que participaron del programa."
+    },
+    {
+      "id": "mes-pico",
+      "label": "Mes pico",
+      "value": 25,
+      "formatted": "Oct",
+      "hint": "25 visitas"
+    }
+  ],
+  "charts": [
+    {
+      "id": "visitas-por-mes",
+      "type": "bar",
+      "title": "Visitas guiadas por mes",
+      "subtitle": "Distribución temporal del año lectivo.",
+      "data": [
+        {
+          "mes": "Ene",
+          "visitas": 0
+        },
+        {
+          "mes": "Feb",
+          "visitas": 0
+        },
+        {
+          "mes": "Mar",
+          "visitas": 1
+        },
+        {
+          "mes": "Abr",
+          "visitas": 4
+        },
+        {
+          "mes": "May",
+          "visitas": 16
+        },
+        {
+          "mes": "Jun",
+          "visitas": 22
+        },
+        {
+          "mes": "Jul",
+          "visitas": 12
+        },
+        {
+          "mes": "Ago",
+          "visitas": 16
+        },
+        {
+          "mes": "Sep",
+          "visitas": 19
+        },
+        {
+          "mes": "Oct",
+          "visitas": 25
+        },
+        {
+          "mes": "Nov",
+          "visitas": 11
+        },
+        {
+          "mes": "Dic",
+          "visitas": 1
+        }
+      ],
+      "config": {
+        "indexBy": "mes",
+        "keys": [
+          "visitas"
+        ]
+      }
+    },
+    {
+      "id": "top-instituciones",
+      "type": "horizontalBar",
+      "title": "Instituciones con más alumnos visitantes (top 12)",
+      "subtitle": "Cantidad acumulada de alumnos enviados a la planta.",
+      "data": [
+        {
+          "institucion": "Taller de Nazareth - Prim",
+          "alumnos": 110
+        },
+        {
+          "institucion": "Primaria 498",
+          "alumnos": 105
+        },
+        {
+          "institucion": "Primaria 100 años",
+          "alumnos": 100
+        },
+        {
+          "institucion": "Primaria 1198",
+          "alumnos": 99
+        },
+        {
+          "institucion": "Sagrado Corazón Sec",
+          "alumnos": 94
+        },
+        {
+          "institucion": "Primaria 1248",
+          "alumnos": 84
+        },
+        {
+          "institucion": "Natalio Perillo",
+          "alumnos": 70
+        },
+        {
+          "institucion": "Primaria 497",
+          "alumnos": 69
+        },
+        {
+          "institucion": "CAR",
+          "alumnos": 69
+        },
+        {
+          "institucion": "Santa Rosa",
+          "alumnos": 68
+        },
+        {
+          "institucion": "Taller de Nazareth - Sec",
+          "alumnos": 65
+        },
+        {
+          "institucion": "Escuela 1189",
+          "alumnos": 64
+        }
+      ],
+      "config": {
+        "indexBy": "institucion",
+        "keys": [
+          "alumnos"
+        ]
+      }
+    },
+    {
+      "id": "turno",
+      "type": "pie",
+      "title": "Distribución por turno",
+      "subtitle": "Mañana vs. tarde.",
+      "data": [
+        {
+          "id": "Mañana",
+          "label": "Mañana",
+          "value": 75
+        },
+        {
+          "id": "Tarde",
+          "label": "Tarde",
+          "value": 53
+        }
+      ],
+      "config": {}
+    }
+  ],
+  "tables": []
+}
