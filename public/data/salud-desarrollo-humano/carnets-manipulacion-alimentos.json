@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "id": "salud-desarrollo-humano/carnets-manipulacion-alimentos",
+    "title": "Carnets de Manipulación de Alimentos",
+    "category": "salud-desarrollo-humano",
+    "description": "Carnets de manipulación segura de alimentos emitidos por el municipio: documento obligatorio para personal de comercios alimentarios, gastronomía y eventos.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/dataset/carnets-de-manipulacion-de-alimentos-2025",
+    "license": "Creative Commons Attribution",
+    "last_updated": "2026-03-26T17:23:10.673920",
+    "organization": "Control urbano y convivencia"
+  },
+  "kpis": [
+    {
+      "id": "total",
+      "label": "Carnets emitidos",
+      "value": 2129,
+      "formatted": "2.129",
+      "unit": "carnets"
+    },
+    {
+      "id": "mes-pico",
+      "label": "Mes pico",
+      "value": 266,
+      "formatted": "Abr 2025",
+      "hint": "266 carnets"
+    },
+    {
+      "id": "promedio",
+      "label": "Promedio mensual",
+      "value": 177,
+      "formatted": "177",
+      "unit": "carnets/mes"
+    },
+    {
+      "id": "ultimo-mes",
+      "label": "Último mes registrado",
+      "value": 183,
+      "formatted": "Dic 2025",
+      "hint": "183 carnets emitidos"
+    }
+  ],
+  "charts": [
+    {
+      "id": "por-mes",
+      "type": "line",
+      "title": "Carnets emitidos por mes",
+      "subtitle": "Evolución mensual de la emisión de carnets de manipulación segura de alimentos.",
+      "data": [
+        {
+          "mes": "Ene 25",
+          "carnets": 10
+        },
+        {
+          "mes": "Feb 25",
+          "carnets": 120
+        },
+        {
+          "mes": "Mar 25",
+          "carnets": 217
+        },
+        {
+          "mes": "Abr 25",
+          "carnets": 266
+        },
+        {
+          "mes": "May 25",
+          "carnets": 266
+        },
+        {
+          "mes": "Jun 25",
+          "carnets": 225
+        },
+        {
+          "mes": "Jul 25",
+          "carnets": 111
+        },
+        {
+          "mes": "Ago 25",
+          "carnets": 149
+        },
+        {
+          "mes": "Sep 25",
+          "carnets": 156
+        },
+        {
+          "mes": "Oct 25",
+          "carnets": 219
+        },
+        {
+          "mes": "Nov 25",
+          "carnets": 207
+        },
+        {
+          "mes": "Dic 25",
+          "carnets": 183
+        }
+      ],
+      "config": {
+        "indexBy": "mes",
+        "keys": [
+          "carnets"
+        ]
+      }
+    },
+    {
+      "id": "acumulado",
+      "type": "area",
+      "title": "Carnets acumulados",
+      "subtitle": "Total acumulado de carnets emitidos en el período.",
+      "data": [
+        {
+          "mes": "Ene 25",
+          "acumulado": 10
+        },
+        {
+          "mes": "Feb 25",
+          "acumulado": 130
+        },
+        {
+          "mes": "Mar 25",
+          "acumulado": 347
+        },
+        {
+          "mes": "Abr 25",
+          "acumulado": 613
+        },
+        {
+          "mes": "May 25",
+          "acumulado": 879
+        },
+        {
+          "mes": "Jun 25",
+          "acumulado": 1104
+        },
+        {
+          "mes": "Jul 25",
+          "acumulado": 1215
+        },
+        {
+          "mes": "Ago 25",
+          "acumulado": 1364
+        },
+        {
+          "mes": "Sep 25",
+          "acumulado": 1520
+        },
+        {
+          "mes": "Oct 25",
+          "acumulado": 1739
+        },
+        {
+          "mes": "Nov 25",
+          "acumulado": 1946
+        },
+        {
+          "mes": "Dic 25",
+          "acumulado": 2129
+        }
+      ],
+      "config": {
+        "indexBy": "mes",
+        "keys": [
+          "acumulado"
+        ]
+      }
+    }
+  ],
+  "tables": []
+}

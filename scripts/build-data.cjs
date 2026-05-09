@@ -38,6 +38,9 @@ const PIPELINE = [
   'process-oferta-educativa.cjs',
   'process-becados.cjs',
   'process-jardines-maternoinfantiles.cjs',
+  // Salud y Desarrollo Humano
+  'process-dependencias-desarrollo-humano.cjs',
+  'process-carnets-manipulacion-alimentos.cjs',
   // ── Datos externos filtrados a Venado Tuerto ──
   'process-padron-educativo-vt.cjs',
   'process-censo-2022-vt.cjs',

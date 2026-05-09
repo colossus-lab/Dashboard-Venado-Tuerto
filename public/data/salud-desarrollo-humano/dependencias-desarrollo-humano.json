@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "id": "salud-desarrollo-humano/dependencias-desarrollo-humano",
+    "title": "Dependencias de Desarrollo Humano",
+    "category": "salud-desarrollo-humano",
+    "description": "Red de centros de salud y espacios del programa CREER que dependen de la Secretaría de Desarrollo Humano: ubicación, días, horarios y tipos de servicio.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/dataset/dependencias-desarrollo-humano",
+    "license": "Open Data Commons Attribution License",
+    "last_updated": "2026-04-08T15:57:55.158466",
+    "organization": "Desarrollo humano"
+  },
+  "kpis": [
+    {
+      "id": "total-dependencias",
+      "label": "Dependencias y servicios",
+      "value": 20,
+      "formatted": "20",
+      "hint": "Centros de salud + espacios del programa CREER."
+    },
+    {
+      "id": "centros-salud",
+      "label": "Centros de salud",
+      "value": 12,
+      "formatted": "12",
+      "hint": "Atención primaria distribuida por barrios."
+    },
+    {
+      "id": "creer",
+      "label": "Espacios CREER",
+      "value": 3,
+      "formatted": "3",
+      "hint": "Centros del programa de abordaje territorial CREER."
+    },
+    {
+      "id": "tipos",
+      "label": "Tipos de servicio",
+      "value": 4,
+      "formatted": "4",
+      "hint": "Adultos, pediátrico, centros de escucha, etc."
+    }
+  ],
+  "charts": [
+    {
+      "id": "centros-por-tipo",
+      "type": "pie",
+      "title": "Centros de salud por tipo",
+      "subtitle": "Distribución entre adultos, pediátrico y mixto.",
+      "data": [
+        {
+          "id": "Adultos",
+          "label": "Adultos",
+          "value": 8
+        },
+        {
+          "id": "Pediátrico",
+          "label": "Pediátrico",
+          "value": 3
+        },
+        {
+          "id": "Pediátrico/Mujeres",
+          "label": "Pediátrico/Mujeres",
+          "value": 1
+        }
+      ],
+      "config": {}
+    },
+    {
+      "id": "creer-por-tipo",
+      "type": "bar",
+      "title": "Espacios CREER por tipo de actividad",
+      "subtitle": "Centros de escucha, talleres, abordajes territoriales.",
+      "data": [
+        {
+          "tipo": "Centro de escucha",
+          "espacios": 8
+        }
+      ],
+      "config": {
+        "indexBy": "tipo",
+        "keys": [
+          "espacios"
+        ]
+      }
+    }
+  ],
+  "tables": [
+    {
+      "id": "directorio",
+      "title": "Directorio de dependencias",
+      "columns": [
+        "Nombre",
+        "Tipo",
+        "Dirección",
+        "Teléfono"
+      ],
+      "rows": [
+        [
+          "Asistencia pública municipal (APM)",
+          "Pediátrico/Mujeres",
+          "Brown 478",
+          "3462528274"
+        ],
+        [
+          "Casa de los abuelos Beluardi",
+          "Centro de escucha",
+          "Pte. Perón 915",
+          "—"
+        ],
+        [
+          "Casa de los abuelos Beluardi",
+          "Centro de escucha",
+          "Pte. Perón 915",
+          "—"
+        ],
+        [
+          "Casa de los abuelos Beluardi",
+          "Centro de escucha",
+          "Pte. Perón 915",
+          "—"
+        ],
+        [
+          "Centro integrador comunitario (CIC)",
+          "Adultos",
+          "Vuelta de Obligado y Falucho",
+          "3462371420"
+        ],
+        [
+          "Ciudad Nueva",
+          "Adultos",
+          "Amincton 585",
+          "3462310351"
+        ],
+        [
+          "Iturbide",
+          "Pediátrico",
+          "Caparrós 351",
+          "3462589975"
+        ],
+        [
+          "Juan XXIII",
+          "Pediátrico",
+          "Saenz Peña 1980 (Saenz Peña y Monteagudo)",
+          "3462580709"
+        ],
+        [
+          "Malvinas Argentinas",
+          "Adultos",
+          "Valdez 555",
+          "3462310349"
+        ],
+        [
+          "Rivadavia",
+          "Adultos",
+          "26 de Abril 835",
+          "3462310331"
+        ],
+        [
+          "Salón Oasis",
+          "Centro de escucha",
+          "Pje. Chaco 872",
+          "—"
+        ],
+        [
+          "Salón Oasis",
+          "Centro de escucha",
+          "Pje. Chaco 872",
+          "—"
+        ],
+        [
+          "Salón Oasis",
+          "Centro de escucha",
+          "Pje. Chaco 872",
+          "—"
+        ],
+        [
+          "Salón principal Ministerio Impacto de Dios",
+          "Centro de escucha",
+          "Sáenz Peña 1219",
+          "—"
+        ],
+        [
+          "Salón principal Ministerio Impacto de Dios",
+          "Centro de escucha",
+          "Sáenz Peña 1219",
+          "—"
+        ],
+        [
+          "San José Obrero",
+          "Adultos",
+          "Quintana 1300 (Quintana y Lisandro de la Torre)",
+          "3462580877"
+        ],
+        [
+          "San Vicente",
+          "Adultos",
+          "Dorrego 2600 (Dorrego y Goumond)",
+          "3462618306"
+        ],
+        [
+          "Santa Rosa",
+          "Adultos",
+          "Balcarce 4151",
+          "3462310350"
+        ],
+        [
+          "Victoria",
+          "Adultos",
+          "Chile 1350",
+          "3462588367"
+        ],
+        [
+          "Villa Casey",
+          "Pediátrico",
+          "Mariano López 1344",
+          "3462312535"
+        ]
+      ]
+    }
+  ]
+}
