@@ -41,6 +41,10 @@ const PIPELINE = [
   // Salud y Desarrollo Humano
   'process-dependencias-desarrollo-humano.cjs',
   'process-carnets-manipulacion-alimentos.cjs',
+  // Seguridad y Convivencia
+  'process-vehiculos-abandonados.cjs',
+  'process-licencias-conducir.cjs',
+  'process-decomisos-seguridad-alimentaria.cjs',
   // ── Datos externos filtrados a Venado Tuerto ──
   'process-padron-educativo-vt.cjs',
   'process-censo-2022-vt.cjs',

@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "id": "seguridad-convivencia/decomisos-seguridad-alimentaria",
+    "title": "Decomisos de Seguridad Alimentaria",
+    "category": "seguridad-convivencia",
+    "description": "Mercadería decomisada por la Dirección de Bromatología en operativos de seguridad alimentaria: kilogramos y litros retirados de comercios, eventos y depósitos por incumplimientos sanitarios.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/dataset/decomisos-seguridad-alimentaria-2024",
+    "license": "Open Data Commons Attribution License",
+    "last_updated": "2026-04-03T13:58:43.990542",
+    "organization": "Control urbano y convivencia"
+  },
+  "kpis": [
+    {
+      "id": "total-kg",
+      "label": "Decomisos en kg",
+      "value": 13194,
+      "formatted": "13.194 kg",
+      "hint": "Mercadería sólida decomisada en operativos."
+    },
+    {
+      "id": "total-litros",
+      "label": "Decomisos en litros",
+      "value": 11893,
+      "formatted": "11.893 l",
+      "hint": "Líquidos decomisados (lácteos, bebidas, otros)."
+    },
+    {
+      "id": "mes-pico",
+      "label": "Mes pico (kg)",
+      "value": 4669,
+      "formatted": "Mar 2024",
+      "hint": "4.669 kg decomisados"
+    },
+    {
+      "id": "anio-pico",
+      "label": "Año con más decomisos",
+      "value": 13194,
+      "formatted": "2024",
+      "hint": "13.194 kg + 11.893 l"
+    }
+  ],
+  "charts": [
+    {
+      "id": "kg-por-mes",
+      "type": "bar",
+      "title": "Kilogramos decomisados por mes",
+      "subtitle": "Mercadería sólida (carnes, alimentos secos, panificados) retirada por inspectores.",
+      "data": [
+        {
+          "periodo": "Mar 24",
+          "kg": 4669
+        },
+        {
+          "periodo": "Abr 24",
+          "kg": 1016
+        },
+        {
+          "periodo": "May 24",
+          "kg": 178
+        },
+        {
+          "periodo": "Jun 24",
+          "kg": 2220
+        },
+        {
+          "periodo": "Jul 24",
+          "kg": 894
+        },
+        {
+          "periodo": "Ago 24",
+          "kg": 0
+        },
+        {
+          "periodo": "Sep 24",
+          "kg": 509
+        },
+        {
+          "periodo": "Oct 24",
+          "kg": 51
+        },
+        {
+          "periodo": "Nov 24",
+          "kg": 378
+        },
+        {
+          "periodo": "Dic 24",
+          "kg": 3279
+        }
+      ],
+      "config": {
+        "indexBy": "periodo",
+        "keys": [
+          "kg"
+        ]
+      }
+    },
+    {
+      "id": "litros-por-mes",
+      "type": "bar",
+      "title": "Litros decomisados por mes",
+      "subtitle": "Líquidos (lácteos, bebidas, otros) retirados de comercios y eventos.",
+      "data": [
+        {
+          "periodo": "Mar 24",
+          "litros": 117
+        },
+        {
+          "periodo": "Abr 24",
+          "litros": 1091
+        },
+        {
+          "periodo": "May 24",
+          "litros": 204
+        },
+        {
+          "periodo": "Jun 24",
+          "litros": 1899
+        },
+        {
+          "periodo": "Jul 24",
+          "litros": 4181
+        },
+        {
+          "periodo": "Ago 24",
+          "litros": 0
+        },
+        {
+          "periodo": "Sep 24",
+          "litros": 304
+        },
+        {
+          "periodo": "Oct 24",
+          "litros": 18
+        },
+        {
+          "periodo": "Nov 24",
+          "litros": 4079
+        },
+        {
+          "periodo": "Dic 24",
+          "litros": 2
+        }
+      ],
+      "config": {
+        "indexBy": "periodo",
+        "keys": [
+          "litros"
+        ]
+      }
+    },
+    {
+      "id": "evolucion",
+      "type": "line",
+      "title": "Evolución de decomisos",
+      "subtitle": "Comparación de mercadería sólida y líquida mes a mes.",
+      "data": [
+        {
+          "periodo": "Mar 24",
+          "Kilogramos": 4669,
+          "Litros": 117
+        },
+        {
+          "periodo": "Abr 24",
+          "Kilogramos": 1016,
+          "Litros": 1091
+        },
+        {
+          "periodo": "May 24",
+          "Kilogramos": 178,
+          "Litros": 204
+        },
+        {
+          "periodo": "Jun 24",
+          "Kilogramos": 2220,
+          "Litros": 1899
+        },
+        {
+          "periodo": "Jul 24",
+          "Kilogramos": 894,
+          "Litros": 4181
+        },
+        {
+          "periodo": "Ago 24",
+          "Kilogramos": 0,
+          "Litros": 0
+        },
+        {
+          "periodo": "Sep 24",
+          "Kilogramos": 509,
+          "Litros": 304
+        },
+        {
+          "periodo": "Oct 24",
+          "Kilogramos": 51,
+          "Litros": 18
+        },
+        {
+          "periodo": "Nov 24",
+          "Kilogramos": 378,
+          "Litros": 4079
+        },
+        {
+          "periodo": "Dic 24",
+          "Kilogramos": 3279,
+          "Litros": 2
+        }
+      ],
+      "config": {
+        "indexBy": "periodo",
+        "keys": [
+          "Kilogramos",
+          "Litros"
+        ]
+      }
+    }
+  ],
+  "tables": []
+}

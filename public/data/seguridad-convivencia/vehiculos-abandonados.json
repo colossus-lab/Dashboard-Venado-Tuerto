@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "id": "seguridad-convivencia/vehiculos-abandonados",
+    "title": "Vehículos Abandonados",
+    "category": "seguridad-convivencia",
+    "description": "Vehículos abandonados en la vía pública relevados por el municipio: cantidad mensual, devoluciones a funcionamiento, movilizaciones a corralón y retiros voluntarios. Indicador de gestión del espacio público y limpieza urbana.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/dataset/vehiculos-abandonados",
+    "license": "Creative Commons Attribution",
+    "last_updated": "2026-04-03T14:12:56.637327",
+    "organization": "Control urbano y convivencia"
+  },
+  "kpis": [
+    {
+      "id": "total",
+      "label": "Vehículos relevados",
+      "value": 1380,
+      "formatted": "1.380",
+      "hint": "Total acumulado 2021–2025."
+    },
+    {
+      "id": "funcionamiento",
+      "label": "Devueltos a funcionamiento",
+      "value": 774,
+      "formatted": "774",
+      "status": "good",
+      "hint": "Vehículos que volvieron a circular tras la intervención."
+    },
+    {
+      "id": "corralon",
+      "label": "Movilizados al corralón",
+      "value": 79,
+      "formatted": "79",
+      "hint": "Vehículos retirados de la vía pública."
+    },
+    {
+      "id": "anio-pico",
+      "label": "Año con más casos",
+      "value": 573,
+      "formatted": "2025",
+      "hint": "573 vehículos relevados"
+    }
+  ],
+  "charts": [
+    {
+      "id": "por-anio",
+      "type": "bar",
+      "title": "Vehículos abandonados relevados por año",
+      "subtitle": "Devueltos a funcionamiento, movilizados a corralón y retiros directos.",
+      "data": [
+        {
+          "anio": "2021",
+          "Funcionamiento": 35,
+          "Corralón": 15,
+          "Retiro": 125
+        },
+        {
+          "anio": "2022",
+          "Funcionamiento": 31,
+          "Corralón": 15,
+          "Retiro": 278
+        },
+        {
+          "anio": "2023",
+          "Funcionamiento": 11,
+          "Corralón": 5,
+          "Retiro": 124
+        },
+        {
+          "anio": "2024",
+          "Funcionamiento": 156,
+          "Corralón": 12
+        },
+        {
+          "anio": "2025",
+          "Funcionamiento": 541,
+          "Corralón": 32
+        }
+      ],
+      "config": {
+        "indexBy": "anio",
+        "keys": [
+          "Funcionamiento",
+          "Corralón",
+          "Retiro"
+        ]
+      }
+    },
+    {
+      "id": "mensual-2025",
+      "type": "line",
+      "title": "Distribución mensual 2025",
+      "subtitle": "Casos mes a mes en el último año disponible.",
+      "data": [
+        {
+          "mes": "Ene",
+          "Funcionamiento": 57,
+          "Corralón": 0
+        },
+        {
+          "mes": "Feb",
+          "Funcionamiento": 21,
+          "Corralón": 2
+        },
+        {
+          "mes": "Mar",
+          "Funcionamiento": 26,
+          "Corralón": 3
+        },
+        {
+          "mes": "Abr",
+          "Funcionamiento": 20,
+          "Corralón": 1
+        },
+        {
+          "mes": "May",
+          "Funcionamiento": 53,
+          "Corralón": 3
+        },
+        {
+          "mes": "Jun",
+          "Funcionamiento": 86,
+          "Corralón": 9
+        },
+        {
+          "mes": "Jul",
+          "Funcionamiento": 53,
+          "Corralón": 1
+        },
+        {
+          "mes": "Ago",
+          "Funcionamiento": 35,
+          "Corralón": 1
+        },
+        {
+          "mes": "Sep",
+          "Funcionamiento": 72,
+          "Corralón": 3
+        },
+        {
+          "mes": "Oct",
+          "Funcionamiento": 72,
+          "Corralón": 5
+        },
+        {
+          "mes": "Nov",
+          "Funcionamiento": 15,
+          "Corralón": 2
+        },
+        {
+          "mes": "Dic",
+          "Funcionamiento": 31,
+          "Corralón": 2
+        }
+      ],
+      "config": {
+        "indexBy": "mes",
+        "keys": [
+          "Funcionamiento",
+          "Corralón"
+        ]
+      }
+    }
+  ],
+  "tables": []
+}
