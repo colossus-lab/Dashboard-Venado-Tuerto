@@ -28,6 +28,12 @@ const PIPELINE = [
   'process-documentacion-cdr.cjs',
   'process-comisiones-vecinales.cjs',
   'process-elecciones-vecinales.cjs',
+  // Hacienda y Economía
+  'process-balances-tesoreria.cjs',
+  'process-habilitaciones-comerciales.cjs',
+  'process-establecimientos-comerciales.cjs',
+  'process-conecta-empleo.cjs',
+  'process-hogares-convivencia.cjs',
   // ── Datos externos filtrados a Venado Tuerto ──
   'process-padron-educativo-vt.cjs',
   'process-censo-2022-vt.cjs',

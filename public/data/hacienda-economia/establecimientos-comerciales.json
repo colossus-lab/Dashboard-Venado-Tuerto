@@ -1,0 +1,357 @@
+{
+  "meta": {
+    "id": "hacienda-economia/establecimientos-comerciales",
+    "title": "Establecimientos Comerciales Habilitados",
+    "category": "hacienda-economia",
+    "description": "Padrón de establecimientos comerciales con habilitación municipal vigente o histórica: titular, nombre comercial, ubicación, rubros y período de vigencia.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/dataset/establecimientos-comerciales-habilitados",
+    "license": "Open Data Commons Attribution License",
+    "last_updated": "2026-03-30T16:46:41.438225",
+    "organization": "Desarrollo productivo"
+  },
+  "kpis": [
+    {
+      "id": "total",
+      "label": "Establecimientos habilitados",
+      "value": 2365,
+      "formatted": "2.365",
+      "unit": "comercios"
+    },
+    {
+      "id": "barrios",
+      "label": "Barrios con actividad",
+      "value": 30,
+      "formatted": "30",
+      "hint": "Distribución territorial del comercio."
+    },
+    {
+      "id": "rubros",
+      "label": "Rubros distintos",
+      "value": 803,
+      "formatted": "803",
+      "hint": "Diversidad de actividades comerciales."
+    },
+    {
+      "id": "vigentes",
+      "label": "Habilitaciones vigentes",
+      "value": 94.84143763213531,
+      "formatted": "94,8%",
+      "status": "good",
+      "hint": "2.243 de 2.365 con vencimiento posterior a hoy."
+    }
+  ],
+  "charts": [
+    {
+      "id": "top-barrios",
+      "type": "horizontalBar",
+      "title": "Establecimientos por barrio (top 15)",
+      "subtitle": "Distribución territorial: barrios con mayor concentración comercial.",
+      "data": [
+        {
+          "barrio": "Centro 1",
+          "establecimientos": 632
+        },
+        {
+          "barrio": "Centro 2",
+          "establecimientos": 409
+        },
+        {
+          "barrio": "Norte",
+          "establecimientos": 151
+        },
+        {
+          "barrio": "Centro 3",
+          "establecimientos": 136
+        },
+        {
+          "barrio": "Rivadavia",
+          "establecimientos": 134
+        },
+        {
+          "barrio": "San José Obrero",
+          "establecimientos": 107
+        },
+        {
+          "barrio": "San Cayetano",
+          "establecimientos": 63
+        },
+        {
+          "barrio": "Malvinas Argentinas",
+          "establecimientos": 49
+        },
+        {
+          "barrio": "Gral San Martín",
+          "establecimientos": 47
+        },
+        {
+          "barrio": "Belgrano",
+          "establecimientos": 41
+        },
+        {
+          "barrio": "Ciudad Nueva",
+          "establecimientos": 38
+        },
+        {
+          "barrio": "Iturbide",
+          "establecimientos": 34
+        },
+        {
+          "barrio": "Victoria",
+          "establecimientos": 33
+        },
+        {
+          "barrio": "El Cruce",
+          "establecimientos": 25
+        },
+        {
+          "barrio": "San Vicente",
+          "establecimientos": 25
+        }
+      ],
+      "config": {
+        "indexBy": "barrio",
+        "keys": [
+          "establecimientos"
+        ]
+      }
+    },
+    {
+      "id": "top-rubros",
+      "type": "horizontalBar",
+      "title": "Rubros más frecuentes (top 15)",
+      "subtitle": "Actividades comerciales con más habilitaciones registradas.",
+      "data": [
+        {
+          "rubro": "DESPENSA",
+          "establecimientos": 125
+        },
+        {
+          "rubro": "VENTA DE PRENDAS DE VESTIR",
+          "establecimientos": 113
+        },
+        {
+          "rubro": "DEPOSITO",
+          "establecimientos": 99
+        },
+        {
+          "rubro": "KIOSCO",
+          "establecimientos": 71
+        },
+        {
+          "rubro": "OFICINA",
+          "establecimientos": 70
+        },
+        {
+          "rubro": "PERFUMERIA",
+          "establecimientos": 48
+        },
+        {
+          "rubro": "ELECTRICISTA",
+          "establecimientos": 45
+        },
+        {
+          "rubro": "CARNICERIA",
+          "establecimientos": 40
+        },
+        {
+          "rubro": "GASTRONOMICO SIMPLE - BAR",
+          "establecimientos": 39
+        },
+        {
+          "rubro": "AGENCIA DE LOTERIA",
+          "establecimientos": 38
+        },
+        {
+          "rubro": "FARMACIA",
+          "establecimientos": 34
+        },
+        {
+          "rubro": "VENTA DE CALZADOS",
+          "establecimientos": 33
+        },
+        {
+          "rubro": "SALON DE EVENTOS",
+          "establecimientos": 32
+        },
+        {
+          "rubro": "FERRETERIA",
+          "establecimientos": 32
+        },
+        {
+          "rubro": "PELUQUERIA",
+          "establecimientos": 32
+        }
+      ],
+      "config": {
+        "indexBy": "rubro",
+        "keys": [
+          "establecimientos"
+        ]
+      }
+    }
+  ],
+  "tables": [
+    {
+      "id": "ranking-barrios",
+      "title": "Top 25 barrios por cantidad de establecimientos",
+      "columns": [
+        "#",
+        "Barrio",
+        "Establecimientos",
+        "Porcentaje"
+      ],
+      "rows": [
+        [
+          "1",
+          "Centro 1",
+          "632",
+          "26,7%"
+        ],
+        [
+          "2",
+          "Centro 2",
+          "409",
+          "17,3%"
+        ],
+        [
+          "3",
+          "Norte",
+          "151",
+          "6,4%"
+        ],
+        [
+          "4",
+          "Centro 3",
+          "136",
+          "5,8%"
+        ],
+        [
+          "5",
+          "Rivadavia",
+          "134",
+          "5,7%"
+        ],
+        [
+          "6",
+          "San José Obrero",
+          "107",
+          "4,5%"
+        ],
+        [
+          "7",
+          "San Cayetano",
+          "63",
+          "2,7%"
+        ],
+        [
+          "8",
+          "Malvinas Argentinas",
+          "49",
+          "2,1%"
+        ],
+        [
+          "9",
+          "Gral San Martín",
+          "47",
+          "2,0%"
+        ],
+        [
+          "10",
+          "Belgrano",
+          "41",
+          "1,7%"
+        ],
+        [
+          "11",
+          "Ciudad Nueva",
+          "38",
+          "1,6%"
+        ],
+        [
+          "12",
+          "Iturbide",
+          "34",
+          "1,4%"
+        ],
+        [
+          "13",
+          "Victoria",
+          "33",
+          "1,4%"
+        ],
+        [
+          "14",
+          "El Cruce",
+          "25",
+          "1,1%"
+        ],
+        [
+          "15",
+          "San Vicente",
+          "25",
+          "1,1%"
+        ],
+        [
+          "16",
+          "Juan XXIII",
+          "18",
+          "0,8%"
+        ],
+        [
+          "17",
+          "Pcias Unidas",
+          "17",
+          "0,7%"
+        ],
+        [
+          "18",
+          "Parque Industrial",
+          "15",
+          "0,6%"
+        ],
+        [
+          "19",
+          "Güemes",
+          "14",
+          "0,6%"
+        ],
+        [
+          "20",
+          "Villa Casey",
+          "11",
+          "0,5%"
+        ],
+        [
+          "21",
+          "Tiro Federal",
+          "10",
+          "0,4%"
+        ],
+        [
+          "22",
+          "Cayetano Silva",
+          "8",
+          "0,3%"
+        ],
+        [
+          "23",
+          "Favaloro",
+          "7",
+          "0,3%"
+        ],
+        [
+          "24",
+          "Santa Fe",
+          "7",
+          "0,3%"
+        ],
+        [
+          "25",
+          "Gutierrez",
+          "5",
+          "0,2%"
+        ]
+      ]
+    }
+  ]
+}

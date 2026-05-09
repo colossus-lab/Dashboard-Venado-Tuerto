@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "id": "hacienda-economia/balances-tesoreria",
+    "title": "Balances de Tesorería",
+    "category": "hacienda-economia",
+    "description": "Balances mensuales de tesorería del Municipio de Venado Tuerto: ingresos por concepto, egresos por destino, saldos disponibles y variaciones, año por año desde 2020.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/dataset/balances-de-tesoreria",
+    "license": "Creative Commons Attribution",
+    "last_updated": "2026-04-02T11:01:39.079333",
+    "organization": "Desarrollo económico"
+  },
+  "kpis": [
+    {
+      "id": "ingresos-anio",
+      "label": "Ingresos 2025",
+      "value": 0,
+      "formatted": "$ 0",
+      "hint": "Recaudación tributaria, coparticipación e ingresos no tributarios."
+    },
+    {
+      "id": "egresos-anio",
+      "label": "Egresos 2025",
+      "value": 0,
+      "formatted": "$ 0",
+      "hint": "Sueldos, bienes, servicios y obras."
+    },
+    {
+      "id": "saldo-final",
+      "label": "Disponibilidades al cierre 2025",
+      "value": 0,
+      "formatted": "$ 0",
+      "hint": "Caja + bancos + plazos fijos + inversiones al final del ejercicio."
+    },
+    {
+      "id": "var-ingresos",
+      "label": "Variación interanual ingresos",
+      "value": -100,
+      "formatted": "-100,0%",
+      "status": "warning",
+      "hint": "Comparado con 2024."
+    }
+  ],
+  "charts": [
+    {
+      "id": "ingresos-vs-egresos-anio",
+      "type": "line",
+      "title": "Ingresos y egresos anuales",
+      "subtitle": "Evolución del flujo de caja anual (2020–2025).",
+      "data": [
+        {
+          "anio": "2020",
+          "Ingresos": 1928580085,
+          "Egresos": 1835260758
+        },
+        {
+          "anio": "2021",
+          "Ingresos": 3176262626,
+          "Egresos": 2926728519
+        },
+        {
+          "anio": "2022",
+          "Ingresos": 5943267142,
+          "Egresos": 5085020225
+        },
+        {
+          "anio": "2023",
+          "Ingresos": 12554998428,
+          "Egresos": 10719392939
+        },
+        {
+          "anio": "2024",
+          "Ingresos": 35961221667,
+          "Egresos": 30908846853
+        },
+        {
+          "anio": "2025",
+          "Ingresos": 0,
+          "Egresos": 0
+        }
+      ],
+      "config": {
+        "indexBy": "anio",
+        "keys": [
+          "Ingresos",
+          "Egresos"
+        ]
+      }
+    },
+    {
+      "id": "saldo-anio",
+      "type": "bar",
+      "title": "Disponibilidades al cierre por año",
+      "subtitle": "Saldo total de caja, bancos, plazos fijos e inversiones al 31 de diciembre.",
+      "data": [
+        {
+          "anio": "2020",
+          "saldo": 181646322
+        },
+        {
+          "anio": "2021",
+          "saldo": 399963307
+        },
+        {
+          "anio": "2022",
+          "saldo": 1278124463
+        },
+        {
+          "anio": "2023",
+          "saldo": 3121293032
+        },
+        {
+          "anio": "2024",
+          "saldo": 8104225710
+        },
+        {
+          "anio": "2025",
+          "saldo": 0
+        }
+      ],
+      "config": {
+        "indexBy": "anio",
+        "keys": [
+          "saldo"
+        ]
+      }
+    }
+  ],
+  "tables": []
+}

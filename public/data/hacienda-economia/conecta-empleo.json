@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "id": "hacienda-economia/conecta-empleo",
+    "title": "Capacitaciones Conecta Empleo",
+    "category": "hacienda-economia",
+    "description": "Programa Conecta Empleo: capacitaciones laborales y técnicas articuladas por la Secretaría de Desarrollo Productivo con empresas y organismos del medio para mejorar la empleabilidad.",
+    "source": "https://datos-abiertos.venadotuerto.gob.ar/dataset/capacitaciones-conecta-empleo",
+    "license": "Open Data Commons Attribution License",
+    "last_updated": "2026-03-31T17:26:13.892006",
+    "organization": "Desarrollo productivo"
+  },
+  "kpis": [
+    {
+      "id": "total-capacitados",
+      "label": "Capacitados",
+      "value": 2054,
+      "formatted": "2.054",
+      "unit": "personas",
+      "hint": "Suma de inscripciones (una persona puede aparecer en varios cursos)."
+    },
+    {
+      "id": "capacitaciones-distintas",
+      "label": "Capacitaciones distintas",
+      "value": 92,
+      "formatted": "92",
+      "hint": "Diversidad del catálogo de cursos."
+    },
+    {
+      "id": "pct-mujeres",
+      "label": "Mujeres capacitadas",
+      "value": 43.086660175267774,
+      "formatted": "43,1%",
+      "hint": "885 de 2.054 con género declarado."
+    },
+    {
+      "id": "instituciones",
+      "label": "Instituciones articuladoras",
+      "value": 31,
+      "formatted": "31",
+      "hint": "Empresas u organismos que articulan capacitaciones."
+    }
+  ],
+  "charts": [
+    {
+      "id": "capacitados-anio",
+      "type": "area",
+      "title": "Capacitados por año",
+      "subtitle": "Evolución del programa Conecta Empleo en cantidad de personas alcanzadas.",
+      "data": [
+        {
+          "anio": "2020",
+          "capacitados": 360
+        },
+        {
+          "anio": "2021",
+          "capacitados": 532
+        },
+        {
+          "anio": "2022",
+          "capacitados": 489
+        },
+        {
+          "anio": "2023",
+          "capacitados": 255
+        },
+        {
+          "anio": "2024",
+          "capacitados": 167
+        },
+        {
+          "anio": "2025",
+          "capacitados": 251
+        }
+      ],
+      "config": {
+        "indexBy": "anio",
+        "keys": [
+          "capacitados"
+        ]
+      }
+    },
+    {
+      "id": "genero",
+      "type": "pie",
+      "title": "Capacitados por género",
+      "subtitle": "Participación femenina y masculina en el programa.",
+      "data": [
+        {
+          "id": "Femenino",
+          "label": "Femenino",
+          "value": 885
+        },
+        {
+          "id": "Masculino",
+          "label": "Masculino",
+          "value": 1169
+        }
+      ],
+      "config": {}
+    },
+    {
+      "id": "top-capacitaciones",
+      "type": "horizontalBar",
+      "title": "Capacitaciones con mayor convocatoria (top 12)",
+      "subtitle": "Cursos con más participantes en el período.",
+      "data": [
+        {
+          "capacitacion": "OPERARIO DE PLANTA",
+          "capacitados": 85
+        },
+        {
+          "capacitacion": "Marketing Digital",
+          "capacitados": 77
+        },
+        {
+          "capacitacion": "EXCEL BASICO",
+          "capacitados": 70
+        },
+        {
+          "capacitacion": "OPERARIO DE CAMPO",
+          "capacitados": 65
+        },
+        {
+          "capacitacion": "Conducción Segura en Autoelevadores",
+          "capacitados": 60
+        },
+        {
+          "capacitacion": "MECANICA BASICA",
+          "capacitados": 56
+        },
+        {
+          "capacitacion": "EXCEL AVANZADO",
+          "capacitados": 55
+        },
+        {
+          "capacitacion": "Curso Eletromecanica",
+          "capacitados": 53
+        },
+        {
+          "capacitacion": "LIQUIDACION  DE SUELDOS",
+          "capacitados": 50
+        },
+        {
+          "capacitacion": "SUSPENSIÓN Y DIRECCIÓN",
+          "capacitados": 49
+        },
+        {
+          "capacitacion": "ELECTRICIDAD DEL AUTOMOTOR",
+          "capacitados": 49
+        },
+        {
+          "capacitacion": "Mantemiento de equipos informáticos",
+          "capacitados": 48
+        }
+      ],
+      "config": {
+        "indexBy": "capacitacion",
+        "keys": [
+          "capacitados"
+        ]
+      }
+    }
+  ],
+  "tables": []
+}
