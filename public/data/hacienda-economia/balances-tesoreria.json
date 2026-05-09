@@ -12,32 +12,32 @@
   "kpis": [
     {
       "id": "ingresos-anio",
-      "label": "Ingresos 2025",
-      "value": 0,
-      "formatted": "$ 0",
+      "label": "Ingresos 2024",
+      "value": 35961221667,
+      "formatted": "$ 35.961.221.667",
       "hint": "Recaudación tributaria, coparticipación e ingresos no tributarios."
     },
     {
       "id": "egresos-anio",
-      "label": "Egresos 2025",
-      "value": 0,
-      "formatted": "$ 0",
+      "label": "Egresos 2024",
+      "value": 30908846853,
+      "formatted": "$ 30.908.846.853",
       "hint": "Sueldos, bienes, servicios y obras."
     },
     {
       "id": "saldo-final",
-      "label": "Disponibilidades al cierre 2025",
-      "value": 0,
-      "formatted": "$ 0",
+      "label": "Disponibilidades al cierre 2024",
+      "value": 8104225710,
+      "formatted": "$ 8.104.225.710",
       "hint": "Caja + bancos + plazos fijos + inversiones al final del ejercicio."
     },
     {
       "id": "var-ingresos",
       "label": "Variación interanual ingresos",
-      "value": -100,
-      "formatted": "-100,0%",
-      "status": "warning",
-      "hint": "Comparado con 2024."
+      "value": 186.4,
+      "formatted": "186,4%",
+      "status": "good",
+      "hint": "Comparado con 2023."
     }
   ],
   "charts": [
@@ -45,7 +45,7 @@
       "id": "ingresos-vs-egresos-anio",
       "type": "line",
       "title": "Ingresos y egresos anuales",
-      "subtitle": "Evolución del flujo de caja anual (2020–2025).",
+      "subtitle": "Evolución del flujo de caja anual (2020–2024).",
       "data": [
         {
           "anio": "2020",
@@ -121,6 +121,81 @@
         "indexBy": "anio",
         "keys": [
           "saldo"
+        ]
+      }
+    },
+    {
+      "id": "mensual-ultimo-anio",
+      "type": "area",
+      "title": "Flujo mensual 2024",
+      "subtitle": "Ingresos y egresos mes a mes durante el último año.",
+      "data": [
+        {
+          "mes": "Ene",
+          "Ingresos": 2167193681,
+          "Egresos": 1526833615
+        },
+        {
+          "mes": "Feb",
+          "Ingresos": 2701119314,
+          "Egresos": 1574807073
+        },
+        {
+          "mes": "Mar",
+          "Ingresos": 2067064507,
+          "Egresos": 1903566098
+        },
+        {
+          "mes": "Abr",
+          "Ingresos": 3296803739,
+          "Egresos": 2483208549
+        },
+        {
+          "mes": "May",
+          "Ingresos": 2563193628,
+          "Egresos": 2281788020
+        },
+        {
+          "mes": "Jun",
+          "Ingresos": 3014127452,
+          "Egresos": 2976138373
+        },
+        {
+          "mes": "Jul",
+          "Ingresos": 3450225108,
+          "Egresos": 2926866065
+        },
+        {
+          "mes": "Ago",
+          "Ingresos": 2886554611,
+          "Egresos": 3036015011
+        },
+        {
+          "mes": "Sep",
+          "Ingresos": 3235471333,
+          "Egresos": 2890922934
+        },
+        {
+          "mes": "Oct",
+          "Ingresos": 3756607017,
+          "Egresos": 2800848021
+        },
+        {
+          "mes": "Nov",
+          "Ingresos": 3148926994,
+          "Egresos": 3015665858
+        },
+        {
+          "mes": "Dic",
+          "Ingresos": 3673934283,
+          "Egresos": 3492187237
+        }
+      ],
+      "config": {
+        "indexBy": "mes",
+        "keys": [
+          "Ingresos",
+          "Egresos"
         ]
       }
     }

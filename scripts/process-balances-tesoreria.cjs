@@ -91,8 +91,11 @@ function run() {
   }
 
   const yearsSorted = Object.keys(porAnio).map(Number).sort((a, b) => a - b);
-  const lastYear = yearsSorted[yearsSorted.length - 1];
-  const prevYear = yearsSorted[yearsSorted.length - 2];
+  // Usar como "último año" el más reciente con datos reales (algunos archivos
+  // del año en curso pueden no tener filas TOTAL todavía).
+  const yearsConDatos = yearsSorted.filter((y) => (porAnio[y].ingresos || 0) > 0 || (porAnio[y].egresos || 0) > 0);
+  const lastYear = yearsConDatos[yearsConDatos.length - 1] || yearsSorted[yearsSorted.length - 1];
+  const prevYear = yearsConDatos[yearsConDatos.length - 2];
 
   console.log(`    años: ${yearsSorted.join(', ')}`);
 
